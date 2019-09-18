@@ -66,6 +66,7 @@
 | Николай Тимченко                   | Backend Developer                       |
 | Клeсс Антoн                        | IT Asset Manager                        |
 | Чекан Евгений                      | Lead Back-end Developer                 |
+| Кравцова Валерия                   | Fullstack developer, NetUP LLC          |
 | Лукьянчиков Максим                 | Frontend developer                      |
 | Гуля Илья                          | Android Developer, Yandex               |
 | Рыков Михаил                       | Principal Software Engineer, Dell EMC, г. Санкт-Петербург|
@@ -85,3 +86,4 @@
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
 | Багиров Эльшан                     | Backend developer                       |
+
