@@ -75,6 +75,8 @@
 | Чалмаев Андрей                     | админ                                   |
 | Лопатин Виктор                     | Software Developer, Ayoxxa              |
 | Суслов Алексей                     | Инженер-программист, Eltex              |
+| Антон Лазовский                    | Software Engineer, ActiveBC             |
+| Борис Чирва                        | Инженер-программист, г. Екатеринбург    |
 | Александров Владимир               | Backend Developer, Waves                |
 | Константин Лёвин                   | Verification Engineer                   |
 | Суслов Алексей                     | Инженер-программист, Eltex              |
@@ -90,8 +92,23 @@
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
 | Мендяев Николай                    | Tech Lead, Tarantool + Mediazona        |
+| Косулин Михаил                     | CTO                                     |
+| Тимошевский Пётр                   | Fullstack developer                     |
+| Скляров Никита                     | Software Engineer                       |
+| Павлов Никита                      | Senior Software Engineer, NetCracker    |
+| Баранов Кирилл                     | Web-developer                           |
+| Валерий Рябошапко                  | Backend Developer, Luka, Inc.           |
+| Кубота Иван                        | Chief Technology Officer                |
+| Антонов Денис                      | Middle Python Developer, CS.Money       |
+| Алексей Маслаков                   | Frontend developer                      |
+| Дмитрий Гудков                     | Backend Developer, Москва               |
+| Артур Станкевич                    | Программист, Самара                     |
+| Даниэль Гинсбург                   | Network Architect                       |
+| Орешников Иван                     | Research Engineer, Max Planck Institute |
 | Алексей Алишевских                 | Software Engineer, Vound Software       | 
 | Тимофей Николаев                   | Аналитик, Яндекс                        |
 | Константин Емельянов               | Developer, NetUP                        |
 | Багиров Эльшан                     | Backend developer                       |
+| Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
+| Романченко Андрей                  | Программист 1С, Москва                  |
