@@ -109,3 +109,4 @@
 | Константин Емельянов               | Developer, NetUP                        |
 | Багиров Эльшан                     | Backend developer                       |
 | Сергей Николаев                    | Fullstack Developer                     |
+| Кирилл Книзе                       | Старший эксперт-программист, T-Systems  |
