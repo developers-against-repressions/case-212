@@ -64,3 +64,4 @@
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Федосеева Анна                     | Frontend developer                      |
 | Чекан Евгений                      | Lead Back-end Developer                 |
+| Кравцова Валерия                   | Fullstack developer, NetUP LLC          |
