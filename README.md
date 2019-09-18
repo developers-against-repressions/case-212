@@ -89,3 +89,4 @@
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
 | Багиров Эльшан                     | Backend developer                       |
+| Сергей Николаев                    | Fullstack Developer                     |
