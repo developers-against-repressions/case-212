@@ -92,6 +92,7 @@
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
 | Валерий Рябошапко                  | Backend Developer, Luka, Inc.           |
+| Кубота Иван                        | Chief Technology Officer                |
 | Антонов Денис                      | Middle Python Developer, CS.Money       |
 | Алексей Маслаков                   | Frontend developer                      |
 | Дмитрий Гудков                     | Backend Developer, Москва               |
