@@ -97,3 +97,4 @@
 | Константин Емельянов               | Developer, NetUP                        |
 | Багиров Эльшан                     | Backend developer                       |
 | Сергей Николаев                    | Fullstack Developer                     |
+| Давид Френкель                     | Fullstack Developer                     |
