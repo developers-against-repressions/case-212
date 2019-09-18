@@ -84,6 +84,7 @@
 | Александр Анохин                   | Lead Developer, г. Москва               |
 | Вячеслав Ембатуров                 | Software Developer                      |
 | Сустретов Максим                   | Backend developer                       |
+| Шуршев Андрей                      | Backend developer                       |
 | Домрачев Роман                     | Head of Development                     |
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
