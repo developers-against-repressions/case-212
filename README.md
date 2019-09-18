@@ -65,3 +65,4 @@
 | Чалмаев Андрей                     | админ                                   |
 | Суслов Алексей                     | Инженер-программист, Eltex              |
 | Антон Лазовский                    | Software Engineer, ActiveBC             |
+| Алексей Гриднев                    | Senior QA engineer, NVIDIA              |
