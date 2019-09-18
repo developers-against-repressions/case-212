@@ -129,5 +129,6 @@
 | Давид Френкель                     | Fullstack Developer                     |
 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
 | Дмитрий Гроза                      | Data Analyst .                          |
+| Айдар Ибатуллин                    | Frontend developer                      |
 | Педан Сергей                       | Fullstack developer, Москва             |
 | Романченко Андрей                  | Программист 1С, Москва                  |
