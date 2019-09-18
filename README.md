@@ -149,10 +149,14 @@
 | Василий Вавилов                    | Разработчик, Душанбе .                  |
 | Дмитрий Скрыльников                | Frontend Developer, Vigo                |
 | Александр Давронов                 | Software Engineer                       |
+| Vadik Sirekanyan                   | Senior Android Developer, Москва        |
 | Станислав Стаценко                 | Программист, МФТИ, Москва               |
 | Айдар Ибатуллин                    | Frontend developer                      |
 | Педан Сергей                       | Fullstack developer, Москва             |
 | Романченко Андрей                  | Программист 1С, Москва                  |
+| Ермолаев Илья                      | Fullstack Developer, Москва             |
+| Алексей Пыльцын                    | Веб-разработчик, Ростов-на-Дону         |
+| Козловский Андрей                  | Software Engineer, Санкт-Петербург      |
 | Евгений Хайдуков                   | IT Manager, Краснодар
 | Мишакин Михаил                     | Senior Software Developer, Direct Line  |
 | Аблеев Сергей                      | Fullstack developer, г. Екатеринбург    |
@@ -173,3 +177,4 @@
 | Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
 | Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
 | Ничипоренко Денис                  | Backend Developer                       |
+| Соломатин Роман                    | Программист, Пермь                      |
