@@ -60,3 +60,5 @@
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Алексей Алишевских                 | Software Engineer, Vound Software       |
+| Федосеева Анна                     | Frontend developer                      |
+| Чекан Евгений                      | Lead Back-end Developer                 |
