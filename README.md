@@ -149,6 +149,7 @@
 | Василий Вавилов                    | Разработчик, Душанбе .                  |
 | Дмитрий Скрыльников                | Frontend Developer, Vigo                |
 | Александр Давронов                 | Software Engineer                       |
+| Vadik Sirekanyan                   | Senior Android Developer, Москва        |
 | Станислав Стаценко                 | Программист, МФТИ, Москва               |
 | Айдар Ибатуллин                    | Frontend developer                      |
 | Педан Сергей                       | Fullstack developer, Москва             |
