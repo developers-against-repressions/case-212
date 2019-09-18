@@ -56,7 +56,7 @@
 | Андрей Шишкин                      | Lead System Engineer                    |
 | Антон Щербаков                     | Backend Developer                       |
 | Дмитрий Богомолов                  | Developer                               |
-| Михаил Кольцов                     | Backend Developer, ЦТБ                  |
+| Кольцов Михаил                     | Backend Developer, ЦТБ                  |
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
 | Хатин Константин                   | Backend developer                       |
 | Кривоносов Георгий                 | Fullstack Developer, SoftBand           |
@@ -70,7 +70,6 @@
 | Гуля Илья                          | Android Developer, Yandex               |
 | Рыков Михаил                       | Principal Software Engineer, Dell EMC, г. Санкт-Петербург|
 | Макс Янков                         | CTO                                     |
-| Максим Васенков                    | Ведущий программист, Этерон, г. Смоленск |
 | Чалмаев Андрей                     | админ                                   |
 | Лопатин Виктор                     | Software Developer, Ayoxxa              |
 | Суслов Алексей                     | Инженер-программист, Eltex              |
@@ -116,6 +115,7 @@
 | Петрухин Павел                     | Backend developer, Москва               |
 | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
+| Яковлева Юлия                      | Разработчица, Yandex                    |
 | Александр Тучков                   | Независимый консультант                 |
 | Банных Роман                       | Backend Developer                       |
 | Андрей Янгабышев                   | Software Developer, г. Москва           |
