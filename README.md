@@ -152,9 +152,7 @@
 | Айдар Ибатуллин                    | Frontend developer                      |
 | Педан Сергей                       | Fullstack developer, Москва             |
 | Романченко Андрей                  | Программист 1С, Москва                  |
-| Андрей Максимов                    | Software Engineer, Quantori             |
-| Барышников Константин              | Fullstack developer, Москва             |
-| Евгений Вайс                       | Senior Software Engineer, EPAM Systems  |
 | Лошаков Никита                     | Tech Lead                               |
 | Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
 | Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
+| Орлова Ксения                      | координатор open data проектов, Москва  |
