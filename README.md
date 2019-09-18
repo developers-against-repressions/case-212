@@ -109,6 +109,7 @@
 | Тимофей Николаев                   | Аналитик, Яндекс                        |
 | Константин Емельянов               | Developer, NetUP                        |
 | Багиров Эльшан                     | Backend developer                       |
+| Кочергин Владимир                  | Backend developer                       |
 | Сметанин Антон                     | Game developer                          |
 | Петрухин Павел                     | Backend developer, Москва               |
 | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
