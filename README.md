@@ -63,6 +63,7 @@
 | Федосеева Анна                     | Frontend developer                      |
 | Клeсс Антoн                        | IT Asset Manager                        |
 | Чекан Евгений                      | Lead Back-end Developer                 |
+| Рыков Михаил                       | Principal Software Engineer, Dell EMC, г. Санкт-Петербург|
 | Макс Янков                         | CTO                                     |
 | Чалмаев Андрей                     | админ                                   |
 | Суслов Алексей                     | Инженер-программист, Eltex              |
