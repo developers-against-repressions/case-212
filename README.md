@@ -117,6 +117,7 @@
 | Петрухин Павел                     | Backend developer, Москва               |
 | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
+| Бакиров Марат                      | Tech lead, ParusInvest, Москва          |
 | Курносов Михаил                    | Software Developer                      |
 | Кирилл Книзе                       | Старший эксперт-программист, T-Systems  |
 | Яковлева Юлия                      | Разработчица, Yandex                    |
