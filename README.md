@@ -117,6 +117,7 @@
 | Петрухин Павел                     | Backend developer, Москва               |
 | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
+| Самовилов Дмитрий                  | Developer                               |
 | Шитов Артём                        | QA, Медиалогия                          |
 | Куватов Денис                      | Game developer, Москва                  |
 | Бакиров Марат                      | Tech lead, ParusInvest, Москва          |
@@ -129,6 +130,22 @@
 | Давид Френкель                     | Fullstack Developer                     |
 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
 | Дмитрий Гроза                      | Data Analyst .                          |
+| Сёмов Руслан                       | Senior DevOps Engineer, dlg.im          |
+| Артём Попов                        | Software Engineer                       |
+| Бухвалова Юлия                     | Frontend developer, LiveJournal         |
+| Ялунин Александр                   | Backend Developer                       |
+| Алина Ковтун                       | FrontEnd Developer, Nativeroll, СПб     |
+| Зайцев Дмитрий                     | Android developer                       |
+| Альберт Фазуллин                   | Software Engineer, Казань               |
+| Курлов Дмитрий                     | Фрилансер                               |
+| Середа Евгений                     | Senior system analyst, г. Орёл          |
+| Докучаев Иван                      | Linux Ops/Support, "Мегабайт"   |
+| Гольд Никита                       | Backend Developer, Москва               |
+| Серебрянский Константин            | Fullstack Developer, Osome + Mediazona, Москва|
+| Макаров Александр                  | Старший разработчик, Москва             |
+| Иванов Виталий                     | CTO, Москва                             |
+| Темнов Александр                   | Менеджер Проектов, Москва               | 
+| Василий Вавилов                    | Разработчик, Душанбе .                  |
 | Дмитрий Скрыльников                | Frontend Developer, Vigo                |
 | Александр Давронов                 | Software Engineer                       |
 | Станислав Стаценко                 | Программист, МФТИ, Москва               |
@@ -136,3 +153,7 @@
 | Педан Сергей                       | Fullstack developer, Москва             |
 | Романченко Андрей                  | Программист 1С, Москва                  |
 | Барышников Константин              | Fullstack developer, Москва             |
+| Евгений Вайс                       | Senior Software Engineer, EPAM Systems  |
+| Лошаков Никита                     | Tech Lead                               |
+| Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
+| Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
