@@ -117,7 +117,6 @@
 | Петрухин Павел                     | Backend developer, Москва               |
 | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
-| Самовилов Дмитрий                  | Developer                               |
 | Шитов Артём                        | QA, Медиалогия                          |
 | Куватов Денис                      | Game developer, Москва                  |
 | Бакиров Марат                      | Tech lead, ParusInvest, Москва          |
@@ -130,6 +129,8 @@
 | Давид Френкель                     | Fullstack Developer                     |
 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
 | Дмитрий Гроза                      | Data Analyst .                          |
+| Быков Владимир                     | Frontend developer                      |
+| Левицкая Анастасия                 | Художник                                |
 | Сёмов Руслан                       | Senior DevOps Engineer, dlg.im          |
 | Артём Попов                        | Software Engineer                       |
 | Бухвалова Юлия                     | Frontend developer, LiveJournal         |
@@ -151,5 +152,13 @@
 | Станислав Стаценко                 | Программист, МФТИ, Москва               |
 | Айдар Ибатуллин                    | Frontend developer                      |
 | Педан Сергей                       | Fullstack developer, Москва             |
-| Романченко Андрей                  | Программист 1С, Москва                  |
 | Шевченко Игорь                     | Тимлид, Antida software, Челябинск      |
+| Романченко Андрей                  | Программист 1С, Москва                  |
+| Чудеснов Александр                 | Разработчик интерфейсов, Wrike          |
+| Андрей Максимов                    | Software Engineer, Quantori             |
+| Барышников Константин              | Fullstack developer, Москва             |
+| Евгений Вайс                       | Senior Software Engineer, EPAM Systems  |
+| Лошаков Никита                     | Tech Lead                               |
+| Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
+| Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
+
