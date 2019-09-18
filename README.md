@@ -116,6 +116,7 @@
 | Петрухин Павел                     | Backend developer, Москва               |
 | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
+| Александр Тучков                   | Независимый консультант                 |
 | Банных Роман                       | Backend Developer                       |
 | Андрей Янгабышев                   | Software Developer, г. Москва           |
 | Давид Френкель                     | Fullstack Developer                     |
