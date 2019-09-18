@@ -153,6 +153,7 @@
 | Айдар Ибатуллин                    | Frontend developer                      |
 | Педан Сергей                       | Fullstack developer, Москва             |
 | Романченко Андрей                  | Программист 1С, Москва                  |
+| Дмитрий Назаров                    | Senior Developer, DataArt, Санкт-Петербург | 
 | Волков Кирилл                      | Software Engineer, г. Санкт-Петербург   |
 | Сикорский Алексей                  | Software Developer, Moscow              |
 | Батычко Ярослав                    | Backend Developer, Стрим                |
