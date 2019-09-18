@@ -81,6 +81,7 @@
 | Антон Лазовский                    | Software Engineer, ActiveBC             |
 | Алексей Гриднев                    | Senior QA engineer, NVIDIA              |
 | Руслан Магомедов                   | IT Engineer                             |
+| Александр Анохин                   | Lead Developer, г. Москва               |
 | Вячеслав Ембатуров                 | Software Developer                      |
 | Сустретов Максим                   | Backend developer                       |
 | Домрачев Роман                     | Head of Development                     |
