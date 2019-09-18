@@ -91,6 +91,7 @@
 | Домрачев Роман                     | Head of Development                     |
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
+| Баранов Кирилл                     | Web-developer                           |
 | Валерий Рябошапко                  | Backend Developer, Luka, Inc.           |
 | Кубота Иван                        | Chief Technology Officer                |
 | Антонов Денис                      | Middle Python Developer, CS.Money       |
