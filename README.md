@@ -37,4 +37,5 @@
 | Лобовикова Александра              | Fullstack разработчица, Namaste Technologies |
 | Любимов Илья                       | Chief People Officer, Serokell          |
 | Гейнц Роман                        | Fullstack разработчик                   |
+| Гарифулина Юлия                    | Software Developer, goTRG               |
 
