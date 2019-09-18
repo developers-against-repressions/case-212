@@ -114,3 +114,4 @@
 | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
 | Романченко Андрей                  | Программист 1С, Москва                  |
+| Бакиров Марат                      | Tech lead, ParusInvest, Москва          |
