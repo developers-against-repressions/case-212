@@ -56,7 +56,7 @@
 | Андрей Шишкин                      | Lead System Engineer                    |
 | Антон Щербаков                     | Backend Developer                       |
 | Дмитрий Богомолов                  | Developer                               |
-| Кольцов Михаил                     | Backend Developer, ЦТБ                  |
+| Михаил Кольцов                     | Backend Developer, ЦТБ                  |
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
 | Хатин Константин                   | Backend developer                       |
 | Кривоносов Георгий                 | Fullstack Developer, SoftBand           |
@@ -71,6 +71,7 @@
 | Рыков Михаил                       | Principal Software Engineer, Dell EMC, г. Санкт-Петербург|
 | Макс Янков                         | CTO                                     |
 | Чалмаев Андрей                     | админ                                   |
+| Константин Лёвин                   | Verification Engineer                   |
 | Суслов Алексей                     | Инженер-программист, Eltex              |
 | Антон Лазовский                    | Software Engineer, ActiveBC             |
 | Алексей Гриднев                    | Senior QA engineer, NVIDIA              |
