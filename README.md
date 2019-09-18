@@ -91,7 +91,6 @@
 | Домрачев Роман                     | Head of Development                     |
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
-| Косулин Михаил                     | CTO                                     |
 | Тимошевский Пётр                   | Fullstack developer                     |
 | Скляров Никита                     | Software Engineer                       |
 | Павлов Никита                      | Senior Software Engineer, NetCracker    |
@@ -108,7 +107,5 @@
 | Тимофей Николаев                   | Аналитик, Яндекс                        |
 | Константин Емельянов               | Developer, NetUP                        |
 | Багиров Эльшан                     | Backend developer                       |
-| Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
-| Романченко Андрей                  | Программист 1С, Москва                  |
-=======
+| Дубровский Николай                 | С++ Developer                           |
