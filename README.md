@@ -55,7 +55,8 @@
 | Шангин Александр                   | Lead Developer, г. Самара               |
 | Андрей Шишкин                      | Lead System Engineer                    |
 | Антон Щербаков                     | Backend Developer                       |
-| Михаил Кольцов                     | Backend Developer, ЦТБ                  |
+| Дмитрий Богомолов                  | Developer                               |
+| Кольцов Михаил                     | Backend Developer, ЦТБ                  |
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
 | Кривоносов Георгий                 | Fullstack Developer, SoftBand           |
 | Луконин Кирилл                     | Wireless Engineer                       |
