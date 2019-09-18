@@ -130,6 +130,7 @@
 | Давид Френкель                     | Fullstack Developer                     |
 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
 | Дмитрий Гроза                      | Data Analyst .                          |
+| Альберт Фазуллин                   | Software Engineer, Казань               |
 | Курлов Дмитрий                     | Фрилансер                               |
 | Середа Евгений                     | Senior system analyst, г. Орёл          |
 | Докучаев Иван                      | Linux Ops/Support, "Мегабайт"   |
