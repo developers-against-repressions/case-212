@@ -87,7 +87,6 @@
 | Александров Владимир               | Backend Developer, Waves                |
 | Константин Лёвин                   | Verification Engineer                   |
 | Суслов Алексей                     | Инженер-программист, Eltex              |
-| Антон Лазовский                    | Software Engineer, ActiveBC             |
 | Алексей Гриднев                    | Senior QA engineer, NVIDIA              |
 | Руслан Магомедов                   | IT Engineer                             |
 | Александр Анохин                   | Lead Developer, г. Москва               |
