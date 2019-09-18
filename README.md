@@ -54,11 +54,17 @@
 | Сергей Стремидло                   | Web Developer                           |
 | Шангин Александр                   | Lead Developer, г. Самара               |
 | Андрей Шишкин                      | Lead System Engineer                    |
-| Андрей Щербаков                    | Backend Developer                       |
-| Вячеслав Ембатуров                 | Software Developer                      |
 | Антон Щербаков                     | Backend Developer                       |
+| Михаил Кольцов                     | Backend Developer, ЦТБ                  |
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
+| Кривоносов Георгий                 | Fullstack Developer, SoftBand           |
 | Луконин Кирилл                     | Wireless Engineer                       |
-| Алексей Алишевских                 | Software Engineer, Vound Software       |
 | Федосеева Анна                     | Frontend developer                      |
 | Чекан Евгений                      | Lead Back-end Developer                 |
+| Макс Янков                         | CTO                                     |
+| Чалмаев Андрей                     | админ                                   |
+| Суслов Алексей                     | Инженер-программист, Eltex              |
+| Антон Лазовский                    | Software Engineer, ActiveBC             |
+| Алексей Гриднев                    | Senior QA engineer, NVIDIA              |
+| Руслан Магомедов                   | IT Engineer                             |
+| Вячеслав Ембатуров                 | Software Developer                      |
