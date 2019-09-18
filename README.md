@@ -62,7 +62,6 @@
 | Кривоносов Георгий                 | Fullstack Developer, SoftBand           |
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Федосеева Анна                     | Frontend developer                      |
-| Сметанин Антон                     | Game developer                          |
 | Николай Тимченко                   | Backend Developer                       |
 | Клeсс Антoн                        | IT Asset Manager                        |
 | Чекан Евгений                      | Lead Back-end Developer                 |
@@ -80,3 +79,4 @@
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
 | Багиров Эльшан                     | Backend developer                       |
+| Петрухин Павел                     | Backend developer, Москв                |
