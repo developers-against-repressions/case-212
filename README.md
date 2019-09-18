@@ -106,3 +106,4 @@
 | Константин Емельянов               | Developer, NetUP                        |
 | Багиров Эльшан                     | Backend developer                       |
 | Сергей Николаев                    | Fullstack Developer                     |
+| Самовилов Дмитрий                  | Developer                               |
