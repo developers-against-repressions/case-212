@@ -63,7 +63,6 @@
 | Кривоносов Георгий                 | Fullstack Developer, SoftBand           |
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Федосеева Анна                     | Frontend developer                      |
-| Сметанин Антон                     | Game developer                          |
 | Николай Тимченко                   | Backend Developer                       |
 | Клeсс Антoн                        | IT Asset Manager                        |
 | Чекан Евгений                      | Lead Back-end Developer                 |
@@ -91,7 +90,9 @@
 | Шуршев Андрей                      | Backend developer                       |
 | Домрачев Роман                     | Head of Development                     |
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
+| Травкин Пётр                       | Backend разработчик                     |
 | Краснов Николай                    | Программист 1С, Москва                  |
+| Антон Алфимов                      | Web developer, Mediazona                |
 | Мендяев Николай                    | Tech Lead, Tarantool + Mediazona        |
 | Косулин Михаил                     | CTO                                     |
 | Тимошевский Пётр                   | Fullstack developer                     |
@@ -110,7 +111,14 @@
 | Тимофей Николаев                   | Аналитик, Яндекс                        |
 | Константин Емельянов               | Developer, NetUP                        |
 | Багиров Эльшан                     | Backend developer                       |
+| Мамашин Николай                    | IT Engineer                             |
+| Кочергин Владимир                  | Backend developer                       |
+| Сметанин Антон                     | Game developer                          |
+| Петрухин Павел                     | Backend developer, Москва               |
 | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
+| Давид Френкель                     | Fullstack Developer                     |
+| Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
+| Дмитрий Гроза                      | Data Analyst .                          |
 | Романченко Андрей                  | Программист 1С, Москва                  |
 | Педан Сергей                       | Fullstack developer, Москва             |
