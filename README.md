@@ -54,8 +54,6 @@
 | Сергей Стремидло                   | Web Developer                           |
 | Шангин Александр                   | Lead Developer, г. Самара               |
 | Андрей Шишкин                      | Lead System Engineer                    |
-| Андрей Щербаков                    | Backend Developer                       |
-| Сергей Рощепкин                    | Software Engineer                       |
 | Антон Щербаков                     | Backend Developer                       |
 | Дмитрий Богомолов                  | Developer                               |
 | Михаил Кольцов                     | Backend Developer, ЦТБ                  |
@@ -64,3 +62,4 @@
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Федосеева Анна                     | Frontend developer                      |
 | Чекан Евгений                      | Lead Back-end Developer                 |
+| Макс Янков                         | CTO                                     |
