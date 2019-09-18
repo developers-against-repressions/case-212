@@ -205,3 +205,4 @@
 | Казаков Николай                    | Frontend Developer, Xena Exchange       |
 | Сергей Рощепкин                    | Software Engineer                       |
 | Антон Алфимов                      | Web developer, Mediazona                |
+| Марина Степанова                   | Технический менеджер, Яндекс            |
