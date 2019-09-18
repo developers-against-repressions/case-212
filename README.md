@@ -38,4 +38,5 @@
 | Любимов Илья                       | Chief People Officer, Serokell          |
 | Гейнц Роман                        | Fullstack разработчик                   |
 | Гарифулина Юлия                    | Software Developer, goTRG               |
+| Давыдов Максим                     | Senior Software Developer, Elama        |
 
