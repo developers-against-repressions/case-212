@@ -52,3 +52,4 @@
 | Дмитрий Лапшин                     | Software Engineer                       |
 | Овсянников Дмитрий                 | Product Owner, RCB LLC                  |
 | Сергей Стремидло                   | Web Developer                           |
+| Шангин Александр                   | Lead Developer, г. Самара               |
