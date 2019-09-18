@@ -97,3 +97,4 @@
 | Константин Емельянов               | Developer, NetUP                        |
 | Багиров Эльшан                     | Backend developer                       |
 | Сергей Николаев                    | Fullstack Developer                     |
+| Шитов Артём                        | QA, Медиалогия                          |
