@@ -56,5 +56,5 @@
 | Андрей Шишкин                      | Lead System Engineer                    |
 | Антон Щербаков                     | Backend Developer                       |
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
-| Луконин Кирилл                     | Wireless Engineer                       |
 | Суслов Алексей                     | Инженер-программист, Eltex              |
+| Луконин Кирилл                     | Wireless Engineer                       |
