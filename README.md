@@ -62,3 +62,4 @@
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Федосеева Анна                     | Frontend developer                      |
+| Рыков Михаил                       | Principal Software Engineer, Dell EMC, г. Санкт-Петербург|
