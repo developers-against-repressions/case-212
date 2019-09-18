@@ -83,5 +83,6 @@
 | Сустретов Максим                   | Backend developer                       |
 | Домрачев Роман                     | Head of Development                     |
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
+| Травкин Пётр                       | Backend разработчик                     |
 | Краснов Николай                    | Программист 1С, Москва                  |
 | Багиров Эльшан                     | Backend developer                       |
