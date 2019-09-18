@@ -66,6 +66,7 @@
 | Николай Тимченко                   | Backend Developer                       |
 | Клeсс Антoн                        | IT Asset Manager                        |
 | Чекан Евгений                      | Lead Back-end Developer                 |
+| Лукьянчиков Максим                 | Frontend developer                      |
 | Гуля Илья                          | Android Developer, Yandex               |
 | Рыков Михаил                       | Principal Software Engineer, Dell EMC, г. Санкт-Петербург|
 | Макс Янков                         | CTO                                     |
