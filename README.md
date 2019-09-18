@@ -61,6 +61,7 @@
 | Кривоносов Георгий                 | Fullstack Developer, SoftBand           |
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Федосеева Анна                     | Frontend developer                      |
+| Николай Тимченко                   | Backend Developer                       |
 | Клeсс Антoн                        | IT Asset Manager                        |
 | Чекан Евгений                      | Lead Back-end Developer                 |
 | Рыков Михаил                       | Principal Software Engineer, Dell EMC, г. Санкт-Петербург|
