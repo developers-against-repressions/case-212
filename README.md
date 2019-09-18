@@ -62,3 +62,4 @@
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Федосеева Анна                     | Frontend developer                      |
 | Антон Лазовский                    | Software Engineer, ActiveBC             |
+| Чекан Евгений                      | Lead Back-end Developer                 |
