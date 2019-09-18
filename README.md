@@ -56,13 +56,12 @@
 | Андрей Шишкин                      | Lead System Engineer                    |
 | Антон Щербаков                     | Backend Developer                       |
 | Дмитрий Богомолов                  | Developer                               |
-| Михаил Кольцов                     | Backend Developer, ЦТБ                  |
+| Кольцов Михаил                     | Backend Developer, ЦТБ                  |
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
 | Хатин Константин                   | Backend developer                       |
 | Кривоносов Георгий                 | Fullstack Developer, SoftBand           |
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Федосеева Анна                     | Frontend developer                      |
-| Сметанин Антон                     | Game developer                          |
 | Николай Тимченко                   | Backend Developer                       |
 | Клeсс Антoн                        | IT Asset Manager                        |
 | Чекан Евгений                      | Lead Back-end Developer                 |
@@ -71,7 +70,6 @@
 | Гуля Илья                          | Android Developer, Yandex               |
 | Рыков Михаил                       | Principal Software Engineer, Dell EMC, г. Санкт-Петербург|
 | Макс Янков                         | CTO                                     |
-| Максим Васенков                    | Ведущий программист, Этерон, г. Смоленск |
 | Чалмаев Андрей                     | админ                                   |
 | Лопатин Виктор                     | Software Developer, Ayoxxa              |
 | Суслов Алексей                     | Инженер-программист, Eltex              |
@@ -90,7 +88,10 @@
 | Шуршев Андрей                      | Backend developer                       |
 | Домрачев Роман                     | Head of Development                     |
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
+| Травкин Пётр                       | Backend разработчик                     |
 | Краснов Николай                    | Программист 1С, Москва                  |
+| Антон Алфимов                      | Web developer, Mediazona                |
+| Мендяев Николай                    | Tech Lead, Tarantool + Mediazona        |
 | Косулин Михаил                     | CTO                                     |
 | Тимошевский Пётр                   | Fullstack developer                     |
 | Скляров Никита                     | Software Engineer                       |
@@ -108,5 +109,19 @@
 | Тимофей Николаев                   | Аналитик, Яндекс                        |
 | Константин Емельянов               | Developer, NetUP                        |
 | Багиров Эльшан                     | Backend developer                       |
-| Сергей Николаев                    | Fullstack Developer                     |
 | Игорь Водка                        | Fullstack Developer                     |
+| Дубровский Николай                 | С++ Developer                           |
+| Мамашин Николай                    | IT Engineer                             |
+| Кочергин Владимир                  | Backend developer                       |
+| Сметанин Антон                     | Game developer                          |
+| Петрухин Павел                     | Backend developer, Москва               |
+| Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
+| Сергей Николаев                    | Fullstack Developer                     |
+| Яковлева Юлия                      | Разработчица, Yandex                    |
+| Александр Тучков                   | Независимый консультант                 |
+| Банных Роман                       | Backend Developer                       |
+| Андрей Янгабышев                   | Software Developer, г. Москва           |
+| Давид Френкель                     | Fullstack Developer                     |
+| Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
+| Дмитрий Гроза                      | Data Analyst .                          |
+| Романченко Андрей                  | Программист 1С, Москва                  |
