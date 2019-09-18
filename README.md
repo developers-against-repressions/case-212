@@ -181,3 +181,4 @@
 | Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
 | Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
 | Соломатин Роман                    | Программист, Пермь                      |
+| Aleksandr Nazaro                   | Software Engineer, New York City        |
