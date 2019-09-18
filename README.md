@@ -55,12 +55,18 @@
 | Шангин Александр                   | Lead Developer, г. Самара               |
 | Андрей Шишкин                      | Lead System Engineer                    |
 | Антон Щербаков                     | Backend Developer                       |
-| Михаил Кольцов                     | Backend Developer, ЦТБ                  |
+| Дмитрий Богомолов                  | Developer                               |
+| Кольцов Михаил                     | Backend Developer, ЦТБ                  |
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
+| Хатин Константин                   | Backend developer                       |
 | Кривоносов Георгий                 | Fullstack Developer, SoftBand           |
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Федосеева Анна                     | Frontend developer                      |
+| Николай Тимченко                   | Backend Developer                       |
+| Клeсс Антoн                        | IT Asset Manager                        |
 | Чекан Евгений                      | Lead Back-end Developer                 |
+| Гуля Илья                          | Android Developer, Yandex               |
+| Рыков Михаил                       | Principal Software Engineer, Dell EMC, г. Санкт-Петербург|
 | Макс Янков                         | CTO                                     |
 | Чалмаев Андрей                     | админ                                   |
 | Суслов Алексей                     | Инженер-программист, Eltex              |
@@ -73,3 +79,4 @@
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
 | Валерий Рябошапко                  | Backend Developer, Luka, Inc.           |
+| Багиров Эльшан                     | Backend developer                       |
