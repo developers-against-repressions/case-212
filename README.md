@@ -91,6 +91,7 @@
 | Домрачев Роман                     | Head of Development                     |
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
+| Косулин Михаил                     | CTO                                     |
 | Тимошевский Пётр                   | Fullstack developer                     |
 | Скляров Никита                     | Software Engineer                       |
 | Павлов Никита                      | Senior Software Engineer, NetCracker    |
