@@ -90,7 +90,6 @@
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Травкин Пётр                       | Backend разработчик                     |
 | Краснов Николай                    | Программист 1С, Москва                  |
-| Антон Алфимов                      | Web developer, Mediazona                |
 | Мендяев Николай                    | Tech Lead, Tarantool + Mediazona        |
 | Косулин Михаил                     | CTO                                     |
 | Тимошевский Пётр                   | Fullstack developer                     |
@@ -117,6 +116,7 @@
 | Петрухин Павел                     | Backend developer, Москва               |
 | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
+| Куватов Денис                      | Game developer, Москва                  |
 | Бакиров Марат                      | Tech lead, ParusInvest, Москва          |
 | Курносов Михаил                    | Software Developer                      |
 | Кирилл Книзе                       | Старший эксперт-программист, T-Systems  |
