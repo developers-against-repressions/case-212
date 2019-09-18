@@ -62,7 +62,6 @@
 | Кривоносов Георгий                 | Fullstack Developer, SoftBand           |
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Федосеева Анна                     | Frontend developer                      |
-| Сметанин Антон                     | Game developer                          |
 | Николай Тимченко                   | Backend Developer                       |
 | Клeсс Антoн                        | IT Asset Manager                        |
 | Чекан Евгений                      | Lead Back-end Developer                 |
@@ -109,6 +108,8 @@
 | Тимофей Николаев                   | Аналитик, Яндекс                        |
 | Константин Емельянов               | Developer, NetUP                        |
 | Багиров Эльшан                     | Backend developer                       |
+| Сметанин Антон                     | Game developer                          |
+| Петрухин Павел                     | Backend developer, Москва               |
 | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
 | Романченко Андрей                  | Программист 1С, Москва                  |
