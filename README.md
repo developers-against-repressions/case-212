@@ -89,7 +89,6 @@
 | Домрачев Роман                     | Head of Development                     |
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
-| Артур Станкевич                    | Программист, Самара                     |
 | Даниэль Гинсбург                   | Network Architect                       |
 | Орешников Иван                     | Research Engineer, Max Planck Institute |
 | Алексей Алишевских                 | Software Engineer, Vound Software       | 
@@ -97,3 +96,4 @@
 | Константин Емельянов               | Developer, NetUP                        |
 | Багиров Эльшан                     | Backend developer                       |
 | Сергей Николаев                    | Fullstack Developer                     |
+| Андрей Янгабышев                   | Software Developer, г. Москва           |
