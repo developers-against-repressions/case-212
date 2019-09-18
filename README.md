@@ -63,3 +63,4 @@
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Федосеева Анна                     | Frontend developer                      |
 | Чекан Евгений                      | Lead Back-end Developer                 |
+| Гуля Илья                          | Android Developer, Yandex               |
