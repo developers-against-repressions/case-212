@@ -56,14 +56,25 @@
 | Андрей Шишкин                      | Lead System Engineer                    |
 | Антон Щербаков                     | Backend Developer                       |
 | Дмитрий Богомолов                  | Developer                               |
-| Кольцов Михаил                     | Backend Developer, ЦТБ                  |
+| Михаил Кольцов                     | Backend Developer, ЦТБ                  |
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
+| Хатин Константин                   | Backend developer                       |
 | Кривоносов Георгий                 | Fullstack Developer, SoftBand           |
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Федосеева Анна                     | Frontend developer                      |
+| Сметанин Антон                     | Game developer                          |
+| Николай Тимченко                   | Backend Developer                       |
+| Клeсс Антoн                        | IT Asset Manager                        |
 | Чекан Евгений                      | Lead Back-end Developer                 |
+| Лукьянчиков Максим                 | Frontend developer                      |
+| Гуля Илья                          | Android Developer, Yandex               |
+| Рыков Михаил                       | Principal Software Engineer, Dell EMC, г. Санкт-Петербург|
 | Макс Янков                         | CTO                                     |
+| Максим Васенков                    | Ведущий программист, Этерон, г. Смоленск |
 | Чалмаев Андрей                     | админ                                   |
+| Суслов Алексей                     | Инженер-программист, Eltex              |
+| Александров Владимир               | Backend Developer, Waves                |
+| Константин Лёвин                   | Verification Engineer                   |
 | Суслов Алексей                     | Инженер-программист, Eltex              |
 | Антон Лазовский                    | Software Engineer, ActiveBC             |
 | Алексей Гриднев                    | Senior QA engineer, NVIDIA              |
@@ -74,3 +85,4 @@
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
 | Антон Алфимов                      | Web developer, Mediazona                |
+| Багиров Эльшан                     | Backend developer                       |
