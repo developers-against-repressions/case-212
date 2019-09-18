@@ -91,7 +91,6 @@
 | Домрачев Роман                     | Head of Development                     |
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
-| Мендяев Николай                    | Tech Lead, Tarantool + Mediazona        |
 | Косулин Михаил                     | CTO                                     |
 | Тимошевский Пётр                   | Fullstack developer                     |
 | Скляров Никита                     | Software Engineer                       |
@@ -109,6 +108,5 @@
 | Тимофей Николаев                   | Аналитик, Яндекс                        |
 | Константин Емельянов               | Developer, NetUP                        |
 | Багиров Эльшан                     | Backend developer                       |
-| Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
-| Романченко Андрей                  | Программист 1С, Москва                  |
+| Игорь Водка                        | Fullstack Developer                     |
