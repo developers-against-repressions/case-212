@@ -91,7 +91,6 @@
 | Домрачев Роман                     | Head of Development                     |
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
-| Павлов Никита                      | Senior Software Engineer, NetCracker    |
 | Баранов Кирилл                     | Web-developer                           |
 | Валерий Рябошапко                  | Backend Developer, Luka, Inc.           |
 | Кубота Иван                        | Chief Technology Officer                |
@@ -106,3 +105,4 @@
 | Константин Емельянов               | Developer, NetUP                        |
 | Багиров Эльшан                     | Backend developer                       |
 | Сергей Николаев                    | Fullstack Developer                     |
+| Александр Тучков                   | Независимый консультант                 |
