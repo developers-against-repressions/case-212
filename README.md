@@ -90,3 +90,4 @@
 | Краснов Николай                    | Программист 1С, Москва                  |
 | Багиров Эльшан                     | Backend developer                       |
 | Сергей Николаев                    | Fullstack Developer                     |
+| Дмитрий Гроза                      | Data Analyst .                          |
