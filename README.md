@@ -28,5 +28,5 @@
 ***
 
 #Подписавшиеся: 
-Лобовикова Александра, fullstack разработчица в Namaste Technologies 
+Лобовикова Александра, fullstack разработчица, Namaste Technologies 
 Любимов Илья, Chief People Officer, Serokell
