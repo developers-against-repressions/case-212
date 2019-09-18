@@ -55,7 +55,6 @@
 | Шангин Александр                   | Lead Developer, г. Самара               |
 | Андрей Шишкин                      | Lead System Engineer                    |
 | Антон Щербаков                     | Backend Developer                       |
-| Дмитрий Богомолов                  | Developer                               |
 | Михаил Кольцов                     | Backend Developer, ЦТБ                  |
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
 | Кривоносов Георгий                 | Fullstack Developer, SoftBand           |
@@ -64,3 +63,8 @@
 | Чекан Евгений                      | Lead Back-end Developer                 |
 | Макс Янков                         | CTO                                     |
 | Максим Васенков                    | Ведущий программист, Этерон, г. Смоленск |
+| Чалмаев Андрей                     | админ                                   |
+| Суслов Алексей                     | Инженер-программист, Eltex              |
+| Антон Лазовский                    | Software Engineer, ActiveBC             |
+| Алексей Гриднев                    | Senior QA engineer, NVIDIA              |
+
