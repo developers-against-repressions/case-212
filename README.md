@@ -153,6 +153,7 @@
 | Айдар Ибатуллин                    | Frontend developer                      |
 | Педан Сергей                       | Fullstack developer, Москва             |
 | Романченко Андрей                  | Программист 1С, Москва                  |
+| Сикорский Алексей                  | Software Developer, Moscow              |
 | Батычко Ярослав                    | Backend Developer, Стрим                |
 | Леонтьев Игорь                     | QA, Санкт-Петербург                     |
 | Руслан Мусаев                      | Project Manager, Yandex                 |
