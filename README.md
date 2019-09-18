@@ -42,4 +42,4 @@
 | Тюрин Рамин                        | Front-end Developer, dlg.im             |
 | Волков Алексей                     | Senior Test Automation Engeneer, EPAM   |
 | Самохвалов Павел                   | Developer                               |
-
+| Елизавета Боржкова                 | Business Analyst
