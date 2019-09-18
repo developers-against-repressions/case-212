@@ -134,7 +134,7 @@
 | Андрей Янгабышев                   | Software Developer, г. Москва           |
 | Давид Френкель                     | Fullstack Developer                     |
 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
-| Дмитрий Гроза                      | Data Analyst .                          |
+| Дмитрий Гроза                      | Data Analyst                            |
 | Быков Владимир                     | Frontend developer                      |
 | Левицкая Анастасия                 | Художник                                |
 | Сёмов Руслан                       | Senior DevOps Engineer, dlg.im          |
