@@ -150,3 +150,4 @@
 | Айдар Ибатуллин                    | Frontend developer                      |
 | Педан Сергей                       | Fullstack developer, Москва             |
 | Романченко Андрей                  | Программист 1С, Москва                  |
+| Ермолаев Илья                      | Fullstack Developer, Москва             |
