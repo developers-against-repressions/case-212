@@ -156,3 +156,5 @@
 | Лошаков Никита                     | Tech Lead                               |
 | Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
 | Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
+| Мария Чакчурина                    | Python back-end dev, Kaspersky, Moscow  |
+
