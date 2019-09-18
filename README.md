@@ -62,3 +62,4 @@
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Федосеева Анна                     | Frontend developer                      |
+| Сметанин Антон                     | Game developer                          |
