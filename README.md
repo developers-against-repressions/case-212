@@ -54,4 +54,5 @@
 | Сергей Стремидло                   | Web Developer                           |
 | Шангин Александр                   | Lead Developer, г. Самара               |
 | Андрей Шишкин                      | Lead System Engineer                    |
-| Антон Щербаков                     | Backend Developer                       |
+| Андрей Щербаков                    | Backend Developer                       |
+| Луконин Кирилл                     | Wireless Engineer                       |
