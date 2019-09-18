@@ -116,9 +116,9 @@
 | Петрухин Павел                     | Backend developer, Москва               |
 | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
-| Банных Роман                       | Backend Developer                       |
 | Андрей Янгабышев                   | Software Developer, г. Москва           |
 | Давид Френкель                     | Fullstack Developer                     |
 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
 | Дмитрий Гроза                      | Data Analyst .                          |
 | Романченко Андрей                  | Программист 1С, Москва                  |
+| Гольд Никита                       | Backend Developer, Москва               |
