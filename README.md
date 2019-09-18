@@ -1,4 +1,4 @@
-# Открытое письмо специалистов IT-индустрии в защиту фигурантов «московского дела»
+﻿# Открытое письмо специалистов IT-индустрии в защиту фигурантов «московского дела»
 
 [27 июля 2019](https://ovdinfo.org/news/2019/07/27/miting-u-merii-moskvy-27-iyulya-2019-goda-i-ego-posledstviya-onlayn) люди вышли мирно, без оружия, чтобы выразить свое несогласие с [недопуском независимых кандидатов](https://www.bbc.com/russian/features-49127945) до выборов в Мосгордуму. Это событие стало поводом для того, чтобы инициировать новый виток политических репрессий и завести дело о «массовых беспорядках», фигурантами которого стали 13 человек.
 
@@ -117,7 +117,6 @@
 | Петрухин Павел                     | Backend developer, Москва               |
 | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
-| Самовилов Дмитрий                  | Developer                               |
 | Шитов Артём                        | QA, Медиалогия                          |
 | Куватов Денис                      | Game developer, Москва                  |
 | Бакиров Марат                      | Tech lead, ParusInvest, Москва          |
@@ -130,6 +129,17 @@
 | Давид Френкель                     | Fullstack Developer                     |
 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
 | Дмитрий Гроза                      | Data Analyst .                          |
+| Быков Владимир                     | Frontend developer                      |
+| Левицкая Анастасия                 | Художник                                |
+| Сёмов Руслан                       | Senior DevOps Engineer, dlg.im          |
+| Артём Попов                        | Software Engineer                       |
+| Бухвалова Юлия                     | Frontend developer, LiveJournal         |
+| Ялунин Александр                   | Backend Developer                       |
+| Алина Ковтун                       | FrontEnd Developer, Nativeroll, СПб     |
+| Зайцев Дмитрий                     | Android developer                       |
+| Альберт Фазуллин                   | Software Engineer, Казань               |
+| Курлов Дмитрий                     | Фрилансер                               |
+| Середа Евгений                     | Senior system analyst, г. Орёл          |
 | Докучаев Иван                      | Linux Ops/Support, "Мегабайт"   |
 | Гольд Никита                       | Backend Developer, Москва               |
 | Серебрянский Константин            | Fullstack Developer, Osome + Mediazona, Москва|
@@ -144,3 +154,14 @@
 | Педан Сергей                       | Fullstack developer, Москва             |
 | Романченко Андрей                  | Программист 1С, Москва                  |
 | Волков Кирилл                      | Software Engineer, г. Санкт-Петербург   |
+| Сикорский Алексей                  | Software Developer, Moscow              |
+| Батычко Ярослав                    | Backend Developer, Стрим                |
+| Леонтьев Игорь                     | QA, Санкт-Петербург                     |
+| Руслан Мусаев                      | Project Manager, Yandex                 |
+| Чудеснов Александр                 | Разработчик интерфейсов, Wrike          |
+| Андрей Максимов                    | Software Engineer, Quantori             |
+| Барышников Константин              | Fullstack developer, Москва             |
+| Евгений Вайс                       | Senior Software Engineer, EPAM Systems  |
+| Лошаков Никита                     | Tech Lead                               |
+| Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
+| Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
