@@ -89,6 +89,7 @@
 | Шуршев Андрей                      | Backend developer                       |
 | Домрачев Роман                     | Head of Development                     |
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
+| Травкин Пётр                       | Backend разработчик                     |
 | Краснов Николай                    | Программист 1С, Москва                  |
 | Антон Алфимов                      | Web developer, Mediazona                |
 | Мендяев Николай                    | Tech Lead, Tarantool + Mediazona        |
