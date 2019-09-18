@@ -117,7 +117,6 @@
 | Петрухин Павел                     | Backend developer, Москва               |
 | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
-| Самовилов Дмитрий                  | Developer                               |
 | Шитов Артём                        | QA, Медиалогия                          |
 | Куватов Денис                      | Game developer, Москва                  |
 | Бакиров Марат                      | Tech lead, ParusInvest, Москва          |
@@ -152,6 +151,7 @@
 | Айдар Ибатуллин                    | Frontend developer                      |
 | Педан Сергей                       | Fullstack developer, Москва             |
 | Романченко Андрей                  | Программист 1С, Москва                  |
+| Чудеснов Александр                 | Разработчик интерфейсов, Wrike          |
 | Андрей Максимов                    | Software Engineer, Quantori             |
 | Барышников Константин              | Fullstack developer, Москва             |
 | Евгений Вайс                       | Senior Software Engineer, EPAM Systems  |
