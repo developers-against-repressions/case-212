@@ -69,3 +69,4 @@
 | Руслан Магомедов                   | IT Engineer                             |
 | Вячеслав Ембатуров                 | Software Developer                      |
 | Сустретов Максим                   | Backend developer                       |
+| Домрачев Роман                     | Head of Development                     |
