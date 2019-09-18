@@ -57,8 +57,8 @@
 | Андрей Щербаков                    | Backend Developer                       |
 | Сергей Рощепкин                    | Software Engineer                       |
 | Антон Щербаков                     | Backend Developer                       |
-| Дмитрий Богомолов                  | Developer                               |
 | Михаил Кольцов                     | Backend Developer, ЦТБ                  |
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Федосеева Анна                     | Frontend developer                      |
+| Антон Лазовский                    | Software Engineer, ActiveBC             |
