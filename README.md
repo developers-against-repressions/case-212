@@ -109,6 +109,7 @@
 | Тимофей Николаев                   | Аналитик, Яндекс                        |
 | Константин Емельянов               | Developer, NetUP                        |
 | Багиров Эльшан                     | Backend developer                       |
+| Игорь Водка                        | Fullstack Developer                     |
 | Дубровский Николай                 | С++ Developer                           |
 | Мамашин Николай                    | IT Engineer                             |
 | Кочергин Владимир                  | Backend developer                       |
