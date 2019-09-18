@@ -50,3 +50,4 @@
 | Дмитрий Норкин                     | Junior Researcher, RQC                  |
 | Дмитрий Костиков                   | Программист, г. Волгоград               |
 | Дмитрий Лапшин                     | Software Engineer                       |
+| Овсянников Дмитрий                 | Product Owner, RCB LLC                  |
