@@ -121,3 +121,4 @@
 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
 | Дмитрий Гроза                      | Data Analyst .                          |
 | Романченко Андрей                  | Программист 1С, Москва                  |
+| Серебрянский Константин            | Fullstack Developer, Osome + Mediazona, Москва|
