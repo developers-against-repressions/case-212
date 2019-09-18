@@ -130,6 +130,7 @@
 | Давид Френкель                     | Fullstack Developer                     |
 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
 | Дмитрий Гроза                      | Data Analyst .                          |
+| Сёмов Руслан                       | Senior DevOps Engineer, dlg.im          |
 | Артём Попов                        | Software Engineer                       |
 | Бухвалова Юлия                     | Frontend developer, LiveJournal         |
 | Ялунин Александр                   | Backend Developer                       |
