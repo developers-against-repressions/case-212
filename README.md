@@ -204,3 +204,4 @@
 | Рехина Оксана                      | Программист, Ростелеком                 |
 | Казаков Николай                    | Frontend Developer, Xena Exchange       |
 | Сергей Рощепкин                    | Software Engineer                       |
+| Антон Алфимов                      | Web developer, Mediazona                |
