@@ -144,3 +144,4 @@
 | Айдар Ибатуллин                    | Frontend developer                      |
 | Педан Сергей                       | Fullstack developer, Москва             |
 | Романченко Андрей                  | Программист 1С, Москва                  |
+| Мишакин Михаил                     | Senior Software Developer, Direct Line  |
