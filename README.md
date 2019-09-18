@@ -56,3 +56,5 @@
 | Андрей Шишкин                      | Lead System Engineer                    |
 | Андрей Щербаков                    | Backend Developer                       |
 | Вячеслав Ембатуров                 | Software Developer                      |
+| Антон Щербаков                     | Backend Developer                       |
+| Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
