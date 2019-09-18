@@ -68,3 +68,4 @@
 | Алексей Гриднев                    | Senior QA engineer, NVIDIA              |
 | Руслан Магомедов                   | IT Engineer                             |
 | Вячеслав Ембатуров                 | Software Developer                      |
+| Сустретов Максим                   | Backend developer                       |
