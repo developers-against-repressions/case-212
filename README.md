@@ -83,6 +83,7 @@
 | Руслан Магомедов                   | IT Engineer                             |
 | Александр Анохин                   | Lead Developer, г. Москва               |
 | Вячеслав Ембатуров                 | Software Developer                      |
+| Павлов Василий Алексеевич          | Software Engineer                       |
 | Сустретов Максим                   | Backend developer                       |
 | Шуршев Андрей                      | Backend developer                       |
 | Домрачев Роман                     | Head of Development                     |
