@@ -55,3 +55,4 @@
 | Шангин Александр                   | Lead Developer, г. Самара               |
 | Андрей Шишкин                      | Lead System Engineer                    |
 | Андрей Щербаков                    | Backend Developer                       |
+| Валерий Рябошапко                  | Backend Developer, Luka, Inc.           |
