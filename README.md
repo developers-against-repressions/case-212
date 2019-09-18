@@ -63,3 +63,4 @@
 | Федосеева Анна                     | Frontend developer                      |
 | Чекан Евгений                      | Lead Back-end Developer                 |
 | Макс Янков                         | CTO                                     |
+| Чалмаев Андрей                     | админ                                   |
