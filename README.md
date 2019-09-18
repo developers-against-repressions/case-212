@@ -117,6 +117,7 @@
 | Петрухин Павел                     | Backend developer, Москва               |
 | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
 | Сергей Николаев                    | Fullstack Developer                     |
+| Самовилов Дмитрий                  | Developer                               |
 | Шитов Артём                        | QA, Медиалогия                          |
 | Куватов Денис                      | Game developer, Москва                  |
 | Бакиров Марат                      | Tech lead, ParusInvest, Москва          |
