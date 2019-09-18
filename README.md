@@ -56,3 +56,5 @@
 | Андрей Шишкин                      | Lead System Engineer                    |
 | Антон Щербаков                     | Backend Developer                       |
 | Михаил Кольцов                     | Backend Developer, ЦТБ                  |
+| Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
+| Луконин Кирилл                     | Wireless Engineer                       |
