@@ -54,9 +54,8 @@
 | Сергей Стремидло                   | Web Developer                           |
 | Шангин Александр                   | Lead Developer, г. Самара               |
 | Андрей Шишкин                      | Lead System Engineer                    |
-| Андрей Щербаков                    | Backend Developer                       |
-| Вячеслав Ембатуров                 | Software Developer                      |
 | Антон Щербаков                     | Backend Developer                       |
 | Дмитрий Богомолов                  | Developer                               |
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
 | Луконин Кирилл                     | Wireless Engineer                       |
+| Федосеева Анна                     | Frontend developer                      |
