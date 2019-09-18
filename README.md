@@ -62,4 +62,4 @@
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
 | Луконин Кирилл                     | Wireless Engineer                       |
 | Федосеева Анна                     | Frontend developer                      |
-| Антoн Клeсс                        | IT Asset Manager                        |
+| Клeсс Антoн                        | IT Asset Manager                        |
