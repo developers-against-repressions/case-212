@@ -55,10 +55,8 @@
 | Шангин Александр                   | Lead Developer, г. Самара               |
 | Андрей Шишкин                      | Lead System Engineer                    |
 | Андрей Щербаков                    | Backend Developer                       |
-| Сергей Рощепкин                    | Software Engineer                       |
+| Вячеслав Ембатуров                 | Software Developer                      |
 | Антон Щербаков                     | Backend Developer                       |
-| Дмитрий Богомолов                  | Developer                               |
-| Михаил Кольцов                     | Backend Developer, ЦТБ                  |
 | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
 | Луконин Кирилл                     | Wireless Engineer                       |
-| Федосеева Анна                     | Frontend developer                      |
+| Алексей Алишевских                 | Software Engineer, Vound Software       |
