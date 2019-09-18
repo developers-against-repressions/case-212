@@ -91,6 +91,7 @@
 | Домрачев Роман                     | Head of Development                     |
 | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
 | Краснов Николай                    | Программист 1С, Москва                  |
+| Антонов Денис                      | Middle Python Developer, CS.Money       |
 | Алексей Маслаков                   | Frontend developer                      |
 | Дмитрий Гудков                     | Backend Developer, Москва               |
 | Артур Станкевич                    | Программист, Самара                     |
