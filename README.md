@@ -128,3 +128,4 @@
 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
 | Дмитрий Гроза                      | Data Analyst .                          |
 | Романченко Андрей                  | Программист 1С, Москва                  |
+| Сёмов Руслан                       | Senior DevOps Engineer, dlg.im          |
