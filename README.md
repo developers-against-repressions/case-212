@@ -68,6 +68,4 @@
 | Алексей Гриднев                    | Senior QA engineer, NVIDIA              |
 | Руслан Магомедов                   | IT Engineer                             |
 | Вячеслав Ембатуров                 | Software Developer                      |
-| Сустретов Максим                   | Backend developer                       |
-| Домрачев Роман                     | Head of Development                     |
-| Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
+| Павлов Василий Алексеевич          | Software Engineer                       |
