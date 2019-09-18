@@ -70,3 +70,5 @@
 | Вячеслав Ембатуров                 | Software Developer                      |
 | Сустретов Максим                   | Backend developer                       |
 | Шуршев Андрей                      | Backend developer                       |
+| Домрачев Роман                     | Head of Development                     |
+| Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
