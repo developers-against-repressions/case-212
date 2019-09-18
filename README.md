@@ -25,7 +25,7 @@
 12. Егор Жуков
 13. Сергей Фомин
 
-Призываем коллег не оставаться в стороне и поддержать это письмо. Вы можете сделать это через pull request добавив своё имя в конец [этого файла](https://github.com/developers-against-repressions/case-212/edit/master/README.md).
+Призываем коллег не оставаться в стороне и поддержать это письмо. Вы можете сделать это через pull request, добавив своё имя в конец [этого файла](https://github.com/developers-against-repressions/case-212/edit/master/README.md).
 
 ***
 
