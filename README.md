@@ -39,4 +39,5 @@
 | Гарифулина Юлия                    | Software Developer, goTRG               |
 | Давыдов Максим                     | Senior Software Developer, Elama        |
 | Кац Никита                         | Senior Backend Developer, amoCRM        |
+| Тюрин Рамин                        | Front-end Developer, dlg.im .           |
 
