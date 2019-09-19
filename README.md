@@ -214,3 +214,4 @@
 | Тамеева Аделина                    | Аналитик                                |
 | Савченко Валерий                   | Frontend Developer                      |
 | Безызвестных Денис                 | Fullstack developer, Новосибирск        |
+| Поветкин Сергей                    | Backend Developer, Москва               |
