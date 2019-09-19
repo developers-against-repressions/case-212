@@ -8,7 +8,7 @@ class InvalidFileFormatException(Exception):
     pass
 
 def load_signed():
-    signed = []
+    signed = set()
     pattern1 = re.compile(r'([^|]+)\|([^|]+)$')
     pattern2 = re.compile(r'\s*\|([^|]+)\|([^|]+)\|\s*$')
 
@@ -31,7 +31,7 @@ def load_signed():
                         % (filename, i + 1, line)
                     )
 
-                signed.append((m.group(1).strip(), m.group(2).strip()))
+                signed.add((m.group(1).strip(), m.group(2).strip()))
     return signed
 
 
