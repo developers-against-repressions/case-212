@@ -8,6 +8,7 @@ setup_git() {
 git_commit_readme() {
   git checkout -b temp
   git add README.md
+  git add signed/
   git commit --message "Add a signature. Travis build: $TRAVIS_BUILD_NUMBER"
 }
 
