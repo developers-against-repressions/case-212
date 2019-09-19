@@ -7,7 +7,7 @@
 | Тюрин Рамин                        | Front-end Developer, dlg.im             |
 | Волков Алексей                     | Senior Test Automation Engeneer, EPAM   |
 | Самохвалов Павел                   | Developer                               |
-| Елизавета Боржкова                 | Business Analyst                        |
+| Боржкова Елизавета                 | Business Analyst, Kaspersky Lab         |
 | Соковых Пётр                       | фрилансер                               |
 | Артём Проничкин                    | старший консультант, Microsoft          |
 | Морозов Сергей                     | 1С-Программист, г.Киров                 |
