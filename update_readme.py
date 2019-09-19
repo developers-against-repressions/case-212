@@ -8,7 +8,8 @@ class InvalidFileFormatException(Exception):
     pass
 
 def load_signed():
-    signed = set()
+    signed = []
+    signed_new = set()
     pattern1 = re.compile(r'([^|]+)\|([^|]+)$')
     pattern2 = re.compile(r'\s*\|([^|]+)\|([^|]+)\|\s*$')
 
@@ -31,13 +32,18 @@ def load_signed():
                         % (filename, i + 1, line)
                     )
 
-                signed.add((m.group(1).strip(), m.group(2).strip()))
+                if "old_list.txt" in filename:
+                    signed.append((m.group(1).strip(), m.group(2).strip()))
+                else:
+                    signed_new.add((m.group(1).strip(), m.group(2).strip()))
+    for signature in signed_new:
+    	signed.append(signature)
     return signed
 
 
 def write_signed(signed, outp):
-    for signature in signed:
-        outp.write('| %-30s | %-50s |\n' % signature)
+    for i, signature in enumerate(signed):
+        outp.write('| {:<4} | {:<34} | {:<39} |\n'.format(i+1, signature[0], signature[1]))
 
 
 def update_readme(signed):
