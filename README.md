@@ -53,1274 +53,1487 @@
 | 7    | Голяков Владимир                   | Программист, Москва                     |
 | 8    | Алексей Баринов                    | Программист, Наш Двор                   |
 | 9    | Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
-| 10   | Базенков Николай                   | старший научный сотрудник, ИПУ РАН      |
-| 11   | Полян Екатерина                    | Системный аналитик, Москва              |
-| 12   | Морковник Данила                   | Chief Project Engineer, Softline        |
-| 13   | Гречухин Владимир                  | Backend Developer, Санкт-Петербург      |
-| 14   | Спиридонов Станислав               | Java developer, Trask Solutions         |
-| 15   | Руслан Гроховецкий                 | Ведущий разработчик, Екатеринбург, РФ   |
-| 16   | Галоян Давид                       | Cofounder, Procraft                     |
-| 17   | Макс Балуев                        | CTO                                     |
-| 18   | Шевченко Андрей                    | Senior Engineer                         |
-| 19   | Артем Тамоян                       | CTO, Vee Security                       |
-| 20   | Точилкин Дмитрий                   | Data Science Engineer, Huawei           |
-| 21   | Васильев Эрнольд                   | руководитель разработки, Инфотех        |
-| 22   | Сергей Гаврин                      | Ml-engineer, Томск                      |
-| 23   | Сироткин Яков                      | программист                             |
-| 24   | Безызвестных Денис                 | Fullstack developer, Новосибирск        |
-| 25   | Ганиев Шамиль                      | DevOps Engineer, 4xxi, Saint-Petersburg |
-| 26   | Калугин Сергей                     | Тимлид, Москва                          |
-| 27   | Жаричев Александр                  | Lead embedded developer, Москва         |
-| 28   | Аитов Ратмир                       | Frontend developer                      |
-| 29   | Рассадин Илья                      | Backend Developer, Ярославль            |
-| 30   | Разинкина Евгения                  | Тестировщица                            |
-| 31   | Головкин Петр                      | Системный инженер, Уфа                  |
-| 32   | Леонтьев Игорь                     | QA, Санкт-Петербург                     |
-| 33   | Сараев Иннокентий                  | Frontend-developer, freelance           |
-| 34   | Каширин Павел                      | Старший разработчик ИС, OZON Tech       |
-| 35   | Хлебников Егор                     | Full-Stack Developer, Йошкар-Ола        |
-| 36   | Гнедин Виктор                      | Продуктовый дизайнер, Москва            |
-| 37   | Огородник Семен                    | Senior Software Developer, Kotlin, JetBrains |
-| 38   | Петр Никитин                       | Front-end Intuition Team, Москва        |
-| 39   | Любимов Илья                       | Chief People Officer, Serokell          |
-| 40   | Даниил Нестеренко                  | Team Leader, ManageBand                 |
-| 41   | Григорий Дементьев                 | Backend developer, Новосибирск          |
-| 42   | Шарков Максим                      | Разработчик CRM систем, NOBILIS         |
-| 43   | Владислав Алексеев                 | Software engineer                       |
-| 44   | Павлова Ольга                      | Совладелец, «Собака Павлова»            |
-| 45   | Григорьев Эдуард                   | Web developer, media5                   |
-| 46   | Просвирнин Алексей                 | Java Developer                          |
-| 47   | Максимов-Наливайко Филипп          | Android-разработчик, Калининград        |
-| 48   | Алексей Смирнов                    | Java-разработчик, Москва                |
-| 49   | Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
-| 50   | Белоусов Виктор                    | .Net developer, Mindbox                 |
-| 51   | Тимофей Николаев                   | Аналитик, Яндекс                        |
-| 52   | Анна Переверзева                   | Philips Research Moscow, Scientist      |
-| 53   | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
-| 54   | Орлов Анатолий                     | Технический Директор, ozon.ru           |
-| 55   | Кушнарева Екатерина                | HR, Abagy Robotic Systems               |
-| 56   | Ипатьев Степан                     | Fullstack developer, Екатеринбург       |
-| 57   | Артём Большаков                    | Программист, Санкт-Петербург            |
-| 58   | Хайрутдинов Азат                   | Software engineer, Казань               |
-| 59   | Вылгин Виталий                     | Senior Android Developer, Орёл          |
-| 60   | Цакунов Антон                      | Руководитель проектов, Москва           |
-| 61   | Валентинов Александр               | Developer                               |
-| 62   | Воскресенская Светлана             | Senior Backend developer, Diasoft       |
-| 63   | Роман Пауесов                      | Backend Developer                       |
-| 64   | Климова Василика                   | Frontend Developer, Avaloq              |
-| 65   | Баринов Максим                     | Frontend Developer, IQ Option           |
-| 66   | Vladislav Shikhov                  | Ingineer, Samsung                       |
-| 67   | Евгений Горошкин                   | PHP/JS Разработчик, Красноярск          |
-| 68   | Павел Волжин                       | Engineer                                |
-| 69   | Анчугов Степан                     | Fullstack-разработчик, Motorsport       |
-| 70   | Лепихин Вячеслав                   | Разработчик, Яндекс                     |
-| 71   | Шангин Александр                   | Lead Developer, г. Самара               |
-| 72   | Ермишкин Пётр                      | Программист                             |
-| 73   | Булдаков Дмитрий                   | Системный администратор, ООО Штурвал    |
-| 74   | Шумилкин Геннадий                  | Backend Developer, Rocketbank, Москва   |
-| 75   | Берг Максим                        | Developer                               |
-| 76   | Нечипоренко Олег                   | Team Lead, dlg.im, Москва               |
-| 77   | Юдин Кирилл                        | Senior C++ developer, Москва            |
-| 78   | Бусыгин Алексей                    | CTO                                     |
-| 79   | Крычун Роман                       | Front-end developer, NDV                |
-| 80   | Лапшин Михаил                      | Frontend Developer, Just AI             |
-| 81   | Шилкин Денис                       | Senior Software Engineer, Gett RnD      |
-| 82   | Латынина Виктория                  | Программист, Санкт-Петербург            |
-| 83   | Педан Сергей                       | Fullstack developer, Москва             |
-| 84   | Рябинин Сергей                     | Программист, Санкт-Петербург            |
-| 85   | Зуев Вадим                         | Android developer, Berlin               |
-| 86   | Дмитрий Лапшин                     | Software Engineer                       |
-| 87   | Мендяев Николай                    | Tech Lead, Tarantool + Mediazona        |
-| 88   | Сальников Евгений                  | Инженер-программист, X-Cart             |
-| 89   | Ходаков Василий                    | Программист, Москва                     |
-| 90   | Подонин Николай                    | Android Developer, e-Legion             |
-| 91   | Кубота Иван                        | Chief Technology Officer                |
-| 92   | Сопов Иван                         | Программист, Joom                       |
-| 93   | Маркин Денис                       | Data scientist, Brightlab               |
-| 94   | Станислав Стаценко                 | Программист, МФТИ, Москва               |
-| 95   | Илюшина Ольга                      | QA Engineer, Яндекс                     |
-| 96   | Алевтина Анищенко                  | iOS-разработчик, Санкт-Петербург        |
-| 97   | Бибаева Мария                      | Backend developer, Москва               |
-| 98   | Харин Александр                    | Инженер-электроник, Ревда               |
-| 99   | Гончаров Владимир                  | Начальник IT отдела, Региональный Финансово-Экономический Институт |
-| 100  | Василий Вавилов                    | Разработчик, Душанбе .                  |
-| 101  | Луконин Кирилл                     | Wireless Engineer                       |
-| 102  | Пилипенко Александр                | Software developer, Mindbox             |
-| 103  | Терентьев Никита                   | web-developer, NovaStar                 |
-| 104  | Вячеслав Ембатуров                 | Software Developer                      |
-| 105  | Anna Noskova                       | DevOps/Sre, Smolensk                    |
-| 106  | Евгений Вайс                       | Senior Software Engineer, EPAM Systems  |
-| 107  | Цетхалин Артём Валерьевич          | Software Developer, Aspose              |
-| 108  | Виталий Давиденко                  | Machine Learning Engineer               |
-| 109  | Халтурин Владимир                  | Frontend, Brooma                        |
-| 110  | Островский Дмитрий                 | Devops engineer, Пермь                  |
-| 111  | Валентин Саморуков                 | Front-end developer, Crello             |
-| 112  | Михеев Евгений                     | .net web developer, Калининград         |
-| 113  | Каминский Михаил                   | Frontend developer, Тверь               |
-| 114  | Антон Черных                       | DevOps, Москва                          |
-| 115  | Стрелковский Иван                  | Developer, GrowFood                     |
-| 116  | Толстой Василий                    | Senior Principal Software Engineer, Dell EMC Russia COE |
-| 117  | Воробьев Андрей                    | CIO, Москва                             |
-| 118  | Валентин Гимранов                  | WEB-developer, Обнинск                  |
-| 119  | Дмитрий Пустовалов                 | linux system administrator, Neuron Digital, Москва |
-| 120  | Илья Евсеев                        | Devops, Sertolovo.ru, Санкт-Петербург   |
-| 121  | Константин Емельянов               | Developer, NetUP                        |
-| 122  | Мешков Роман                       | Frontend developer, Монитор Софт        |
-| 123  | Петрова Ксения                     | JavaScript Developer, Нижний Новгород   |
-| 124  | Житенев Александр                  | Senior Encryption Engineer              |
-| 125  | Авакян Овсеп                       | Программист, Afterlogic                 |
-| 126  | Михаил Потанин                     | Scala-программист, Waves Platform, Москва |
-| 127  | Станислав Ярмонов                  | Системный архитектор, Москва            |
-| 128  | Шипилов Александр                  | Java Developer, DataArt Voronezh        |
-| 129  | Илья Лесик                         | OSS Developer, Tver.io                  |
-| 130  | Сухинский Андрей                   | -, -                                    |
-| 131  | Меркулов Алексей                   | Программист, JetBrains                  |
-| 132  | Черненко Эдуард                    | Full-stack Web Developer, фрилансер     |
-| 133  | Пак Евгений                        | JS Fullstack Developer, Санкт-Петербург |
-| 134  | Нечипорук Артём                    | Research developer, Kaspersky Lab, Moscow |
-| 135  | Патрикеев Даниил                   | Software engineer, Align Technology     |
-| 136  | Артём Проничкин                    | старший консультант, Microsoft          |
-| 137  | Малютин Илья                       | Data Scientist, Rubbles                 |
-| 138  | Андрей Старостин                   | Data Scientist, Москва                  |
-| 139  | Федотов Алексей                    | Программист, Москва                     |
-| 140  | Кряжев Андрей                      | Программист, ZClick                     |
-| 141  | Алексеев Игорь                     | Backend developer, Moscow               |
-| 142  | Хайруллин Рустем                   | Разработчик ПО г. Казань, Директ Кредит |
-| 143  | Лукин Андрей                       | Chief Executive Officer, ITSD.ONE       |
-| 144  | Vladimir Sukhov                    | Frontend Developer, Penza               |
-| 145  | Дмитрий Соболев                    | Senior DevOps Engineer, Москва          |
-| 146  | Mikhail Rednev                     | Fullstack Developer, Moscow             |
-| 147  | Жданов Сергей                      | Frontend-разработчик, Machineheads      |
-| 148  | Михайлин Евгений                   | Principal Full-stack Software Engineer / Team Lead, IT Force, Moscow |
-| 149  | Соломатин Сергей                   | Технический Менеджер, Москва            |
-| 150  | Ананьев Алексей                    | предприниматель, программист, владелец ИТ-проекта "Третий сектор: бухгалтерия для НКО" |
-| 151  | Тимошин Виктор                     | Fullstack разработчик, г. Санкт-Петербург |
-| 152  | Яковлев Евгений                    | Ведущий разработчик, Яндекс             |
-| 153  | Поветкин Сергей                    | Backend Developer, Москва               |
-| 154  | Чугунов Сергей                     | Java Developer, GridGain Saint-Petersburg |
-| 155  | Мельников Михаил                   | Программист, Волгоград                  |
-| 156  | Папулин Сергей                     | Developer                               |
-| 157  | Барболин Андрей                    | Senior Software Engineer, CBS Interactive |
-| 158  | Константин Овчаренко               | Developer, Planior                      |
-| 159  | Кудин Дмитрий                      | Embedded Software Developer, Москва     |
-| 160  | Нитрис Лилиан                      | Data Architect, Moscow                  |
-| 161  | Григорьев Алексей                  | Старший разработчик, Москва             |
-| 162  | Бухвалова Юлия                     | Frontend developer, LiveJournal         |
-| 163  | Дмитрий Гудков                     | Backend Developer, Москва               |
-| 164  | Проскурякова Виктория              | Java Developer, Cinimex Voronezh        |
-| 165  | Элла Рюхина                        | QA Engineer                             |
-| 166  | Иванов Виталий                     | CTO, Москва                             |
-| 167  | Елизаров Святослав                 | Deep learning engineer, Alterra.ai      |
-| 168  | Егоров Владимир                    | Data Quality specialist, S7             |
-| 169  | Шишаев Арсений                     | студент                                 |
-| 170  | Малютин Алексей                    | Data Scientist, Amsterdam               |
-| 171  | Вадим Бажов                        | Бекенд разработчик python, Екатеринбург |
-| 172  | Пётр Леменков                      | программист, Fedora Project             |
-| 173  | Травкин Пётр                       | Backend разработчик                     |
-| 174  | Дарья Шемякина                     | Web Developer                           |
-| 175  | Андрей Сергей                      | Lead Rust Developer, Котлас             |
-| 176  | Косулин Михаил                     | CTO                                     |
-| 177  | Панкова Мария                      | Программист, Москва                     |
-| 178  | Александра Кубатиева               | NLP Developer, Санкт-Петербург          |
-| 179  | Виноградов Сергей                  | Frontend developer                      |
-| 180  | Виталий Потапов                    | Head of QA                              |
-| 181  | Борис Чирва                        | Инженер-программист, г. Екатеринбург    |
-| 182  | Благова Татьяна                    | Главный инженер, Банк России (ЦБ РФ)    |
-| 183  | Кавун Александр                    | DBA , IBS                               |
-| 184  | Лошаков Никита                     | Tech Lead                               |
-| 185  | Соколачко Геннадий                 | SRE, Yandex                             |
-| 186  | Станислав Дашковский               | Инженер                                 |
-| 187  | Аргентов Павел                     | Backend developer, Teamlead, Тверь, РФ  |
-| 188  | Максим Ситников                    | Performance tester                      |
-| 189  | Ивушкин Алексей                    | Стажёр Backend, Сбербанк Технологии     |
-| 190  | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
-| 191  | Докучаев Иван                      | Linux Ops/Support, "Мегабайт"           |
-| 192  | Братчиков Александр                | Fullstack Developer, Educator, Yandex   |
-| 193  | Холинов Илья                       | Backend Developer, Москва               |
-| 194  | Химцов Антон                       | Frontend Developer                      |
-| 195  | Чупров Кирилл                      | Fullstack Developer, Difogic            |
-| 196  | Афанасьев Роман                    | Инженер-программист, г. Москва          |
-| 197  | Валиуллин Артур                    | инженер-программист, г. Уфа             |
-| 198  | Мазитов Рустем                     | Специалист IT отдела, Digital Loyalty System |
-| 199  | Мигунова Даша                      | Technical Program Manager               |
-| 200  | Гадисламова Азалия                 | Системный аналитик, Мединдекс           |
-| 201  | Завацкий Владимир                  | Fullstack Web Developer, Москва         |
-| 202  | Казаков Данил                      | Frontend Developer, UX/UI-designer, Агентплюс, Москва |
-| 203  | Дмитрий Першин                     | CI Team Lead, Барнаул                   |
-| 204  | Трофимов Даниил                    | Backend Developer, Москва               |
-| 205  | Куянов Денис                       | Senior Frontend Developer, Alterra.ai   |
-| 206  | Калачёв Сергей                     | fullstack программист, Москва           |
-| 207  | Антон Попов                        | CTO, Kiko                               |
-| 208  | Александр Румянцев                 | ASIC Design Engineer Baikal Electronics |
-| 209  | Лопатин Виктор                     | Software Developer, Ayoxxa              |
-| 210  | Дмитрий Гаврилов                   | Software Engineer, Рязань               |
-| 211  | Горгун Алексей                     | Программист 1С, Смоленск                |
-| 212  | Рашков Григорий                    | программист-математик, Нейроботикс      |
-| 213  | Шаров Илья                         | SRE, Yandex                             |
-| 214  | Морозова Ольга                     | верстальщик, Москва                     |
-| 215  | Korikov Constantine                | Researcher, Saint Petersburg            |
-| 216  | Романеев Михаил                    | Software Engineer, Yandex               |
-| 217  | Лифанов Дмитрий                    | DevOps engineer, Санкт-Петербург        |
-| 218  | Мария Чакчурина                    | Python back-end dev, Kaspersky, Moscow  |
-| 219  | Савчук Денис                       | Senior Software Developer               |
-| 220  | Волков Кирилл                      | Software Engineer, г. Санкт-Петербург   |
-| 221  | Дубровский Николай                 | С++ Developer                           |
-| 222  | Найденов Юрий                      | Software Engineer, Waves                |
-| 223  | Афонькин Вадим                     | Senior Software Engineer, Москва        |
-| 224  | Светлана Бальзитова                | QA инженер, Яндекс                      |
-| 225  | Платонов Владимир                  | Data engineer, Яндекс                   |
-| 226  | Кравцова Валерия                   | Fullstack developer, NetUP LLC          |
-| 227  | Корчагин Вадим                     | Старший инженер инфраструктуры больших данных, ОЦРВ |
-| 228  | Пушкарев Павел                     | Разработчик                             |
-| 229  | Стругов Валерий                    | Программист                             |
-| 230  | Савина Татьяна                     | Frontend developer, Kaspersky           |
-| 231  | Михаил Овчинников                  | Software Engineer                       |
-| 232  | Кацман Виктор                      | Программист, Яндекс                     |
-| 233  | Качкаев Александр                  | старший разработчик, Лондон             |
-| 234  | Ильиных Антон                      | Development Team Lead, kaspersky        |
-| 235  | Тарасенко Ефим                     | Web-разработчик, Fix Price              |
-| 236  | Деев Андрей                        | .NET разработчик, Москва                |
-| 237  | Петров Андрей                      | DevOps, Москва                          |
-| 238  | Майя Милова                        | Technical Writer Санкт-Петербург        |
-| 239  | Тазиахметов Инсаф                  | Front-end Developer                     |
-| 240  | Андрей Бондаренко                  | DevOPS                                  |
-| 241  | Чекайкин Дмитрий                   | Разработчик C#/Unity, Москва            |
-| 242  | Жуматий Сергей                     | в.н.с., сисадмин, программист, МГУ им.М.В. Ломоносова |
-| 243  | Михаил Смаль                       | Lead developer                          |
-| 244  | Клигман Иван                       | Fullstack Developer                     |
-| 245  | Андрей Пузырь                      | Software Engineer, Mindbox              |
-| 246  | Ландо Андрей                       | Backend developer, Москва               |
-| 247  | Денис Рябов                        | Frontend Developer, Skillaz             |
-| 248  | Максимов Руслан                    | iOS разработчик, Москва                 |
-| 249  | Котлуков Дмитрий                   | Software Developer                      |
-| 250  | Бруславцев Виталий                 | Программист, Intel                      |
-| 251  | Николай Мишин                      | DevOps Engineer, Grid Dynamics          |
-| 252  | Егор Иванов                        | Senior PHP Developer, LoyaltyCorp Australia |
-| 253  | Мария Соболева                     | iOS Software Engineer, Москва           |
-| 254  | Сергеев Данил                      | Fullstack Developer, Yekaterinburg      |
-| 255  | Лиханов Максим                     | Software Engineer, Epam                 |
-| 256  | Чудеснов Александр                 | Разработчик интерфейсов, Wrike          |
-| 257  | Курскиев Илез                      | Frontend Developer, Республика Ингушетия |
-| 258  | Елизаров Виктор                    | Разработчик                             |
-| 259  | Даниил Тришкин                     | DevOps Engineer, Grid Dynamics          |
-| 260  | Феддерс Алексей                    | Программист БД                          |
-| 261  | Соколов Сергей                     | Бэкенд-разработчик, Москва              |
-| 262  | Егоров Антон                       | Frontend developer                      |
-| 263  | Ткач Александр                     | Backend Developer, Москва               |
-| 264  | Каган Роман                        | Ведущий разработчик, Virtuozzo, Москва  |
-| 265  | Касаткин Александр                 | Full-stack Web Developer, Boombate, Санкт-Петербург |
-| 266  | Азимов Эльдар                      | Backend developer, Москва               |
-| 267  | Мелихов Никита                     | PHP Developer, CodeGarden               |
-| 268  | Дворкин Михаил                     | преподаватель программирования, Лицей ФТШ и ВШЭ |
-| 269  | Воронов Эдуард                     | .Net Developer, Aspose.Words            |
-| 270  | Онипченко Михаил                   | Fullstack разработчик, Ростов-на-Дону   |
-| 271  | Агеев Андрей                       | Старший эксперт, Тектус.ИТ              |
-| 272  | Владислав Тарасевич                | Software Developer                      |
-| 273  | Калеми Юрий                        | Java-архитектор, Екатеринбург           |
-| 274  | Владимир Белецкий                  | Разработчик видеоигр                    |
-| 275  | Бутаев Амиран                      | сисадмин, МФЦ                           |
-| 276  | Овсянников Дмитрий                 | Product Owner, RCB LLC                  |
-| 277  | Курлов Дмитрий                     | Фрилансер                               |
-| 278  | Камышев Игорь                      | Frontend Tech Lead, Самокат             |
-| 279  | Ветошко Федор                      | iOS developer, Москва                   |
-| 280  | Калмыков Азат                      | Студент-программист, ВШЭ                |
-| 281  | Клестов Александр                  | Руководитель отдела разработки, Эксперум |
-| 282  | Руслан Мусаев                      | Project Manager, Yandex                 |
-| 283  | Александр Кремлёв                  | инженер, МГУ имени М.В.Ломоносова       |
-| 284  | Иван Бурмистров                    | Software Engineer, Facebook             |
-| 285  | Билалов Тимур                      | Фронтенд-разработчик                    |
-| 286  | Седин Валерий                      | Frontend разработчик                    |
-| 287  | Сустретов Максим                   | Backend developer                       |
-| 288  | Замыцков Дмитрий                   | .Net Developer, Москва                  |
-| 289  | Бурков Максим                      | .Net Developer, Mera                    |
-| 290  | Екатерина Козлова                  | Инженер, Москва                         |
-| 291  | Алексеев Владимир                  | админ, СПБ                              |
-| 292  | Данилов Дмитрий                    | Инженер по тестированию, ivi            |
-| 293  | Александр Бабенко                  | Software Engineer                       |
-| 294  | Антон Лазовский                    | Software Engineer, ActiveBC             |
-| 295  | Шпинькова Анна                     | Frontend-developer, Москва              |
-| 296  | Левадный Тимур                     | Разрабочик, Провектус                   |
-| 297  | Артем Трошин                       | Full Stack Web Developer, Москва        |
-| 298  | Ильгам Шакиров                     | Software Engineer, NinthDecimal         |
-| 299  | Соловьев Андрей                    | Аналитик, Accenture                     |
-| 300  | Васильев Анатолий                  | Bioinformatician, Aelian biotechnology  |
-| 301  | Сулейменов Айдарбек                | Sofrware Engineering Intern, London     |
-| 302  | Скляров Никита                     | Software Engineer                       |
-| 303  | Иглина Александра                  | SWE, Google                             |
-| 304  | Рябцов Игорь                       | Senior Data Scientist, Totango INC      |
-| 305  | Кузнецов Роман                     | Frontend Developer г. Санкт-Петербург   |
-| 306  | Королёв Евгений                    | Программист, Санкт-Петербург            |
-| 307  | Борислав Козловский                | программист, "Яндекс"                   |
-| 308  | Писарев Дмитрий                    | Веб-разработчик, фрилансер              |
-| 309  | Павел Рюмкин                       | CEO, Almighty Web                       |
-| 310  | Озеров Андрей                      | IT-Специалист                           |
-| 311  | Мирошникова Анастасия              | Junior Data Scientist, Калуга-Астрал    |
-| 312  | Андрей Щербаков                    | Backend Developer                       |
-| 313  | Грозовский Тимур                   | Главный аналитик, Росбанк               |
-| 314  | Назарук Дмитрий                    | Senior Java Developer, Санкт-Петербург  |
-| 315  | Богатов Дмитрий                    | Debian Developer                        |
-| 316  | Савенок Денис                      | Senior Software Engineer, Москва        |
-| 317  | Гришин Александр                   | Инженер, Samsung                        |
-| 318  | Румянцев Александр                 | Software Engineer                       |
-| 319  | Багиров Эльшан                     | Backend developer                       |
-| 320  | Лаврентьев Альберт                 | Support Engineer, Microsoft             |
-| 321  | Александр Клестов                  | Руководитель отдела разработки, Эксперум |
-| 322  | Курамшин Владимир                  | Project Lead, Samsung                   |
-| 323  | Шумков Михаил                      | Backend Developer, г. Екатеринбург      |
-| 324  | Судаков Илья                       | Tech Lead, INVITE Software, Москва      |
-| 325  | Алексей Павельчук                  | senior java develpoer, JET              |
-| 326  | Артур Станкевич                    | Программист, Самара                     |
-| 327  | Anastassia Russak                  | Frontend Developer, München             |
-| 328  | Корнилова Людмила                  | Программист, JetBrains                  |
-| 329  | Степан Тарасевич                   | Программист, JetBrains                  |
-| 330  | Ишутин Евгений                     | Инженер программист, Контур Инновации   |
-| 331  | Александр Давронов                 | Software Engineer                       |
-| 332  | Краснов Николай                    | Программист 1С, Москва                  |
-| 333  | Старокожев Дмитрий                 | Ведущий разработчик, Pixonic, Москва    |
-| 334  | Устинов Михаил                     | Разработчик, Яндекс                     |
-| 335  | Сметанин Антон                     | Game developer                          |
-| 336  | Чернышев Руслан                    | Backend developer, QIWI                 |
-| 337  | Гуля Илья                          | Android Developer, Yandex               |
-| 338  | Макаров Александр                  | Старший разработчик, Москва             |
-| 339  | Маша Будрите                       | Consultant Developer, Thoughtworks, Лондон |
-| 340  | Зубков Сергей                      | Руководитель отдела разработки, Ставрополь |
-| 341  | Мочалыгин Александр                | Teamlead, Ecommpay                      |
-| 342  | Хохряков Денис                     | DevOps Engineer, Tallinn                |
-| 343  | Никитченко Сергей                  | Технический директор, Москва            |
-| 344  | Аслаповский Дмитрий Владимирович   | Independent Consultant                  |
-| 345  | Алексеев Андрей                    | Аналитик Tinkoff, Выпускник МФТИ        |
-| 346  | Цибин Андрей                       | Software Engineer, EPAM Systems         |
-| 347  | Олег Котов                         | Fullstack Developer, Yekaterinburg      |
-| 348  | Петров Константин                  | Аналитик, QuantumArt                    |
-| 349  | Чалыкин Данила                     | Security Researcher, Алма-Ата           |
-| 350  | Житомирский Марк                   | Senior Systems Analyst, Exactpro.com    |
-| 351  | Володин Антон                      | CTO, Ремонтиста                         |
-| 352  | Кузьмин Андрей                     | SRE manager, Санкт-Петербург            |
-| 353  | Горячев Виталий                    | Backend Developer, Москва               |
-| 354  | Дудин Вадим                        | Fullstack developer, г. Санкт-Петербург |
-| 355  | Илья Степанов                      | Программист, г. Москва                  |
-| 356  | Николай Тимченко                   | Backend Developer                       |
-| 357  | Радзиевский Александр              | продакт менеджер, Pond5                 |
-| 358  | Одинцов Александр                  | Разработчик, Dekra, Штутгарт, Германия  |
-| 359  | Владимиров Алексей                 | Старший Разработчик ПО, Wrike           |
-| 360  | Дмитрий Буряков                    | Разработчик                             |
-| 361  | Николай Солдатов                   | Разработчик                             |
-| 362  | Сергей Рощепкин                    | Software Engineer                       |
-| 363  | Евгений Зобнин                     | Фрилансер                               |
-| 364  | Захаров Владислав                  | Frontend developer, Большой Музей       |
-| 365  | Дубов Андрей                       | Программист, Ниигазэкономика            |
-| 366  | Хижинский Максим                   | Senior C++ Developer, VASExperts        |
-| 367  | Леонтьева Ксения                   | Software Developer at ABBYY, MIPT student |
-| 368  | Михаил Самин                       | CEO, AudD, Москва                       |
-| 369  | Воротников Денис                   | Head of Web Development, Mercaux        |
-| 370  | Корвиго Илья                       | Старший Биоинформатик                   |
-| 371  | Дмитрий Кравченко                  | программист, Яндекс                     |
-| 372  | Рыбаков Алексей                    | Разработчик, Яндекс                     |
-| 373  | Ульяна Андреева                    | software engineer, EPAM Systems         |
-| 374  | Гурьев Дмитрий                     | Сооснователь, Seatmap.pro               |
-| 375  | Архипов Михаил                     | Старший разработчик, DataArt            |
-| 376  | Георгий Ковалев                    | Developer, Altuera                      |
-| 377  | Павлов Василий Алексеевич          | Software Engineer                       |
-| 378  | Ватин Владимир                     | DevOps Engineer                         |
-| 379  | Котенко Алексей                    | Backend developer, Санкт-Петербург      |
-| 380  | Важенин Александр                  | Fullstack Developer                     |
-| 381  | Соловьёв Антон                     | Технический директор, digital агентство Эврика |
-| 382  | Алексей Шехирин                    | Разработчик, Aviasales, Санкт-Петербург |
-| 383  | Пётр Резиков                       | Software Engineer, Пенза                |
-| 384  | Василий Зорин                      | Senior Software Developer, Москва       |
-| 385  | Зеленько Олег                      | Разработчик, TraceAir                   |
-| 386  | Горохов Антон                      | Разработчик, Яндекс, BigDataTeam        |
-| 387  | Клeсс Антoн                        | IT Asset Manager                        |
-| 388  | Дмитрий Семьюшкин                  | Frontend Developer, Pleeco              |
-| 389  | Михаил Кононенко                   | Разработчик интерфейсов, Яндекс         |
-| 390  | Протасов Иван                      | Backend Developer, Teleport             |
-| 391  | Артур Юнусов                       | C++ разработчик                         |
-| 392  | Шошин Никита                       | Web Developer                           |
-| 393  | Власов Андрей                      | Backend Developer, Санкт-Петербург      |
-| 394  | Быков Владимир                     | Frontend developer                      |
-| 395  | Большаков Евгений                  | Site Reliability Engineer, Zattoo       |
-| 396  | Сергей Лебедев                     | программист, Zotzon.ru                  |
-| 397  | Полховцев Владимир                 | Android Developer, dlg.im               |
-| 398  | Ковалёв Константин                 | Ведущий разработчик, CommuniGate Systems |
-| 399  | Осиюк Андрей                       | frontend developer, freelance           |
-| 400  | Монич Вячеслав                     | Специалист широкого профиля, Jolla      |
-| 401  | Дрозд Михаил                       | JS fullstack developer, Milk&Cartoons   |
-| 402  | Афоничев Сергей                    | Фрилансер                               |
-| 403  | Новиков Андрей                     | Руководитель группы разработки, Artezio |
-| 404  | Сергей Симонян                     | Web Developer, Teamlead                 |
-| 405  | Vaniev Mishel                      | Software Developer, iiko                |
-| 406  | Нижников Олег                      | Архитектор, Tinkoff.ru                  |
-| 407  | Тихомиров Дмитрий                  | Senior Software Engineer, Redhat        |
-| 408  | Мансур Музаффаров                  | Software Engineer EPAM                  |
-| 409  | Линькова Анна                      | Frontend Developer, Москва              |
-| 410  | Даниэль Гинсбург                   | Network Architect                       |
-| 411  | Кудин Илья                         | Программист, Фрилансер                  |
-| 412  | Тамеева Аделина                    | Аналитик                                |
-| 413  | Гусев Вадим                        | DevOps Engineer, Петрозаводск           |
-| 414  | Зайцев Дмитрий                     | Android developer                       |
-| 415  | Смирнова Татьяна                   | Frontend developer                      |
-| 416  | Драндин Игорь                      | Руководитель отдела разработки, компания AIDE |
-| 417  | Ланец Николай                      | Фрилансер                               |
-| 418  | Александр Андрианов                | Big data team lead                      |
-| 419  | Волкович Максим                    | Аналитик-разработчик, Yandex            |
-| 420  | Насыров Руслан                     | Front-end developer, Yandex             |
-| 421  | Андрейчук Николай                  | Lead Fullstack Developer, Mindbox, Москва |
-| 422  | Данилов Кирилл                     | Ведущий ява разработчик, НСПК           |
-| 423  | Чернышев Антон                     | Разработчик, Пермь                      |
-| 424  | Rозлов Владимир                    | Backend Developer, Липецк               |
-| 425  | Самсонов Никита                    | Software Developer, Team Lead, Москва   |
-| 426  | Станислав Янковский                | Программист, 1C Game Studios            |
-| 427  | Климова Оксанаn                    | Software Engineer, EPAM Systems         |
-| 428  | Петухов Алексей                    | Web Developer                           |
-| 429  | Дубровский Даниил                  | Game Developer, EXBO                    |
-| 430  | Валерий Рябошапко                  | Backend Developer, Luka, Inc.           |
-| 431  | Шмаков Дмитрий                     | Sortware Engineer, Revolut, Москва      |
-| 432  | Санарова Ирина                     | Frontend Developer, Art3D Graphics      |
-| 433  | Вальтер Владимир                   | Senior iOS Engineer, Immundiagnostik, Bensheim, Hesse |
-| 434  | Осипов Дмитрий                     | Java разработчик, Москва                |
-| 435  | Трифонова Татьяна                  | Test Engineer, Санкт-Петербург          |
-| 436  | Бабенцов Илья                      | Support Engineer, Москва                |
-| 437  | Горшков Юрий                       | Системный администратор, г. Москва      |
-| 438  | Быкадоров Платон                   | младший научный сотрудник, ИОГен        |
-| 439  | Бомбела Никита                     | Junior Software Engineer                |
-| 440  | Александр Богушов                  | Tech Lead, Napoleon IT                  |
-| 441  | Фиданян Карен                      | PhD student, Fritz Haber Institute of the Max Planck Society (суперкомпьютерные вычисления в квантовой химии) |
-| 442  | Рамазанов Игорь                    | Software Engineer, CasperLabs           |
-| 443  | Востросаблин Никита                | Backend разработчик                     |
-| 444  | Александр Лис                      | Программист, Москва                     |
-| 445  | Иван Липатов                       | Verification Engineer, Elvees           |
-| 446  | Хатин Константин                   | Backend developer                       |
-| 447  | Байбородин Николай                 | Программист, SKAT                       |
-| 448  | Пётр Яковлев                       | developer                               |
-| 449  | Дервель Михаил                     | Backend developer, fuse8.ru, Челябинск  |
-| 450  | Беляев Владислав                   | Full stack developer, Пермь             |
-| 451  | Альбина Галиуллина                 | PhD student, Technical University Eindhoven |
-| 452  | ﻿Реваз Габелая                     | System analyst / architect, Москва      |
-| 453  | Павел Заболотный                   | Ведущий разработчик, МТС ИТ             |
-| 454  | Моисеенко Дмитрий                  | Backend разработчик, Краснодар          |
-| 455  | Яков Боревич                       | CTO at Funexpected, Moscow              |
-| 456  | Климова Оксана                     | Software Engineer, EPAM Systems         |
-| 457  | Кручинин Артем                     | Frontend developer                      |
-| 458  | Антонов Денис                      | Middle Python Developer, CS.Money       |
-| 459  | Исаков Артур                       | Frontend Developer, Yandex, Saint-Petersburg |
-| 460  | Яковлев Александр                  | Программист, Москва                     |
-| 461  | Александр Зыков                    | Backend Team Lead, Etventure            |
-| 462  | Бушманов Александр                 | Senior Frontend developer, Санкт-Петербург |
-| 463  | Юрий Имашев                        | iOS Developer, Tappsk                   |
-| 464  | Гончаров Андрей                    | Developer, Санкт-Петербург              |
-| 465  | Андрей Никольский                  | Maintenance Chief, Banki.ru             |
-| 466  | Бойцов Григорий                    | Backend developer, Rybinsk              |
-| 467  | Лукьянчиков Максим                 | Frontend developer                      |
-| 468  | Грянко Александр                   | Разработчик                             |
-| 469  | Синюков Рустам                     | Программист, СПб                        |
-| 470  | Новак Сергей                       | QA, Санкт-Петербург                     |
-| 471  | Потеряев Игорь                     | Software Architect, Екатеринбург        |
-| 472  | Лубенец Алексей                    | Developer                               |
-| 473  | Шерстянников Михаил                | Software Engineer, Казань               |
-| 474  | Шуваев Максим                      | Fullstack Developer, Ставрополь         |
-| 475  | Подшивалов Илья                    | Программист, Москва                     |
-| 476  | Архиреев Денис                     | Software Engineer, Dualboot Partners    |
-| 477  | Князев Михаил                      | Backend Developer, Интерфакс            |
-| 478  | Khamanina Olga                     | Frontend dev, EPAM                      |
-| 479  | Жаков Никита                       | Frontend разработчик, Санкт-Петербург   |
-| 480  | Краснов Александр                  | Chief Technology Officer                |
-| 481  | Алина Ковтун                       | FrontEnd Developer, Nativeroll, СПб     |
-| 482  | Петенин Сергей                     | Frontend developer, 2memory             |
-| 483  | Зиновьев Константин                | Разработчик, Москва                     |
-| 484  | Борисов Илья                       | Senior Frontend Developer, GridGain     |
-| 485  | Смаль Илья                         | Frontend Developer, Foam Agency         |
-| 486  | Котов Юрий                         | Developer, Moscow, Yandex               |
-| 487  | Трибой Анастасия                   | Frontend разработчица, г.Москва         |
-| 488  | Максимова Дарья                    | студентка ВШЭ, QA Automation, Москва    |
-| 489  | Якушев Лев                         | Project manager, Пермь                  |
-| 490  | Шварцман Александр                 | Software Engineer, Self-Employed        |
-| 491  | Титов Сергей                       | Программист, Университет ИТМО           |
-| 492  | Ивановский Виктор                  | Frontend Developer, Новосибирск         |
-| 493  | Баландин Алексей                   | старший эксперт, Тектус.ИТ              |
-| 494  | Коба Егор                          | Руководитель направления                |
-| 495  | Малясова Виктория                  | Data Scientist, Москва                  |
-| 496  | Шахова Наталья                     | Аналитик, Glowbyte                      |
-| 497  | Горев Михаил                       | Fullstack Developer, Москва             |
-| 498  | Лобовикова Александра              | Fullstack разработчица, Namaste Technologies |
-| 499  | Кирьянов Денис                     | Data Scientist, Сбербанк                |
-| 500  | Волосатов Леонид                   | Full stack developer, Тензор            |
-| 501  | Gimaldinov Rinat                   | backend developer, Cyberlogistic        |
-| 502  | Николай Дубинин                    | Системный администратор Linux, Москва   |
-| 503  | Николай Маслов                     | Фрилансер                               |
-| 504  | Айзенштейн Даниил                  | Ведущий инженер-программист, Экстрим    |
-| 505  | Кузнецов Алексей                   | Разработчик                             |
-| 506  | Александр Румянецев                | ASIC Design Engineer Baikal Electronics |
-| 507  | Хилин Виктор                       | DevOps Engineer, Waves                  |
-| 508  | Патлух Александр                   | Frontend developer, educator, Yandex    |
-| 509  | Рудневский Артем                   | Разработчик, Mindbox                    |
-| 510  | Серебрянский Константин            | Fullstack Developer, Osome + Mediazona, Москва |
-| 511  | Алексей Алишевских                 | Software Engineer, Vound Software       |
-| 512  | Цырульников Глеб                   | Frontend-разработчик, Москва            |
-| 513  | Шалашов Дмитрий                    | CTO                                     |
-| 514  | Бороухин Александр Евгеньевич      | директор ООО "ЛигалТех"                 |
-| 515  | Сапоненко Денис                    | Системный архитектор, Систематика-Консалтинг |
-| 516  | Евгений Костогоров                 | Backend Developer                       |
-| 517  | Минженков Борис                    | Backend developer, TaskData             |
-| 518  | Черкашин Александр                 | Backend developer, Гост-групп           |
-| 519  | Садыков Эрнест                     | Software Engineer                       |
-| 520  | Фоменко Катерина                   | Front-End Developer. Biysk              |
-| 521  | Козлова Екатерина                  | Инженер, г. Москва                      |
-| 522  | Кузнецов Степан                    | NLP data scientist, BostonGene          |
-| 523  | Жуков Роман                        | Teamlead, Ecommpay                      |
-| 524  | Лелякин Михаил                     | Software Developer, Bench               |
-| 525  | Галиев Ильдар                      | Старший программист, Спортмастер, Москва |
-| 526  | Овсеп Авакян                       | Программист, станица Ольгинская         |
-| 527  | Данилов Александр                  | Программист, Белгород                   |
-| 528  | Алексей Гриднев                    | Senior QA engineer, NVIDIA              |
-| 529  | Костельнюк Артём                   | Frontend developer, Sports.ru           |
-| 530  | Самовилов Дмитрий                  | Developer                               |
-| 531  | Виталий Чумаков                    | Backend разработчик, Москва             |
-| 532  | Кавасин Алексей                    | Frontend Developer, Москва              |
-| 533  | Леонид Николаев                    | Senior Software Engineer,Пушкино        |
-| 534  | Михаил Осипов                      | Ведущий разработчик, Сбербанк           |
-| 535  | Сероус Антон                       | Front-end Lead, Togo Group, Auckland    |
-| 536  | Антон Алфимов                      | Web developer, Mediazona                |
-| 537  | Максим Крыловецкий                 | Senior System Engineer                  |
-| 538  | Рощупкин Тихон                     | Team Lead, Яндекс                       |
-| 539  | Болехан Павел                      | Fullstack Developer                     |
-| 540  | Сергей Шиганов                     | Software Engineer, Санкт-Петербург      |
-| 541  | Федорус Василий                    | Программист, Москва                     |
-| 542  | Гаранин Роман                      | Senior software engineer                |
-| 543  | Ирина Пыхова                       | Program Manager, Grapecity              |
-| 544  | Гольд Никита                       | Backend Developer, Москва               |
-| 545  | Пузанков Никита                    | RD Manager, EPAM                        |
-| 546  | Kudriashov Artem                   | Team lead, SPB                          |
-| 547  | Коваленко Ангелина                 | Аналитик, ВКонтакте                     |
-| 548  | Шишимров Сергей                    | Ведущий инженер, ГК "СКАД тех"          |
-| 549  | Елизаров Аркон                     | Product Manager, LATOKEN                |
-| 550  | Хмелевский Александр               | Head of Development, OVAL               |
-| 551  | Симоненко Полина                   | Python, Fullstack, ещё учусь            |
-| 552  | Чуксин Алексей                     | Backend Developer, Finam                |
-| 553  | Орлова Ксения                      | координатор open data проектов, Москва  |
-| 554  | Доровский Павел                    | Team lead, Газэнергобанк                |
-| 555  | Иван Очагов                        | DevOps-инженер, Красноярск              |
-| 556  | Тимошевский Пётр                   | Fullstack developer                     |
-| 557  | Васин Андрей                       | Программист                             |
-| 558  | Дмитрий Попонкин                   | Frontend-разработчик, KTS Studio        |
-| 559  | Варанкин Владимир                  | Backend Developer, adjust GmbH          |
-| 560  | Малков Кирилл                      | Frontend developer, Moscow              |
-| 561  | Алексеев Константин                | Software Engineer                       |
-| 562  | Андрей Фомичев                     | Software Developer, Альфа-Банк          |
-| 563  | Богомолов Владислав                | System Architect, Gett RnD, Москва      |
-| 564  | Юткин Дмитрий                      | Разработчик, ВКонтакте                  |
-| 565  | Дорошенко Александр                | Программист, Краснодарский край         |
-| 566  | Соколов Алексей                    | Android Developer, Dlg.im               |
-| 567  | Roman Ten                          | Senior Developer, Biztech Enterprise Solutions |
-| 568  | Леонид Репин                       | Garderobo, Architect/DevOps             |
-| 569  | Подтелкин Владислав                | Программист, Санкт-Петербург            |
-| 570  | Кондаков Алексей                   | Junior Frontend Developer               |
-| 571  | ﻿Евгений Карпов                    | Backend developer, Neotech Development  |
-| 572  | Русаков Григорий                   | --                                      |
-| 573  | Никулин Денис                      | архитектор VoIP, Utility Warehouse, Лондон |
-| 574  | Суслов Данила                      | Backend developer, Vigo                 |
-| 575  | Сергей Попов                       | Software Engineer, Санкт-Петербург      |
-| 576  | Барышников Константин              | Fullstack developer, Москва             |
-| 577  | Дулепов Дмитрий                    | Senior Software Engineer                |
-| 578  | Юрьев Виталий                      | Full-stack, Москва                      |
-| 579  | Анастасия Подорогина               | Программист, Capturica                  |
-| 580  | Колечкин Иван                      | Frontend developer, Aim                 |
-| 581  | Бредис Сергей                      | Backend Developer, Такском              |
-| 582  | Казаков Николай                    | Frontend Developer, Xena Exchange       |
-| 583  | Лузанов Дмитрий                    | Frontend developer, Ставрополь, E-QUIP  |
-| 584  | Широкова Ольга                     | Product manager, Busfor                 |
-| 585  | Крахотин Вячеслав                  | Разработчик, Яндекс                     |
-| 586  | Щербаков Иван                      | Инженер-программист, Atos               |
-| 587  | Илья Хаустов                       | Software Developer                      |
-| 588  | Starikov Ivan                      | .Net dev, Yandex, Saint-Petersburg      |
-| 589  | Зданчук Андрей                     | Разработчик                             |
-| 590  | Юсупов Аскар                       | Программист                             |
-| 591  | Тихомиров Иван                     | Программист 1С, Череповец               |
-| 592  | Пятышев Максим Евгеньевич          | Backend разработчик, Home Credit Bank   |
-| 593  | Синяков Глеб                       | Аналитик-Разработчик, Tinkoff, МФТИ     |
-| 594  | Максим Воронов                     | программист, Связной                    |
-| 595  | Вадим Райхлин                      | Backend Engineer, Zalando               |
-| 596  | Максим Шуваев                      | Fullstack Developer, Ставрополь         |
-| 597  | Евгений Стройков                   | Kotlin-разработчик, Aquiva Labs         |
-| 598  | Галкина Екатерина                  | Team Lead, НПП ИТЭЛМА                   |
-| 599  | Мальцев Павел                      | C# Architect, Фриланс                   |
-| 600  | Иван Ведерников                    | Software Engineer                       |
-| 601  | Понаэтов Святослав                 | Android Dev                             |
-| 602  | Яковлева Юлия                      | Разработчица, Yandex                    |
-| 603  | Кокарева Дария                     | Software Engineer, Санкт-Петербург      |
-| 604  | Сопрунов Сергей                    | программист                             |
-| 605  | Евгений Фрост                      | Backend developer Санкт-Петербург       |
-| 606  | Кустов Андрей                      | Frontend developer                      |
-| 607  | Сергеев Александр                  | Software Engineer, Google               |
-| 608  | Чернявский Михаил                  | Software Developer, JetBrains           |
-| 609  | Кручинин Владимир                  | CEO, PILOWAR STUDIO                     |
-| 610  | Андрей Сергеев                     | Backend Developer, Санкт-Петербург      |
-| 611  | Шиляев Вячеслав                    | Backend Java Developer, г. Пермь        |
-| 612  | Михеенко Алла                      | Биоинформатик, СПбГУ                    |
-| 613  | Юрченко Алексей                    | Javascript Developer, Москва            |
-| 614  | Ахтямов Вадим                      | Android developer, Ситимобил            |
-| 615  | Сергей Головин                     | Software Engineer, Курск                |
-| 616  | Ковалёв Антон                      | Директор департамента, Wärtsilä Digital Technologies |
-| 617  | Igor Tarasov                       | CEO, ITSOFT                             |
-| 618  | Барлуков Юрий                      | Fullstack Developer                     |
-| 619  | Дворкина Татьяна                   | Биоинформатик, СПбГУ                    |
-| 620  | Андрейчев Филипп                   | Lead Software Engineer, Cxense          |
-| 621  | Кержеманов Денис                   | Программист, Яндекс                     |
-| 622  | Гамзалиев Руслан                   | Backend Developer, Waves                |
-| 623  | Денис Рогинский                    | Software Engineer                       |
-| 624  | Середа Евгений                     | Senior system analyst, г. Орёл          |
-| 625  | Куликов Алексей                    | Software Engineer, Facebook             |
-| 626  | Oleg Chongov                       | Software engineer, Hong Kong            |
-| 627  | Larionov Anton                     | System Engineer, Reksoft                |
-| 628  | Павлов Никита                      | Senior Software Engineer, NetCracker    |
-| 629  | Аблеев Сергей                      | Fullstack developer, г. Екатеринбург    |
-| 630  | Сергей Кудинов                     | Студент, фрилансер                      |
-| 631  | K Aleksei                          | Full Stack Web Developer, Amenify       |
-| 632  | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
-| 633  | Ишора Екатерина                    | Designer, AIM                           |
-| 634  | Пичугин Артем                      | Head of data programs, Newprolab        |
-| 635  | Сергей Калистратов                 | IPTV Engineer                           |
-| 636  | Грищенко Никита                    | Software Developer, Москва              |
-| 637  | Шнайдер Александр                  | Backend Developer, Потенциал            |
-| 638  | Гладких Максим                     | Frontend developer, Белгород            |
-| 639  | Резвин Антон                       | Web developer, Кемерово                 |
-| 640  | Боярская Анна                      | разработчик, OZON Tech                  |
-| 641  | Иванов Алексей                     | C# developer, Чебоксары                 |
-| 642  | Погибелев Алексей                  | QA Lead, Stepik                         |
-| 643  | Батычко Ярослав                    | Backend Developer, Стрим                |
-| 644  | Мастюгин Александр                 | Архитектор ИС, Адаптируемые Прикладные Системы |
-| 645  | Антонович Виктор                   | Программист, г. Волгоград               |
-| 646  | Поляков Павел                      | Разработчик, Яндекс                     |
-| 647  | Иоанна Шевчук                      | Developer                               |
-| 648  | Балтаев Артур                      | Senior Developer, Outsourcer, Moscow    |
-| 649  | Шашкин Дмитрий                     | Программист, Ultimate-Guitar            |
-| 650  | Белоконь Александр                 | Frontend developer, 42                  |
-| 651  | Батыров Артур                      | Software engineer, Санкт-Петербург      |
-| 652  | Михаил Дёмин                       | Нагрузочный тестировщик, Яндекс         |
-| 653  | Антон Киселев                      | Machine Learning Engineer, Иннополис    |
-| 654  | Банных Роман                       | Backend Developer                       |
-| 655  | Дмитрий Норкин                     | Junior Researcher, RQC                  |
-| 656  | Верещагин Михаил                   | Backend developer, Москва               |
-| 657  | Акимов Михаил                      | Python Developer                        |
-| 658  | Ageev Ilya                         | Software Test Engineer, CQG             |
-| 659  | Михаил Ласка                       | Data Engineer                           |
-| 660  | Вознюк Иван                        | Junior Developer                        |
-| 661  | Бартов Константин                  | Фрилансер                               |
-| 662  | Непша Андрей                       | Программист, Mail.ru Group              |
-| 663  | Гаврилов Игорь                     | программист                             |
-| 664  | Соколов Денис                      | Программист, Энтерра Софт               |
-| 665  | Max Iliashenko                     | Senior .NET full-stack developer, Interfacing, Montreal, QC, Canada |
-| 666  | Арапов Александр                   | Инженер - программист                   |
-| 667  | Тагабилева Мария                   | Product owner, Клиники Чайка            |
-| 668  | Садков Дмитрий                     | product owner, Aflex, Москва            |
-| 669  | Закурдаев Евгений                  | Разработчик, AT Consulting              |
-| 670  | Бабушкин Эдуард                    | HR-аналитик                             |
-| 671  | Рукосуев Никита                    | Frontend developer, Екатеринбург        |
-| 672  | Бухал Никита                       | Android developer, VK                   |
-| 673  | Егорова Лилия                      | Разработчик, Компания DIRECTUM          |
-| 674  | Гаркавый Андрей                    | Аналитик, Tinkoff, выпускник МФТИ, Москва |
-| 675  | Костерин Максим                    | Frontend Lead, Brizo                    |
-| 676  | Мясков Анатолий                    | Full Stack Developer, г. Москва         |
-| 677  | Роман Кондаков                     | Senior Software Engineer, GridGain      |
-| 678  | Глянцев Алексей                    | QA Engineer, Amaiz                      |
-| 679  | Ершов Антон                        | Fullstack разработчик, ylab.io          |
-| 680  | Иваницкий Илья                     | Senior Analyst, Авито, Москва           |
-| 681  | Грушко Дмитрий                     | Frontend developer, Тверь               |
-| 682  | Ососов Иван                        | Аналитик, г. Пермь                      |
-| 683  | Виталий Крюков                     | Freelancer, Санкт-Петербург             |
-| 684  | Петкогло Александр                 | Frontend Developer, Мурманск            |
-| 685  | Коновалов Имя                      | Frontend developer, Тверь               |
-| 686  | Петрова Елена                      | IT talent acquisition specialist        |
-| 687  | Зайцев Дмитрий                     | Frontend developer                      |
-| 688  | Ройтман Сергей                     | Младший инженер-разработчик, Москва     |
-| 689  | Макс Янков                         | CTO                                     |
-| 690  | Антон Щербаков                     | Backend Developer                       |
-| 691  | Бекназаров Назар                   | Датасайентист, НИУ ВШЭ                  |
-| 692  | Сухомлин Максим                    | Руководитель IQHost                     |
-| 693  | Левицкий Александр                 | Начальник группы разработки, Сеть Связной, Москва |
-| 694  | Баландин Герман                    | PHP Developer, Viboom                   |
-| 695  | Мешков Александр                   | Data Scientist, Moscow                  |
-| 696  | Туркин Георгий                     | Frontend, Москва                        |
-| 697  | Петр Потапов                       | Fullstack Developer, Osome, Москва      |
-| 698  | Чалмаев Андрей                     | админ                                   |
-| 699  | Янковский Роман                    | Программист                             |
-| 700  | Миллер Владислав                   | Software engineer, IT consultant        |
-| 701  | Yakhontova Ekaterina               | QA tester, Performance Lab              |
-| 702  | Коснырев Олег                      | Frontend Developer                      |
-| 703  | Кочергин Владимир                  | Backend developer                       |
-| 704  | Леонид Евдокимов                   | почётный клоун, usher2.club             |
-| 705  | Егор Кочетов                       | Старший разработчик ПО, Москва          |
-| 706  | Петр Дмитриенко                    | Developer, Kaspersky                    |
-| 707  | Барсегян Михаил                    | Front-end разработчик                   |
-| 708  | Кугаевский Николай                 | Старший инженер-программист, Mail.ru    |
-| 709  | Гришутин Александр                 | Студент МФТИ, Преподаватель алгоритмов и concurrency в МФТИ и Tinkoff Generations |
-| 710  | Сергей Шишлов                      | Senior Architecture Prototyping Engineer, Arm Limited |
-| 711  | Михайленко Владимир                | Senior Developer                        |
-| 712  | Курносов Михаил                    | Software Developer                      |
-| 713  | Зуев Олег                          | Разработчик, VK                         |
-| 714  | Кумаритов Алан                     | Студент-программист, ЮФУ                |
-| 715  | Усанкин Максим                     | Разработчик, Fastdev                    |
-| 716  | Станислав Ронжин                   | Аспирант, Москва                        |
-| 717  | Плетенев Константин                | QA lead, Accenture                      |
-| 718  | Анна Левадная                      | Разработчик, Alice                      |
-| 719  | Леонид Хмельницкий                 | DigitalAsset.Live                       |
-| 720  | Ворожейкин Павел                   | Developer, Kaspersky, Санкт-Петербург   |
-| 721  | Ermolenko Maksim                   | ARRIVAL Robotics, Site Reliability Engineer |
-| 722  | Авдонин Иван                       | Software engineer, Epam Systems Inc     |
-| 723  | Крылов Филипп                      | Независимый разработчик                 |
-| 724  | Пестерев Дмитрий                   | Менеджер разработки                     |
-| 725  | Спиренков Владислав                | SRE                                     |
-| 726  | Григорьев Василий                  | Web-программист                         |
-| 727  | Plotnikov Anton                    | Backend developer, DSX                  |
-| 728  | Иванов Роман                       | Продакт-менеджер, Яндекс                |
-| 729  | Макаров Сергей                     | Backend Team Lead, Алгоритмика          |
-| 730  | Алексей Любарец                    | Fullstack Developer                     |
-| 731  | Дмитрий Гроза                      | Data Analyst                            |
-| 732  | Мишакин Михаил                     | Senior Software Developer, Direct Line  |
-| 733  | Москвичёв Сергей                   | Software Engineer, Уфа                  |
-| 734  | Максим Филиппов                    | фрилансер                               |
-| 735  | Елизаров Виктор                    | Java Разработчик                        |
-| 736  | Пожаров Алексей                    | Lead Frontend Developer, «Интерфакс»    |
-| 737  | Ялунин Александр                   | Backend Developer                       |
-| 738  | Вячеслав Молостовцев               | Senior dev, Kaspersky                   |
-| 739  | Чеботарёва Виктория                | IT Менеджер, Москва                     |
-| 740  | Беликов Алексей                    | Full-Stack Developer, ELT               |
-| 741  | Лисовский Владислав                | Fullstack Developer, Savedo GmbH        |
-| 742  | Киселев Георгий                    | Loginom Company                         |
-| 743  | Шкурко Александр                   | Android Developer, Сбербанк             |
-| 744  | Aleksandr Nazarov                  | Software Engineer, Facebook, New York   |
-| 745  | Козлов Павел                       | Software Engineer, Twilio               |
-| 746  | Михаил Андреев                     | Senior Javascript Developer             |
-| 747  | Сергей Николаев                    | Fullstack Developer                     |
-| 748  | Стрыгин Андрей                     | Node.js Developer, г. Москва            |
-| 749  | Павлов Максим                      | Программист, ВИСТ Групп                 |
-| 750  | Гарифулина Юлия                    | Software Developer, goTRG               |
-| 751  | Олег Петрачев                      | fuullstack-программист, индивидуальный предприниматель |
-| 752  | Горьков Владимир                   | Программист, Алтай                      |
-| 753  | Альберт Фазуллин                   | Software Engineer, Казань               |
-| 754  | Артур Григорьев                    | Data Science Engineer, Samsung          |
-| 755  | Литвиненко Александр               | Ведущий разработчик                     |
-| 756  | Коряковцев Иван                    | Frontend Developer, "Roborox", Москва   |
-| 757  | Кузякин Павел                      | Frontend Developer, Москва              |
-| 758  | Гавриленко Артём                   | Руководитель проектов ИТ, ООО «Городской супермаркет» |
-| 759  | Константин Власов                  | CG Generalist                           |
-| 760  | Малахов Владимир                   | iOS developer, Санкт-Петербург          |
-| 761  | Казначеев Илья                     | GridGain, Apache Software Foundation    |
-| 762  | Калашников Павел                   | Software Engineer, Mad Devs             |
-| 763  | Чушов Дмитрий                      | PM, Вятка                               |
-| 764  | Могильников Алексей                | Senior Data Scientist, BCS              |
-| 765  | Артамонов Олег                     | Ruby Developer                          |
-| 766  | Елизаров Никита                    | iOS Developer, МТС ИТ, Иннополис        |
-| 767  | Корниенко Владимир                 | Project Manager, Oggetto                |
-| 768  | Алексей Черкасов                   | Ведущий инженер                         |
-| 769  | Смирнов Денис                      | Ведущий разработчик, Arenadata          |
-| 770  | Паринов Аркадий                    | Software Engineer                       |
-| 771  | Роман Карчмитович                  | SRE/DevOps Engineer                     |
-| 772  | Власов Илья                        | Fullstack Developer                     |
-| 773  | Свечников Глеб                     | UI Developer, Санкт-Петербург           |
-| 774  | Резванов Адель                     | Frontend web developer Санкт-Петербург  |
-| 775  | Владимир Корнев                    | dev lead, Москва                        |
-| 776  | Походня Иван                       | Java developer                          |
-| 777  | Кулёмин Михаил                     | SRE                                     |
-| 778  | Херолянц Георгий                   | Senior Developer, Scentbird, Москва     |
-| 779  | Сердюк Даша                        | NLP Research Engineer                   |
-| 780  | Кряжев Сергей                      | Technical manager NetCracker            |
-| 781  | Диденко Яков                       | Разработчик, Яндекс                     |
-| 782  | Дружбин Вечеслав                   | Software Engineer, Waves                |
-| 783  | Оношко Даниил                      | Frontend Teamlead, INGIPRO              |
-| 784  | Степанов Матвей                    | Программист, Ниигазэкономика            |
-| 785  | Вера Давыдова                      | Research developer (NLP), BRLab/HSE, Moscow |
-| 786  | Халиков Антон                      | Директор, NetAngels                     |
-| 787  | Мизин Артём                        | Инженер эксплутации СПД                 |
-| 788  | Гусев Илья                         | Software Engineer, выпускник МФТИ       |
-| 789  | Антон Сорокин                      | QA, Ростелеком                          |
-| 790  | Полян Евгений                      | Product Manager, Positive Technologies, Москва |
-| 791  | Денис Графов                       | Software Engineer, Фрилансер            |
-| 792  | Шоборов Роман                      | .net developer                          |
-| 793  | Цапкин Николай                     | Sr. Software Engineer, Align Technology |
-| 794  | Данилов Алексей                    | Специалист службы технической поддержки, АйТи Хаус |
-| 795  | Бойко Вячеслав                     | Ведущий разработчик, МТС                |
-| 796  | Карандин Глеб                      | Frontend developer, TUI Russia & CIS    |
-| 797  | Туранов Владимир                   | Backend developer, Clover Group         |
-| 798  | Калюжный Владислав                 | Фрилансер                               |
-| 799  | Князев Сергей                      | Программист, Ниигазэкономика            |
-| 800  | Голицын Максим                     | Software Engineer, Exadel               |
-| 801  | Максим Титов                       | Frontend Engineer, Wrike                |
-| 802  | Романов Андрей                     | Веб-разработчик, Joom                   |
-| 803  | Полухин Сергей                     | Backend Developer, Санкт-Петербург      |
-| 804  | Шитов Артём                        | QA, Медиалогия                          |
-| 805  | Михаил Ютман                       | Стажёр-машинист, г. Санкт-Петербург     |
-| 806  | Зюков Александр                    | Senior Backend Engineer, JobToday SA Luxembourg |
-| 807  | Александр Петкогло                 | Senior Frontend Developer, freelancer   |
-| 808  | Хуснутдинов Раиль                  | Разработчик, ООО "Инфинити"             |
-| 809  | Плевков Дмитрий                    | Backend-developer, AIM                  |
-| 810  | Павлов Игорь                       | Fullstack developer                     |
-| 811  | Елизавета Боржкова                 | Business Analyst                        |
-| 812  | Шимолин Алексей                    | Fullstack developer                     |
-| 813  | Ульянов Владислав                  | Backend Sowftware Developer, BelkaCar   |
-| 814  | Стамбульцян Артур                  | Frontend, Санкт-Петербург               |
-| 815  | Nikolay Kapustin                   | Apple Evagnelist, Digital Horizon       |
-| 816  | Олег Барсуков                      | Web developer, freelance                |
-| 817  | Назаров Сергей                     | BSS Developer, Ingram Micro Cloud       |
-| 818  | Коротин Михаил                     | Руководитель группы разработки, Яндекс  |
-| 819  | Петрухин Павел                     | Backend developer, Москва               |
-| 820  | Габдуллин Арсений                  | Бэкенд-разработчик, Тинькофф-журнал     |
-| 821  | Бортникова Анастасия               | Системный аналитик, Москва              |
-| 822  | Алексеев Дмитрий                   | Head of Mobile, AGIMA                   |
-| 823  | Виталий Павлов                     | Программист, Clover                     |
-| 824  | Шевченко Игорь                     | Тимлид, Antida software, Челябинск      |
-| 825  | Игнатьев Глеб                      | Software Developer, Emlid               |
-| 826  | Прищепов Владислав                 | Product Manager, Yandex AppMetrica      |
-| 827  | Иван Анисимов                      | Админ, Уфа                              |
-| 828  | Игорь Иванов                       | Заведующий кафедрой ИТ, Белгород        |
-| 829  | Ковба Андрей                       | Fullstack Developer, г. Екатеринбург    |
-| 830  | Купченко Александр                 | nodejs, ruby, crystal developer         |
-| 831  | Швец Сергей                        | CTO, Manageband                         |
-| 832  | Пудов Андрей                       | Программист, Intel                      |
-| 833  | Зайцев Дмитрий                     | python developer                        |
-| 834  | Алексеев Никита                    | Backend Разработчик, KazanExpress       |
-| 835  | Васильев Владислав                 | Software Engineer, Altoros, Минск       |
-| 836  | Железная Анастасия                 | Ведущий разработчик Oracle BI, РДТЕХ    |
-| 837  | Гизатуллин Марат                   | Java lead                               |
-| 838  | Андрей Каналин                     | Инженер, г. Екатеринбург                |
-| 839  | Протопопова Анна                   | QA team lead                            |
-| 840  | Кухтинов Александр                 | Аналитик, ex-Glowbyte                   |
-| 841  | Опрокиднев Андрей                  | Frontend developer, г. Екатеринбург     |
-| 842  | Селихов Евгений                    | .Net Developer                          |
-| 843  | Тронин Денис                       | Senior Software Developer, Cyprus       |
-| 844  | Цаплин Леонид                      | Программист, Москва                     |
-| 845  | Константин Чупин                   | Backend Developer, Yandex               |
-| 846  | Гончаренко Дмитрий                 | Developer, Moscow, Yandex               |
-| 847  | Жидков Сергей                      | hoko                                    |
-| 848  | Буров Андрей                       | Java Developer, ACI                     |
-| 849  | Захлестин Алексей                  | Программист и IT-менеджер               |
-| 850  | Михаил Мухоян                      | Business Analyst, Королёв               |
-| 851  | Колбасов Матвей                    | Data Scientist, Capturica               |
-| 852  | Евгений Михеев                     | .net web developer, Калининград         |
-| 853  | Чумаков Виталий                    | .NET разработчик, Москва                |
-| 854  | Гуденков Дмитрий                   | Frontend developer                      |
-| 855  | Иван Клигман                       | Fullstack developer                     |
-| 856  | Павкин Илья                        | Программист, ASNTL                      |
-| 857  | Романченко Андрей                  | Программист 1С, Москва                  |
-| 858  | Шилов Сергей                       | Администратор                           |
-| 859  | Кулин Филипп                       | Генеральный директор, хостинг DIPHOST   |
-| 860  | Рыбкин Роман                       | Software Developer, Университет Иннополис |
-| 861  | Платонов Сергей                    | Программист, Цуг                        |
-| 862  | Шалымов Антон                      | web backend-developer, Новосибирск      |
-| 863  | Кочуров Максим                     | Research Engeneer, Samsung AI; MSc Skoltech |
-| 864  | Петрова Елена                      | IT Talent acquisition specialist        |
-| 865  | Марк Фрост                         | Lead backend developer                  |
-| 866  | Кислицын Егор                      | Директор, Captain Software Ltd          |
-| 867  | Жуковский Никита                   | Front End Software Engineer, Москва     |
-| 868  | Федосеева Анна                     | Frontend developer                      |
-| 869  | Литвиненко Владислав               | Самара, fullstack                       |
-| 870  | Самборский Сергей                  | Backend, Санкт-Петербург                |
-| 871  | Гомулин Сергей                     | Программист, Тюмень                     |
-| 872  | Зурбаев Тимур                      | Backend разработчик, Zenky              |
-| 873  | Михаил Навернюк                    | Ведущий программист, Everys, г. Москва  |
-| 874  | Егоров Павел                       | Руководитель отдела обучения, СКБ Контур |
-| 875  | Ермилов Антон                      | Software Developer, Soter Analytics     |
-| 876  | Исмаил Алекперов                   | фрилансер, Екатеринбург                 |
-| 877  | Левша Александр                    | Ведущий разработчик, Набережные Челны   |
-| 878  | Гордей Александра                  | мл. разработчик, МФТИ                   |
-| 879  | Бикеев Альберт                     | Software engineer                       |
-| 880  | Максим Васенков                    | Ведущий программист, Этерон, г. Смоленск |
-| 881  | Ибраков Азат                       | SDET, Align Technology                  |
-| 882  | Александров Владимир               | Backend Developer, Waves                |
-| 883  | Юрий Новиков                       | Руководитель отдела разработки, Gateline.ru |
-| 884  | Гуртовой Андрей                    | Главный инженер по разработке ПО, Сбербанк |
-| 885  | Данила Рязановский                 | Программист, Joom                       |
-| 886  | Тагир Нурахметов                   | Mobile Developer                        |
-| 887  | Егоров Антон                       | Software Engineer, SmartBear Software   |
-| 888  | Илья Барышников                    | Data Scientist, Москва                  |
-| 889  | Сикорский Алексей                  | Software Developer, Moscow              |
-| 890  | Козловский Андрей                  | Software Engineer, Санкт-Петербург      |
-| 891  | Владимир Хомутов                   | ФУПМ-92/94                              |
-| 892  | Кац Никита                         | Senior Backend Developer, amoCRM        |
-| 893  | Сергей Аксёнов                     | Руководитель backend-разработки         |
-| 894  | Шишаев Арсений                     | студент IT специальности                |
-| 895  | Королев Руслан                     | Frontend Developer                      |
-| 896  | Мезин Артём                        | Fullstack developer                     |
-| 897  | Соковых Пётр                       | фрилансер                               |
-| 898  | Ивашковский Иван                   | Tech lead                               |
-| 899  | Крейдлин Леонид                    | Программист, Pertenorgroup, Paris       |
-| 900  | Павел Вайнерман                    | программист                             |
-| 901  | Данил Юрлов                        | Software Developer, Нижний Новгород     |
-| 902  | Трифонов Евгений                   | IT-журналист, г. Москва                 |
-| 903  | Frolov Maksim                      | Product, Akelon                         |
-| 904  | Певунов Дмитрий                    | Ведущий разработчик Bi.Zone             |
-| 905  | Юрьев Вадим                        | QA, Redmadrobot                         |
-| 906  | Грачев Роман                       | Web Developer,Глазов                    |
-| 907  | Лебедев Максим                     | Разработчик, SkyDNS                     |
-| 908  | Алексей Владимиров                 | Senior Web Developer, Wrike             |
-| 909  | Пономарев Олег                     | Выпускник МФТИ, Software Engineer, Google |
-| 910  | Гоняк Дмитрий                      | Java developer. Moscow                  |
-| 911  | Хоронько Андрей                    | Software Engineer, Self-Employed        |
-| 912  | Денисов Павел                      | FrontEnd Разработчик SibEdge Томск      |
-| 913  | Добряк Дмитрий                     | CA, freelancer                          |
-| 914  | Иван Резниченко                    | Network Architect                       |
-| 915  | Roman Senturov                     | Developer, SPb                          |
-| 916  | Давыдов Максим                     | Senior Software Developer, Elama        |
-| 917  | Поляк Марк                         | Data Scientist, Санкт-Петербург         |
-| 918  | Дятлов Андрей                      | Программист, Capturica                  |
-| 919  | Шардин Михаил                      | фронтенд-разработчик, Пермь             |
-| 920  | Амирханова Дарья                   | Test Analyst, Accenture Latvia          |
-| 921  | Мурадьян Илья                      | Разработчик Java, TradingView           |
-| 922  | Кольцов Михаил                     | Backend Developer, ЦТБ                  |
-| 923  | Котов Михаил                       | Senior QA Automation, Playtika          |
-| 924  | Николенко Светлана                 | Инженер баз данных, Геоскан             |
-| 925  | Судома Артём                       | Серверный разработчик, Санкт-Петербург  |
-| 926  | Шакиров Станислав                  | mobile developer, ип                    |
-| 927  | Сергей Фадеев                      | Разработчик, Провектус                  |
-| 928  | Бодня Константин Александрович     | Performance engineer, KLM, Amstelveen, Netherlands |
-| 929  | Алексей Пыльцын                    | Веб-разработчик, Ростов-на-Дону         |
-| 930  | Азат Разетдинов                    | Руководитель службы, Яндекс             |
-| 931  | Будыльников Владимир               | Системный Администратор, Яндекс.Деньги  |
-| 932  | Теребенин Евгений                  | android developer                       |
-| 933  | Вихров Игорь                       | QA engineer, Москва                     |
-| 934  | Vadik Sirekanyan                   | Senior Android Developer, Москва        |
-| 935  | Васенков Максим                    | Ведущий программист, Этерон, Смоленск   |
-| 936  | Косин Вадим                        | Системный архитектор, ALRUD             |
-| 937  | Симонов Фёдор                      | Backend Developer, Yandex               |
-| 938  | Касьянов Алексей                   | программист, Everys Москва              |
-| 939  | Ничипоренко Денис                  | Backend Developer                       |
-| 940  | Бобровский Антон                   | программист, Диасофт                    |
-| 941  | Николай Громов                     | ООО Наука                               |
-| 942  | Aleksandr Tavgen                   | CTO Timetrix                            |
-| 943  | Гимранов Валентин                  | WEB-developer, Обнинск                  |
-| 944  | Константин Круглов                 | Lead DevOps, Bidease                    |
-| 945  | Михаил Макаров                     | Senior Software Engineer, Киев (Украина) |
-| 946  | Донской Александр                  | программист, ИП                         |
-| 947  | Аникьева Ксения                    | Инженер по тестированию, Netrika        |
-| 948  | Коплович Дмитрий                   | Founder, Latera                         |
-| 949  | Пномарёв Алексей                   | программист, Набережные Челны           |
-| 950  | Ардяков Алексей                    | Ведущий инженер, Datum Group            |
-| 951  | Атанов Михаил                      | бэкендер, Москва                        |
-| 952  | Шуршев Андрей                      | Backend developer                       |
-| 953  | Лозко Роман                        | Security Researcher, Москва             |
-| 954  | Малыхин Юрий                       | Разработчик, Яндекс                     |
-| 955  | Кондратов Андрей                   | Старший инженер-программист             |
-| 956  | Дмитрий Скрыльников                | Frontend Developer, Vigo                |
-| 957  | Новицкий Кирилл                    | QA engineer, Москва                     |
-| 958  | Игорь Волков                       | Software Developer, Москва              |
-| 959  | Станислав Тактаев                  | Разработчик Sol, Py                     |
-| 960  | Проценко Андрей                    | Network engineer, ozon.ru               |
-| 961  | Голубев Павел                      | программист ООО "Синдикат"              |
-| 962  | Игорь Пнев                         | Fullstack разработчик                   |
-| 963  | Писаренко Максим                   | DevOps, Netrika                         |
-| 964  | Орлов Андрей                       | Начальник отдела инженерно-технического обслуживания игровых проектов, Иннова |
-| 965  | Воронов Дмитрий                    | Fullstack Developer, JetRockets         |
-| 966  | Антипина Александр                 | Software Engineer, Amsterdam            |
-| 967  | Рошко Данил                        | Web Developer, Екатеринбург             |
-| 968  | Могилевский Вячеслав               | Site Reliability Engineer, Tripactions  |
-| 969  | Скуратович Сергей                  | Инженер, Воронеж                        |
-| 970  | Борзилов Артем                     | Программист, JetBrains                  |
-| 971  | Анатолий Ягов                      | Software Developer г. Санкт-Петербург   |
-| 972  | Белобородов Иван                   | Product Designer, Москва                |
-| 973  | Мирасов Сергей                     | Frontend Developer, Нижний Новгород     |
-| 974  | Андрей Янгабышев                   | Software Developer, г. Москва           |
-| 975  | Тишков Павел                       | DevOps, Moscow                          |
-| 976  | Скрибловский Илья                  | веб-разработчик, Микро Лайн             |
-| 977  | Мосяйкин Владимир                  | Head of Web Development, Москва         |
-| 978  | Филипп Казаков                     | Руководитель, Ph&Ph                     |
-| 979  | Пушкарев Андрей                    | Fullstack Development                   |
-| 980  | Мальгин Алексей                    | Senior Backend Developer, Новосибирск   |
-| 981  | Кущ Александр                      | CTO, Ipsos in Russia                    |
-| 982  | Чижанов Илья                       | Инженер-программист, ФГУП "НАМИ"        |
-| 983  | Мокеев Алексей                     | Разработчик                             |
-| 984  | Гуревич Алексей                    | биоинформатик, СПбГУ                    |
-| 985  | Степанов Дмитрий                   | Разработчик, Яндекс                     |
-| 986  | Пятин Илья                         | Data Engineer, First Line Software      |
-| 987  | Шеломенцев Дмитрий                 | Программист, Mail.ru Group              |
-| 988  | Варламов Георгий                   | Системный аналитик                      |
-| 989  | Гарифьянов Денис                   | iOS developer, dlg.im                   |
-| 990  | Герасименко Татьяна                | Lead developer, Москва                  |
-| 991  | Жохов Алексей                      | VP of Engineering, Scentbird Inc.       |
-| 992  | Степаненко Сергей                  | Junior Haskell Developer, Juspay        |
-| 993  | Докучаев Дмитрий                   | Frontend developer, Санкт-Петербург     |
-| 994  | Матвей Матвеев                     | Product Manager, Москва, Skyeng         |
-| 995  | Кудрявцев Денис                    | Программист, Москва                     |
-| 996  | Жеребцов Алексей                   | Программист, фриланс                    |
-| 997  | Кривоносов Алексей                 | Team Lead, LIFE PAY, Москва             |
-| 998  | Слепков Марк                       | Программист, фрилансер                  |
-| 999  | Субботин Василий                   | Teamlead, smena                         |
-| 1000 | Яницкий Александр                  | Lead developer, Калининград             |
-| 1001 | Гейнц Роман                        | Fullstack разработчик                   |
-| 1002 | Сёмов Руслан                       | Senior DevOps Engineer, dlg.im          |
-| 1003 | Левицкая Анастасия                 | Художник                                |
-| 1004 | Альберт Султанов                   | Разработчик, Москва                     |
-| 1005 | Панфёров Сергей                    | Java Developer, Moscow                  |
-| 1006 | Алексей Чикин                      | Frontend developer, г. Саранск          |
-| 1007 | Баумгертнер Александр              | Fullstack JS разработчик, Спб           |
-| 1008 | Пётр Резиков                       | Software Engineer                       |
-| 1009 | Кузнецов Михаил                    | System Administrator / DevOps, Freelancer |
-| 1010 | Бредников Владимир                 | Devops engineer, Нижний Новгород        |
-| 1011 | Семякин Павел                      | Системный архитектор. Москва            |
-| 1012 | Старцев Павел                      | Android-разработчик                     |
-| 1013 | Максим Ласка                       | Data Engineer                           |
-| 1014 | Стариков Михаил                    | Frontend Engineer, METRO Markets GmbH   |
-| 1015 | Затеев Александр                   | DevOps engineer, Москва                 |
-| 1016 | Дмитрий Невзоров                   | CTO, microapps SL                       |
-| 1017 | Koryabkin Nikita                   | Senior Software Architect, Zevs Cloud   |
-| 1018 | Мороз Владислав                    | Программист, 1С                         |
-| 1019 | Клецер Илья                        | Консультант по внедрению ПО, IBM Россия |
-| 1020 | Кирилл Заборский                   | Software Engineer, FP Complete          |
-| 1021 | Кузьмин Ринат                      | Data scientist, Clover Group            |
-| 1022 | Анисимов Алексей                   | Программист, Воронеж                    |
-| 1023 | Онин Алексей                       | Программист, Пермь                      |
-| 1024 | Захаров Сергей                     | Web Developer                           |
-| 1025 | Андрей Логинов                     | Разработчик, Санкт-Петербург            |
-| 1026 | Исаев Евгений                      | Инженер-программист, Уфа                |
-| 1027 | Игорь Водка                        | Fullstack Developer                     |
-| 1028 | Коротаев Александр                 | Web Developer, ИП, Краснодар            |
-| 1029 | Миронов Александр                  | Ведущий Android разработчик, Bekitzur   |
-| 1030 | ﻿Петров Алексей                    | Автотестирование, Сбербанк              |
-| 1031 | Shilkin Denis                      | Senior Software Engineer, Gett RnD      |
-| 1032 | Саксин Кирилл                      | Senior Scala Developer                  |
-| 1033 | Шашин Алексей                      | Frontend-разработчик                    |
-| 1034 | Богачёв Александр                  | Старший разработчик, Arrival            |
-| 1035 | Хамидуллин Руслан                  | Зам.тех.дир., тимлид; WavePoint, С-Пб   |
-| 1036 | Кирилл Демуров                     | Разработчик, IoTa Controls              |
-| 1037 | Спорыш Семён                       | Backend Developer, г. Санкт-Петербург   |
-| 1038 | Волков Никита                      | Frontend Developer                      |
-| 1039 | Савченко Валерий                   | Frontend Developer                      |
-| 1040 | Романов Михаил                     | Frontend Developer, Comtravo            |
-| 1041 | Просвирнин Владислав               | Frontend Developer                      |
-| 1042 | Ростислав Василихин                | Software Engineer, Нижний Новгород      |
-| 1043 | Lebedev Sergey                     | System Administrator, Inter             |
-| 1044 | Лебедев Дмитрий                    | JS Developer, Санкт-Петербург           |
-| 1045 | Баранов Кирилл                     | Web-developer                           |
-| 1046 | Атанов Андрей                      | Junior Research Fellow, Samsung-HSE Laboratory |
-| 1047 | Александр Тучков                   | Независимый консультант                 |
-| 1048 | Аммосов Николай                    | Backend developer, ООО Баланс-платформа |
-| 1049 | Хисамов Вернат                     | Software Engineer                       |
-| 1050 | Ряжских Алексей                    | .Net Developer, Санкт-Петербург         |
-| 1051 | Харламова Александра               | Аналитик, Москва                        |
-| 1052 | Тарасов Александр                  | Ведущий разработчик, Дигинавис          |
-| 1053 | Токтохоев Баир                     | Программист 1С, ООО "1551" г. Москва    |
-| 1054 | Дмитрий Костиков                   | Программист, г. Волгоград               |
-| 1055 | Бабушкин Андрей                    | Software Validation Engineer, Интел, Нижний Новгород |
-| 1056 | Илья Данилкин                      | Backend engineer, Avito                 |
-| 1057 | Коноваленко Даниил                 | Разработчик, Яндекс                     |
-| 1058 | Рюмкин Павел                       | CEO, Almighty Web                       |
-| 1059 | Морозов Иван                       | Инженер-разработчик, S7 Techlab         |
-| 1060 | Николай Антонов                    | Test engineer, T-Systems                |
-| 1061 | Иванов Алексей                     | frontend-разработчик, Evil Martians     |
-| 1062 | Воротынцев Дмитрий                 | Руководитель, ФСК                       |
-| 1063 | Боков Сергей                       | Java Developer, Ingram Micro Cloud      |
-| 1064 | Макаров Ярослав                    | Python Developer, CDNvideo              |
-| 1065 | Дмитрий Спорыхин                   | москва, главный инженер разработки, сбербанк |
-| 1066 | Ильдар Мустафин                    | Разработчик С++                         |
-| 1067 | Ахрамеев Павел                     | iOS-Разработчик, PicsArt                |
-| 1068 | Фокина Татьяна                     | Web developer, Санкт-Петербург          |
-| 1069 | Ларионов Игорь                     | Инженер-программист, iSpring            |
-| 1070 | Бандурин Георгий                   | Системный администратор                 |
-| 1071 | Sergey Nikitin                     | Frontend developer, Moscow              |
-| 1072 | Парфёнов Михаил                    | Fullstack developer, freelance          |
-| 1073 | Жиляев Дмитрий                     | Инженер, Selectel                       |
-| 1074 | Александр Анохин                   | Lead Developer, г. Москва               |
-| 1075 | Martin Schulz                      | Frontend Developer                      |
-| 1076 | Бухтияров Евгений                  | Разработчик ИС, Новосибирск             |
-| 1077 | Стрельцов Алексей                  | Backend Developer                       |
-| 1078 | Парфёнов Артём                     | Старший разработчик, г.Москва           |
-| 1079 | Тимонин Сергей                     | Автокоды, Ассемблер, Кобол, Фортран, С, Паскаль, С++, Python, 1С, OneScript, DataBase Dev Ветеран IT Москва |
-| 1080 | Ким Алёна                          | Data Scientist, HSE                     |
-| 1081 | Зонов Александр                    | инженер-программист, T-SYSTEMS RUS      |
-| 1082 | Сергей Стремидло                   | Web Developer                           |
-| 1083 | Сычев Антон                        | Разработчик, TradingView                |
-| 1084 | Волхонский Денис                   | Аспирант, Сколтех                       |
-| 1085 | Никита Князев                      | Software Engineer                       |
-| 1086 | Кутузов Михаил                     | Frontend-developer Salt & Pepper        |
-| 1087 | Ермолаев Илья                      | Fullstack Developer, Москва             |
-| 1088 | Коврова Аста                       | Fullstack developer, Санкт-Петербург    |
-| 1089 | Гильфанов Тимур                    | Android-разработчик, Reactive Phone     |
-| 1090 | Егор Жумиков                       | Программист, Санкт-Петербург            |
-| 1091 | Юлия Ярмонова                      | Front-end программист, Москва           |
-| 1092 | Паханов Максим                     | Менеджер продукта, Mail.ru              |
-| 1093 | Цай Сергей                         | Программист, Саратов                    |
-| 1094 | Суслов Алексей                     | Инженер-программист, Eltex              |
-| 1095 | Сергей Вычегжанин                  | Senior Software Engineer, OpenText      |
-| 1096 | Славнейшев Филипп                  | C++ разработчик, Yandex                 |
-| 1097 | Артём Попов                        | Software Engineer                       |
-| 1098 | Манолов Евгений                    | Software Engineer, Санкт-Петербург      |
-| 1099 | Фадеев Роман                       | Фронтенд-разработчик, OneTwoTrip        |
-| 1100 | Максим Мартынов                    | Mobile Team Lead, Dualboot Partners     |
-| 1101 | Вагин Александр                    | Web developer                           |
-| 1102 | Карнова Анна                       | Верстальщик, Москва                     |
-| 1103 | Усов Баларам                       | Разработчик и математик, Москва         |
-| 1104 | Pletnev Nikolay                    | DevOps Itransition                      |
-| 1105 | Лев Якушев                         | Digital producer, Пермь                 |
-| 1106 | Коняхин Всеволод                   | RnD Developer, г. Санкт-Петербург       |
-| 1107 | Ильенков Роман                     | программист, Санкт-Петербург            |
-| 1108 | Василий Кузнецов                   | Ведущий разработчик, TravelLine         |
-| 1109 | Серебряная Юлия                    | Data Scientist, ParticleOne             |
-| 1110 | Бычков Кирилл                      | Инженер                                 |
-| 1111 | Пенкин Михаил                      | Веб-разработчик, Самара                 |
-| 1112 | Владимир Зуев                      | DevOps, Ярославль                       |
-| 1113 | Рыбалка Александр                  | UE4 Developer                           |
-| 1114 | Коваленко Михаил                   | Программист, R.D Science, Красноярск    |
-| 1115 | Ашуха Арсений                      | Исследователь, Samsung AI Center Moscow |
-| 1116 | Евгений Прилепин                   | Software Engineer, Санкт-Петербург      |
-| 1117 | Алексеев Валерий                   | Креативный директор, веб-студия #VA     |
-| 1118 | Куватов Денис                      | Game developer, Москва                  |
-| 1119 | Суровцев Павел                     | Программист, Москва                     |
-| 1120 | Сойфер Андрей                      | Software Developer, General Motors      |
-| 1121 | Андрей Максимов                    | Software Engineer, Quantori             |
-| 1122 | Абанин Антон                       | ведущий программист                     |
-| 1123 | Кривоносов Георгий                 | Fullstack Developer, SoftBand           |
-| 1124 | Федяков Филипп                     | iOS Engineer, Uberchord Gmbh            |
-| 1125 | Пржибельский Андрей                | Биоинформатик, СПбГУ                    |
-| 1126 | Антипин Роман                      | Software Engineer, Mail.ru              |
-| 1127 | Вовк Антон                         | Инженер-программист, Москва             |
-| 1128 | Антипова Полина                    | Руководитель проектов                   |
-| 1129 | Илья Мельников                     | Senior Product Support Engineer, ООО "ДжиДиСи Сервисез" |
-| 1130 | Ульянов Алексей                    | фрилансер                               |
-| 1131 | Завьялов Владислав                 | Ученый, программист (Хельсинки, Москва) |
-| 1132 | Таранец Иван                       | fullstack developer                     |
-| 1133 | Гаврилов Даниил                    | Разработчик-Исследователь, ВКонтакте    |
-| 1134 | Азат Ибраков                       | SDET, Align Technology                  |
-| 1135 | Шер Владимир                       | CEO, Мегатель Сервис, Москва            |
-| 1136 | Кирюшин Александр                  | Software Developer, ivi                 |
-| 1137 | Коновалов Артём                    | Frontend Developer, Тверь               |
-| 1138 | Васнецова Людмила                  | Frontend Developer                      |
-| 1139 | Алекс Бренейзе                     | CEO, Auditerra                          |
-| 1140 | Чубуков Алексей                    | Специалист техподдержки, CDNvideo       |
-| 1141 | Хабирова Татьяна                   | Software Engineer, Минск                |
-| 1142 | Седов Эдгар                        | Backend developer, Yandex               |
-| 1143 | Дмитрий Богомолов                  | Developer                               |
-| 1144 | Венедиктов Вадим                   | Веб-разработчик, Автор курсов, goodprogrammer.ru |
-| 1145 | Варб Валентин                      | Frontend developer, Initflow            |
-| 1146 | Горобец Алексей                    | Software Engineer                       |
-| 1147 | Кобрин Александр                   | Software Engineer, Dashbouquet          |
-| 1148 | Артем Страхов                      | QA engineer, Санкт-Петербург            |
-| 1149 | Бакиров Марат                      | Tech lead, ParusInvest, Москва          |
-| 1150 | Максим Филиппов                    | программист, Ростов-на-Дону             |
-| 1151 | Моргоев Михаил                     | Backend Developer, OZON Tech            |
-| 1152 | Балчиков Константин                | .NET Разработчик, г. Пермь              |
-| 1153 | Пузанов Никита                     | Frontend developer                      |
-| 1154 | Богданов Михаил                    | DB Developer, Пенза                     |
-| 1155 | Руслан Магомедов                   | IT Engineer                             |
-| 1156 | Клюкин Александр                   | Администратор баз данных, Москва        |
-| 1157 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
-| 1158 | Ряжских Дарья                      | Senior Android Developer, Malwarebytes  |
-| 1159 | Дудин Василий                      | UX Designer, SEMrush                    |
-| 1160 | Марина Степанова                   | Технический менеджер, Яндекс            |
-| 1161 | Кирилл Книзе                       | Старший эксперт-программист, T-Systems  |
-| 1162 | Кучин Александр                    | Разработчик, Ingram Micro               |
-| 1163 | Тюрин Рамин                        | Front-end Developer, dlg.im             |
-| 1164 | Самохвалов Павел                   | Developer                               |
-| 1165 | Роман Соколов                      | инженер-программист, выпускник МФТИ     |
-| 1166 | Федосихина Елена                   | Frontend Developer, Confirmit           |
-| 1167 | Илья Денисов                       | C++ developer, шведская компания Fastdev AB |
-| 1168 | Артём Егоров                       | Bioinformatician, the Laboratory of Systems Biology of Aging, MSU, Moscow |
-| 1169 | Морозов Сергей                     | 1С-Программист, г.Киров                 |
-| 1170 | Коваленко Павел                    | Senior Software Engineer, Mipko         |
-| 1171 | Волков Матвей                      | Developer                               |
-| 1172 | Остапчук Иван                      | .net developer                          |
-| 1173 | Михаил Кольцов                     | Backend Developer, ЦТБ                  |
-| 1174 | Зотов Александр                    | IT-директор, Москва                     |
-| 1175 | Игумнов Андрей                     | Руководитель разработки платежных сервисов, OZON Tech |
-| 1176 | Олег Шершень                       | Technical Support Specialist            |
-| 1177 | Саша Беспоясов                     | Фронтенд-разработчик, Москва.           |
-| 1178 | Пономарев Вадим                    | WebDeveloper, г. Челябинск              |
-| 1179 | Дмитрий Назаров                    | Senior Developer, DataArt, Санкт-Петербург |
-| 1180 | Москалев Алексей                   | Senior Research Developer, Kaspersky Lab |
-| 1181 | Шеркунов Сергей                    | Backend developer                       |
-| 1182 | Голубов Никита                     | Frontend Developer, Курск               |
-| 1183 | Чекан Евгений                      | Lead Back-end Developer                 |
-| 1184 | Кузнецов Федор                     | Старший аналитик, Радиус                |
-| 1185 | Миколаец Дмитрий                   | SCOM developer, Moscow                  |
-| 1186 | Кунис Даниил                       | iOS Developer, Touch Instinct           |
-| 1187 | Прямиков Павел                     | Uberwave                                |
-| 1188 | Dzindzikau Stanislau               | Web-Developer                           |
-| 1189 | Андрей Шишкин                      | Lead System Engineer                    |
-| 1190 | Антипов Дмитрий                    | Биоинформатик, СПбГУ                    |
-| 1191 | Александр Родионов                 | Data Scientist                          |
-| 1192 | Дрягин Александр                   | Business / Systems Analyst, Kiwitaxi    |
-| 1193 | Балабанов Дмитрий                  | Developer, Moscow                       |
-| 1194 | Владимир Есаулов                   | Tech&Product at Katalystos              |
-| 1195 | Екатерина Николаенко               | Frontend developer                      |
-| 1196 | Чернов Алексей                     | Site Reliability Engineer, Google       |
-| 1197 | Домрачев Роман                     | Head of Development                     |
-| 1198 | Тришкин Даниил                     | DevOps Engineer, Grid Dynamics          |
-| 1199 | Смирнов Алексей                    | Инженер-программист, Екатеринбург       |
-| 1200 | Чермянин Александр                 | .Net Developer, Нижний Новгород         |
-| 1201 | Гордеев Алексей                    | Senior iOS Developer, Москва            |
-| 1202 | Марковкин Денис                    | Разработчик, Москва                     |
-| 1203 | Олег Никитин                       | SE, Tech Lead, Tallinn                  |
-| 1204 | Юрий Толмачев                      | UI Developer, Краков (Польша)           |
-| 1205 | Куликов Андрей                     | Программист, Google                     |
-| 1206 | Соловьев Михаил                    | Программист, Иркутск                    |
-| 1207 | Гриценко Екатерина                 | Fullstack developer, Екатеринбург       |
-| 1208 | Рехина Оксана                      | Программист, Ростелеком                 |
-| 1209 | Субботин Денис                     | Devops, Санкт-Петербург                 |
-| 1210 | Коршиков Павел                     | Java Developer, г. Санкт-Петербург      |
-| 1211 | Пикулин Илья                       | C++ разработчик, RCDB                   |
-| 1212 | Фадеев Даниил                      | Software Engineer, Intel                |
-| 1213 | Гафуанов Артём                     | Fullstack developer, Геленджик          |
-| 1214 | Айдар Ибатуллин                    | Frontend developer                      |
-| 1215 | Гусак Никита                       | Backend developer, Tinkoff              |
-| 1216 | Бушманова Елена                    | Биоинформатик, СПбГУ                    |
-| 1217 | Васильев Олег                      | Linux System Administrator              |
-| 1218 | Александр Петров                   | Тимлид, Новосибирск                     |
-| 1219 | Юлия Артющик                       | Frontend Developer, Insense             |
-| 1220 | Sergey Egorov                      | Fullstack developer, Ryazan             |
-| 1221 | Чайников Марк                      | Team Lead, ЦИАН                         |
-| 1222 | Смирнов Николай                    | программист 1с, Санкт-Петербург         |
-| 1223 | Ткаченко Иван                      | Ведущий программист, г.Тюмень           |
-| 1224 | Кабанов Сергей                     | Backend Teamlead, Yandex                |
-| 1225 | Борис Стельмах                     | Web Developer                           |
-| 1226 | Волков Алексей                     | Senior Test Automation Engeneer, EPAM   |
-| 1227 | Константин Лёвин                   | Verification Engineer                   |
-| 1228 | Сидоров Пётр                       | Программист                             |
-| 1229 | Инфлянскас Виталий                 | Инженер-программист                     |
-| 1230 | Александр Самоделкин               | Systems engineer, EPAM, Санкт-Петербург |
-| 1231 | Бабушкин Андрей                    | Инженер по тестированию, Интел          |
-| 1232 | Никитин Александр                  | Full Stack JS Developer, Andersen, Санкт-Петербург |
-| 1233 | Амелин Константин                  | scala, python developer                 |
-| 1234 | Астафьев Никита                    | Frontend-developer                      |
-| 1235 | Неруш Евгений                      | научный сотрудник, ИПФ РАН              |
-| 1236 | Григорий Можаев                    | QA Automation, г. Москва                |
-| 1237 | Соломатин Роман                    | Программист, Пермь                      |
-| 1238 | Алeксей Гитoв                      | Программист и сисадмин, Москва г        |
-| 1239 | Лобов Александр                    | Software Developer, JetBrains           |
-| 1240 | Павел Аргентов                     | Backend developer, teamlead, Tver       |
-| 1241 | Михаил Акопов                      | iOS Developer                           |
-| 1242 | Булгаков Андрей                    | Fullstack Developer, Красноярск         |
-| 1243 | Королев Сергей                     | Разработчик, Москва                     |
-| 1244 | Александров Кирилл                 | Инженер по тестированию, Казань         |
-| 1245 | Сергей Хрыков                      | Программист, ABBYY                      |
-| 1246 | Рыков Михаил                       | Principal Software Engineer, Dell EMC, г. Санкт-Петербург |
-| 1247 | Хрульков Артём                     | Frontend-developer, г.Екатеринбург      |
-| 1248 | Мамашин Николай                    | IT Engineer                             |
-| 1249 | Темнов Александр                   | Менеджер Проектов, Москва               |
-| 1250 | Антон Филиппов                     | Инженер-программист, НТП ТКА            |
-| 1251 | Леменков Пётр                      | Программист, Fedora Project             |
-| 1252 | Ефремов Денис                      | Fullstack Web Developer, AtomicWallet   |
-| 1253 | Федоринова Ольга                   | 1C Developer, Stockmann                 |
-| 1254 | Евгений Хайдуков                   | IT Manager, Краснодар                   |
-| 1255 | Каратаев Павел                     | Team Lead, Mail.ru Group                |
-| 1256 | Нещадин Иван                       | Senior Backend Developer, Moscow        |
-| 1257 | Денис Михальский                   | программист фрилансер                   |
-| 1258 | Патлах Сергей                      | C# developer                            |
-| 1259 | Белеванцев Андрей                  | системный программист, Москва           |
-| 1260 | Чистяков Илья                      | Developer, Yandex                       |
-| 1261 | Зимин Тимур                        | Data scientist, Clover Group            |
-| 1262 | Павлов Егор                        | Frontend developer, BestDoctor          |
-| 1263 | Орешников Иван                     | Research Engineer, Max Planck Institute |
-| 1264 | Колкер Михаил                      | Lead backend developer, Zyfra           |
-| 1265 | Степан Андреенко                   | CEO WIDISOFT                            |
-| 1266 | Рубан Евгений                      | Software Engineer                       |
-| 1267 | Лукашов Антон                      | Devops, Playtika                        |
-| 1268 | Григорий Бартош                    | Стажер-разработчик, Яндекс, г. Санкт-Петербург |
-| 1269 | Александр Колобов                  | Freelancer, Екатеринбург                |
-| 1270 | Мальцев Алексей                    | Разработчик, Veeam                      |
-| 1271 | Никита Ванясин                     | Software Engineer / Self-Employed       |
-| 1272 | Егор Бурков                        | Data Science Engineer, Samsung          |
-| 1273 | Иван Винокуров                     | Frontend Developer, CORSO               |
-| 1274 | Яковлев Роман                      | junior, Санкт-Петербург                 |
-| 1275 | Мамин Адель                        | программист, Exafore                    |
-| 1276 | Новайкин Павел                     | Фронтенд разработчик                    |
-| 1277 | Давид Френкель                     | Fullstack Developer                     |
-| 1278 | Алексей Маслаков                   | Frontend developer                      |
-| 1279 | Пахомов Артем                      | Team Lead, Larixon Classifieds          |
-| 1280 | Копылов Денис                      | Android developer, Stream, СПб          |
+| 10   | Гильмутдинов Эдуард                | Руководитель IT отдела                  |
+| 11   | Базенков Николай                   | старший научный сотрудник, ИПУ РАН      |
+| 12   | Lysov Alexandr                     | Software Engeneer, Nexign               |
+| 13   | Полян Екатерина                    | Системный аналитик, Москва              |
+| 14   | Морковник Данила                   | Chief Project Engineer, Softline        |
+| 15   | Гречухин Владимир                  | Backend Developer, Санкт-Петербург      |
+| 16   | Спиридонов Станислав               | Java developer, Trask Solutions         |
+| 17   | Руслан Гроховецкий                 | Ведущий разработчик, Екатеринбург, РФ   |
+| 18   | Галоян Давид                       | Cofounder, Procraft                     |
+| 19   | Макс Балуев                        | CTO                                     |
+| 20   | Шевченко Андрей                    | Senior Engineer                         |
+| 21   | Артем Тамоян                       | CTO, Vee Security                       |
+| 22   | Точилкин Дмитрий                   | Data Science Engineer, Huawei           |
+| 23   | Васильев Эрнольд                   | руководитель разработки, Инфотех        |
+| 24   | Сергей Гаврин                      | Ml-engineer, Томск                      |
+| 25   | Сироткин Яков                      | программист                             |
+| 26   | Безызвестных Денис                 | Fullstack developer, Новосибирск        |
+| 27   | Стефан Строгин                     | Developer, Gentoo Linux                 |
+| 28   | Максим Билюков                     | Senior Network Engineer, Workday        |
+| 29   | Ганиев Шамиль                      | DevOps Engineer, 4xxi, Saint-Petersburg |
+| 30   | Калугин Сергей                     | Тимлид, Москва                          |
+| 31   | Зорий Игорь                        | Frontend developer, Archer Software     |
+| 32   | Жаричев Александр                  | Lead embedded developer, Москва         |
+| 33   | Аитов Ратмир                       | Frontend developer                      |
+| 34   | Рассадин Илья                      | Backend Developer, Ярославль            |
+| 35   | Разинкина Евгения                  | Тестировщица                            |
+| 36   | Захаров Дмитрий                    | Java разработчик                        |
+| 37   | Головкин Петр                      | Системный инженер, Уфа                  |
+| 38   | Леонтьев Игорь                     | QA, Санкт-Петербург                     |
+| 39   | Сараев Иннокентий                  | Frontend-developer, freelance           |
+| 40   | Калин Анатолий                     | Developer, dxFeed                       |
+| 41   | Каширин Павел                      | Старший разработчик ИС, OZON Tech       |
+| 42   | Хлебников Егор                     | Full-Stack Developer, Йошкар-Ола        |
+| 43   | Гнедин Виктор                      | Продуктовый дизайнер, Москва            |
+| 44   | Огородник Семен                    | Senior Software Developer, Kotlin, JetBrains |
+| 45   | Петр Никитин                       | Front-end Intuition Team, Москва        |
+| 46   | Любимов Илья                       | Chief People Officer, Serokell          |
+| 47   | Даниил Нестеренко                  | Team Leader, ManageBand                 |
+| 48   | Григорий Дементьев                 | Backend developer, Новосибирск          |
+| 49   | Шарков Максим                      | Разработчик CRM систем, NOBILIS         |
+| 50   | Владислав Алексеев                 | Software engineer                       |
+| 51   | Павлова Ольга                      | Совладелец, «Собака Павлова»            |
+| 52   | Григорьев Эдуард                   | Web developer, media5                   |
+| 53   | Просвирнин Алексей                 | Java Developer                          |
+| 54   | Наумов Кирилл                      | Java developer, AMT Group               |
+| 55   | Максимов-Наливайко Филипп          | Android-разработчик, Калининград        |
+| 56   | Коньков Михаил                     | Fullstack Developer, Taranto            |
+| 57   | Алексей Смирнов                    | Java-разработчик, Москва                |
+| 58   | Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
+| 59   | Паша Финкельштейн                  | Data Engineer, Lamoda                   |
+| 60   | Белоусов Виктор                    | .Net developer, Mindbox                 |
+| 61   | Тимофей Николаев                   | Аналитик, Яндекс                        |
+| 62   | Анна Переверзева                   | Philips Research Moscow, Scientist      |
+| 63   | Бельский Кирилл                    | Backend разработчик, Atlas Delivery     |
+| 64   | Орлов Анатолий                     | Технический Директор, ozon.ru           |
+| 65   | Кушнарева Екатерина                | HR, Abagy Robotic Systems               |
+| 66   | Миронович Елизавета                | техник-программист, Системы компьютерного зрения |
+| 67   | Ипатьев Степан                     | Fullstack developer, Екатеринбург       |
+| 68   | Семирульник Валентин               | Архитектор, Альфа-банк                  |
+| 69   | Артём Большаков                    | Программист, Санкт-Петербург            |
+| 70   | Юлия Антонова                      | Верстальщик                             |
+| 71   | Хайрутдинов Азат                   | Software engineer, Казань               |
+| 72   | Вылгин Виталий                     | Senior Android Developer, Орёл          |
+| 73   | Цакунов Антон                      | Руководитель проектов, Москва           |
+| 74   | Валентинов Александр               | Developer                               |
+| 75   | Воскресенская Светлана             | Senior Backend developer, Diasoft       |
+| 76   | Роман Пауесов                      | Backend Developer                       |
+| 77   | Климова Василика                   | Frontend Developer, Avaloq              |
+| 78   | Баринов Максим                     | Frontend Developer, IQ Option           |
+| 79   | Vladislav Shikhov                  | Ingineer, Samsung                       |
+| 80   | Евгений Горошкин                   | PHP/JS Разработчик, Красноярск          |
+| 81   | Шилин Сергей                       | Software Engineer, You.i TV, Ottawa     |
+| 82   | Павел Волжин                       | Engineer                                |
+| 83   | Анчугов Степан                     | Fullstack-разработчик, Motorsport       |
+| 84   | Лепихин Вячеслав                   | Разработчик, Яндекс                     |
+| 85   | Шангин Александр                   | Lead Developer, г. Самара               |
+| 86   | Ермишкин Пётр                      | Программист                             |
+| 87   | Булдаков Дмитрий                   | Системный администратор, ООО Штурвал    |
+| 88   | Шумилкин Геннадий                  | Backend Developer, Rocketbank, Москва   |
+| 89   | Ширшов Павел                       | Software Engineer, Septimal Mind        |
+| 90   | Берг Максим                        | Developer                               |
+| 91   | Пономарев Владислав                | Frontend-Developer, Москва              |
+| 92   | Нечипоренко Олег                   | Team Lead, dlg.im, Москва               |
+| 93   | Юдин Кирилл                        | Senior C++ developer, Москва            |
+| 94   | Бусыгин Алексей                    | CTO                                     |
+| 95   | Крычун Роман                       | Front-end developer, NDV                |
+| 96   | Лапшин Михаил                      | Frontend Developer, Just AI             |
+| 97   | Шилкин Денис                       | Senior Software Engineer, Gett RnD      |
+| 98   | Латынина Виктория                  | Программист, Санкт-Петербург            |
+| 99   | Педан Сергей                       | Fullstack developer, Москва             |
+| 100  | Рябинин Сергей                     | Программист, Санкт-Петербург            |
+| 101  | Зуев Вадим                         | Android developer, Berlin               |
+| 102  | Дмитрий Лапшин                     | Software Engineer                       |
+| 103  | Мендяев Николай                    | Tech Lead, Tarantool + Mediazona        |
+| 104  | Сальников Евгений                  | Инженер-программист, X-Cart             |
+| 105  | Ходаков Василий                    | Программист, Москва                     |
+| 106  | Подонин Николай                    | Android Developer, e-Legion             |
+| 107  | Кубота Иван                        | Chief Technology Officer                |
+| 108  | Сопов Иван                         | Программист, Joom                       |
+| 109  | Маркин Денис                       | Data scientist, Brightlab               |
+| 110  | Станислав Стаценко                 | Программист, МФТИ, Москва               |
+| 111  | Илюшина Ольга                      | QA Engineer, Яндекс                     |
+| 112  | Алевтина Анищенко                  | iOS-разработчик, Санкт-Петербург        |
+| 113  | Бибаева Мария                      | Backend developer, Москва               |
+| 114  | Харин Александр                    | Инженер-электроник, Ревда               |
+| 115  | Гончаров Владимир                  | Начальник IT отдела, Региональный Финансово-Экономический Институт |
+| 116  | Василий Вавилов                    | Разработчик, Душанбе .                  |
+| 117  | Луконин Кирилл                     | Wireless Engineer                       |
+| 118  | Пилипенко Александр                | Software developer, Mindbox             |
+| 119  | Терентьев Никита                   | web-developer, NovaStar                 |
+| 120  | Кобяков Владислав                  | Разработчик, Breadhead                  |
+| 121  | Вячеслав Ембатуров                 | Software Developer                      |
+| 122  | Anna Noskova                       | DevOps/Sre, Smolensk                    |
+| 123  | Евгений Вайс                       | Senior Software Engineer, EPAM Systems  |
+| 124  | Цетхалин Артём Валерьевич          | Software Developer, Aspose              |
+| 125  | Виталий Давиденко                  | Machine Learning Engineer               |
+| 126  | Халтурин Владимир                  | Frontend, Brooma                        |
+| 127  | Островский Дмитрий                 | Devops engineer, Пермь                  |
+| 128  | Валентин Саморуков                 | Front-end developer, Crello             |
+| 129  | Михеев Евгений                     | .net web developer, Калининград         |
+| 130  | Каминский Михаил                   | Frontend developer, Тверь               |
+| 131  | Антон Черных                       | DevOps, Москва                          |
+| 132  | Стрелковский Иван                  | Developer, GrowFood                     |
+| 133  | Новоселова Екатерина               | QA                                      |
+| 134  | Владимир Шабанов                   | Программист, Москва                     |
+| 135  | Толстой Василий                    | Senior Principal Software Engineer, Dell EMC Russia COE |
+| 136  | Воробьев Андрей                    | CIO, Москва                             |
+| 137  | Валентин Гимранов                  | WEB-developer, Обнинск                  |
+| 138  | Дмитрий Пустовалов                 | linux system administrator, Neuron Digital, Москва |
+| 139  | Илья Евсеев                        | Devops, Sertolovo.ru, Санкт-Петербург   |
+| 140  | Алексей Козлов                     | Developer, OS33                         |
+| 141  | Константин Емельянов               | Developer, NetUP                        |
+| 142  | Мешков Роман                       | Frontend developer, Монитор Софт        |
+| 143  | Петрова Ксения                     | JavaScript Developer, Нижний Новгород   |
+| 144  | Житенев Александр                  | Senior Encryption Engineer              |
+| 145  | Авакян Овсеп                       | Программист, Afterlogic                 |
+| 146  | Михаил Потанин                     | Scala-программист, Waves Platform, Москва |
+| 147  | Станислав Ярмонов                  | Системный архитектор, Москва            |
+| 148  | Панков Илья                        | java developer, YOTA                    |
+| 149  | Юртаев Евгений                     | Программист, Mail.ru                    |
+| 150  | Шипилов Александр                  | Java Developer, DataArt Voronezh        |
+| 151  | Илья Лесик                         | OSS Developer, Tver.io                  |
+| 152  | Сухинский Андрей                   | -, -                                    |
+| 153  | Меркулов Алексей                   | Программист, JetBrains                  |
+| 154  | Черненко Эдуард                    | Full-stack Web Developer, фрилансер     |
+| 155  | Пак Евгений                        | JS Fullstack Developer, Санкт-Петербург |
+| 156  | Нечипорук Артём                    | Research developer, Kaspersky Lab, Moscow |
+| 157  | Патрикеев Даниил                   | Software engineer, Align Technology     |
+| 158  | Данил Юрлов                        | Computer Scientist, Нижний Новгород     |
+| 159  | Артём Проничкин                    | старший консультант, Microsoft          |
+| 160  | Малютин Илья                       | Data Scientist, Rubbles                 |
+| 161  | Андрей Старостин                   | Data Scientist, Москва                  |
+| 162  | Федотов Алексей                    | Программист, Москва                     |
+| 163  | Кряжев Андрей                      | Программист, ZClick                     |
+| 164  | Алексеев Игорь                     | Backend developer, Moscow               |
+| 165  | Хайруллин Рустем                   | Разработчик ПО г. Казань, Директ Кредит |
+| 166  | Лукин Андрей                       | Chief Executive Officer, ITSD.ONE       |
+| 167  | Vladimir Sukhov                    | Frontend Developer, Penza               |
+| 168  | Дмитрий Соболев                    | Senior DevOps Engineer, Москва          |
+| 169  | Mikhail Rednev                     | Fullstack Developer, Moscow             |
+| 170  | Жданов Сергей                      | Frontend-разработчик, Machineheads      |
+| 171  | Хабирова Татьяна                   | Software Engineer                       |
+| 172  | Михайлин Евгений                   | Principal Full-stack Software Engineer / Team Lead, IT Force, Moscow |
+| 173  | Соломатин Сергей                   | Технический Менеджер, Москва            |
+| 174  | Ананьев Алексей                    | предприниматель, программист, владелец ИТ-проекта "Третий сектор: бухгалтерия для НКО" |
+| 175  | Семен Родин                        | Backend-разработчик, Москва             |
+| 176  | Тимошин Виктор                     | Fullstack разработчик, г. Санкт-Петербург |
+| 177  | Яковлев Евгений                    | Ведущий разработчик, Яндекс             |
+| 178  | Поветкин Сергей                    | Backend Developer, Москва               |
+| 179  | Чугунов Сергей                     | Java Developer, GridGain Saint-Petersburg |
+| 180  | Шабалин Алексей                    | ведущий системный администратор, i’way  |
+| 181  | Мельников Михаил                   | Программист, Волгоград                  |
+| 182  | Папулин Сергей                     | Developer                               |
+| 183  | Барболин Андрей                    | Senior Software Engineer, CBS Interactive |
+| 184  | Константин Овчаренко               | Developer, Planior                      |
+| 185  | Кудин Дмитрий                      | Embedded Software Developer, Москва     |
+| 186  | Нитрис Лилиан                      | Data Architect, Moscow                  |
+| 187  | Григорьев Алексей                  | Старший разработчик, Москва             |
+| 188  | Бухвалова Юлия                     | Frontend developer, LiveJournal         |
+| 189  | Артамонов Олег                     | Ruby Developer, Robocall.pro            |
+| 190  | Дмитрий Гудков                     | Backend Developer, Москва               |
+| 191  | Проскурякова Виктория              | Java Developer, Cinimex Voronezh        |
+| 192  | Элла Рюхина                        | QA Engineer                             |
+| 193  | Иванов Виталий                     | CTO, Москва                             |
+| 194  | Седов Станислав                    | Программист, ReverseSystems, LLC        |
+| 195  | Елизаров Святослав                 | Deep learning engineer, Alterra.ai      |
+| 196  | Егоров Владимир                    | Data Quality specialist, S7             |
+| 197  | Шишаев Арсений                     | студент                                 |
+| 198  | Малютин Алексей                    | Data Scientist, Amsterdam               |
+| 199  | Вадим Бажов                        | Бекенд разработчик python, Екатеринбург |
+| 200  | Пётр Леменков                      | программист, Fedora Project             |
+| 201  | Травкин Пётр                       | Backend разработчик                     |
+| 202  | Дарья Шемякина                     | Web Developer                           |
+| 203  | Андрей Сергей                      | Lead Rust Developer, Котлас             |
+| 204  | Косулин Михаил                     | CTO                                     |
+| 205  | Панкова Мария                      | Программист, Москва                     |
+| 206  | Александра Кубатиева               | NLP Developer, Санкт-Петербург          |
+| 207  | Виноградов Сергей                  | Frontend developer                      |
+| 208  | Караваев Виталий                   | Software Engineer, Solanteq             |
+| 209  | Виталий Потапов                    | Head of QA                              |
+| 210  | Бобунов Анатолий                   | Senior QA Automation, Welps             |
+| 211  | Борис Чирва                        | Инженер-программист, г. Екатеринбург    |
+| 212  | Благова Татьяна                    | Главный инженер, Банк России (ЦБ РФ)    |
+| 213  | Кавун Александр                    | DBA , IBS                               |
+| 214  | Лошаков Никита                     | Tech Lead                               |
+| 215  | Karmanov Ilia                      | Software Engineer, EPAM Systems         |
+| 216  | Клещев Олег                        | Старший инженер-программист, Naumen     |
+| 217  | Соколачко Геннадий                 | SRE, Yandex                             |
+| 218  | Станислав Дашковский               | Инженер                                 |
+| 219  | Аргентов Павел                     | Backend developer, Teamlead, Тверь, РФ  |
+| 220  | Максим Ситников                    | Performance tester                      |
+| 221  | Ивушкин Алексей                    | Стажёр Backend, Сбербанк Технологии     |
+| 222  | Никита Капитонов                   | Product Owner, Teplomonitor, Москва     |
+| 223  | Докучаев Иван                      | Linux Ops/Support, "Мегабайт"           |
+| 224  | Братчиков Александр                | Fullstack Developer, Educator, Yandex   |
+| 225  | Холинов Илья                       | Backend Developer, Москва               |
+| 226  | Химцов Антон                       | Frontend Developer                      |
+| 227  | Чупров Кирилл                      | Fullstack Developer, Difogic            |
+| 228  | Попов Петр                         | Системный администратор, freelance      |
+| 229  | Афанасьев Роман                    | Инженер-программист, г. Москва          |
+| 230  | Валиуллин Артур                    | инженер-программист, г. Уфа             |
+| 231  | Мазитов Рустем                     | Специалист IT отдела, Digital Loyalty System |
+| 232  | Мигунова Даша                      | Technical Program Manager               |
+| 233  | Гадисламова Азалия                 | Системный аналитик, Мединдекс           |
+| 234  | Завацкий Владимир                  | Fullstack Web Developer, Москва         |
+| 235  | Казаков Данил                      | Frontend Developer, UX/UI-designer, Агентплюс, Москва |
+| 236  | Дмитрий Першин                     | CI Team Lead, Барнаул                   |
+| 237  | Попов Михаил                       | Data Scientist, Сбербанк                |
+| 238  | Трофимов Даниил                    | Backend Developer, Москва               |
+| 239  | Куянов Денис                       | Senior Frontend Developer, Alterra.ai   |
+| 240  | Калачёв Сергей                     | fullstack программист, Москва           |
+| 241  | Антон Попов                        | CTO, Kiko                               |
+| 242  | Александр Румянцев                 | ASIC Design Engineer Baikal Electronics |
+| 243  | Лопатин Виктор                     | Software Developer, Ayoxxa              |
+| 244  | Дмитрий Гаврилов                   | Software Engineer, Рязань               |
+| 245  | Горгун Алексей                     | Программист 1С, Смоленск                |
+| 246  | Gordin Denis                       | Mobile Developer                        |
+| 247  | Рашков Григорий                    | программист-математик, Нейроботикс      |
+| 248  | Шаров Илья                         | SRE, Yandex                             |
+| 249  | Морозова Ольга                     | верстальщик, Москва                     |
+| 250  | Korikov Constantine                | Researcher, Saint Petersburg            |
+| 251  | Николай Оборкин                    | Аналитик, Санкт-Петербург               |
+| 252  | Волков, Алекс                      | Technical Research and Investigation, University of Seville |
+| 253  | Романеев Михаил                    | Software Engineer, Yandex               |
+| 254  | Лифанов Дмитрий                    | DevOps engineer, Санкт-Петербург        |
+| 255  | Мария Чакчурина                    | Python back-end dev, Kaspersky, Moscow  |
+| 256  | Савчук Денис                       | Senior Software Developer               |
+| 257  | Волков Кирилл                      | Software Engineer, г. Санкт-Петербург   |
+| 258  | Дубровский Николай                 | С++ Developer                           |
+| 259  | Найденов Юрий                      | Software Engineer, Waves                |
+| 260  | Афонькин Вадим                     | Senior Software Engineer, Москва        |
+| 261  | Светлана Бальзитова                | QA инженер, Яндекс                      |
+| 262  | Платонов Владимир                  | Data engineer, Яндекс                   |
+| 263  | Тимофеев Денис                     | Software Engineer                       |
+| 264  | Кравцова Валерия                   | Fullstack developer, NetUP LLC          |
+| 265  | Корчагин Вадим                     | Старший инженер инфраструктуры больших данных, ОЦРВ |
+| 266  | Пушкарев Павел                     | Разработчик                             |
+| 267  | Стругов Валерий                    | Программист                             |
+| 268  | Савина Татьяна                     | Frontend developer, Kaspersky           |
+| 269  | Михаил Овчинников                  | Software Engineer                       |
+| 270  | Кацман Виктор                      | Программист, Яндекс                     |
+| 271  | Федоровский Андрей                 | CTO                                     |
+| 272  | Качкаев Александр                  | старший разработчик, Лондон             |
+| 273  | Ильиных Антон                      | Development Team Lead, kaspersky        |
+| 274  | Тарасенко Ефим                     | Web-разработчик, Fix Price              |
+| 275  | Деев Андрей                        | .NET разработчик, Москва                |
+| 276  | Петров Андрей                      | DevOps, Москва                          |
+| 277  | Майя Милова                        | Technical Writer Санкт-Петербург        |
+| 278  | Голуб Дмитрий                      | Системный инженер, ХОСТ                 |
+| 279  | Тазиахметов Инсаф                  | Front-end Developer                     |
+| 280  | Милютин Алексей                    | Технический руководитель, РГС Москва    |
+| 281  | Мелентьев Никита                   | Backend, Jibrel Network                 |
+| 282  | Андрей Бондаренко                  | DevOPS                                  |
+| 283  | Шавкун Виктор                      | Software engineer, ScienceSoft          |
+| 284  | Чекайкин Дмитрий                   | Разработчик C#/Unity, Москва            |
+| 285  | Жуматий Сергей                     | в.н.с., сисадмин, программист, МГУ им.М.В. Ломоносова |
+| 286  | Михаил Смаль                       | Lead developer                          |
+| 287  | Клигман Иван                       | Fullstack Developer                     |
+| 288  | Дубовой Станислав                  | Android Developer, Альфа-Банк           |
+| 289  | Андрей Пузырь                      | Software Engineer, Mindbox              |
+| 290  | Ландо Андрей                       | Backend developer, Москва               |
+| 291  | Денис Рябов                        | Frontend Developer, Skillaz             |
+| 292  | Максимов Руслан                    | iOS разработчик, Москва                 |
+| 293  | Котлуков Дмитрий                   | Software Developer                      |
+| 294  | Абрамов Герман                     | Backend Разработчик, Санкт-Петербург    |
+| 295  | Илья Рассадин                      | Backend Programmer, Ярославль           |
+| 296  | Бруславцев Виталий                 | Программист, Intel                      |
+| 297  | Николай Мишин                      | DevOps Engineer, Grid Dynamics          |
+| 298  | Егор Иванов                        | Senior PHP Developer, LoyaltyCorp Australia |
+| 299  | Мария Соболева                     | iOS Software Engineer, Москва           |
+| 300  | Сергеев Данил                      | Fullstack Developer, Yekaterinburg      |
+| 301  | Лиханов Максим                     | Software Engineer, Epam                 |
+| 302  | Чудеснов Александр                 | Разработчик интерфейсов, Wrike          |
+| 303  | Курскиев Илез                      | Frontend Developer, Республика Ингушетия |
+| 304  | Елизаров Виктор                    | Разработчик                             |
+| 305  | Даниил Тришкин                     | DevOps Engineer, Grid Dynamics          |
+| 306  | Заика Сергей                       | Team Lead, Lamoda                       |
+| 307  | Феддерс Алексей                    | Программист БД                          |
+| 308  | Соколов Сергей                     | Бэкенд-разработчик, Москва              |
+| 309  | Егоров Антон                       | Frontend developer                      |
+| 310  | Ткач Александр                     | Backend Developer, Москва               |
+| 311  | Каган Роман                        | Ведущий разработчик, Virtuozzo, Москва  |
+| 312  | Касаткин Александр                 | Full-stack Web Developer, Boombate, Санкт-Петербург |
+| 313  | Ксения Шнейдер                     | UX-дизайнер, Москва                     |
+| 314  | Азимов Эльдар                      | Backend developer, Москва               |
+| 315  | Мелихов Никита                     | PHP Developer, CodeGarden               |
+| 316  | Дворкин Михаил                     | преподаватель программирования, Лицей ФТШ и ВШЭ |
+| 317  | Воронов Эдуард                     | .Net Developer, Aspose.Words            |
+| 318  | Онипченко Михаил                   | Fullstack разработчик, Ростов-на-Дону   |
+| 319  | Агеев Андрей                       | Старший эксперт, Тектус.ИТ              |
+| 320  | Владислав Тарасевич                | Software Developer                      |
+| 321  | Dmitriy Yukhanov                   | Lead Developer, modum lab               |
+| 322  | Калеми Юрий                        | Java-архитектор, Екатеринбург           |
+| 323  | Владимир Белецкий                  | Разработчик видеоигр                    |
+| 324  | Бутаев Амиран                      | сисадмин, МФЦ                           |
+| 325  | Овсянников Дмитрий                 | Product Owner, RCB LLC                  |
+| 326  | Курлов Дмитрий                     | Фрилансер                               |
+| 327  | Камышев Игорь                      | Frontend Tech Lead, Самокат             |
+| 328  | Ветошко Федор                      | iOS developer, Москва                   |
+| 329  | Калмыков Азат                      | Студент-программист, ВШЭ                |
+| 330  | Клестов Александр                  | Руководитель отдела разработки, Эксперум |
+| 331  | Руслан Мусаев                      | Project Manager, Yandex                 |
+| 332  | Александр Кремлёв                  | инженер, МГУ имени М.В.Ломоносова       |
+| 333  | Иван Бурмистров                    | Software Engineer, Facebook             |
+| 334  | Билалов Тимур                      | Фронтенд-разработчик                    |
+| 335  | Седин Валерий                      | Frontend разработчик                    |
+| 336  | Сустретов Максим                   | Backend developer                       |
+| 337  | Замыцков Дмитрий                   | .Net Developer, Москва                  |
+| 338  | Бурков Максим                      | .Net Developer, Mera                    |
+| 339  | Екатерина Козлова                  | Инженер, Москва                         |
+| 340  | Алексеев Владимир                  | админ, СПБ                              |
+| 341  | Канарев Артем                      | Web-разработчик, ReTech Labs            |
+| 342  | Данилов Дмитрий                    | Инженер по тестированию, ivi            |
+| 343  | Александр Бабенко                  | Software Engineer                       |
+| 344  | Антон Лазовский                    | Software Engineer, ActiveBC             |
+| 345  | Шпинькова Анна                     | Frontend-developer, Москва              |
+| 346  | Левадный Тимур                     | Разрабочик, Провектус                   |
+| 347  | Сумекенов Ахмад                    | Junior Data Scientist, Москва           |
+| 348  | Артем Трошин                       | Full Stack Web Developer, Москва        |
+| 349  | Ильгам Шакиров                     | Software Engineer, NinthDecimal         |
+| 350  | Куцылло Константин                 | Frontend Developer, Яндекс              |
+| 351  | Соловьев Андрей                    | Аналитик, Accenture                     |
+| 352  | Васильев Анатолий                  | Bioinformatician, Aelian biotechnology  |
+| 353  | Сулейменов Айдарбек                | Sofrware Engineering Intern, London     |
+| 354  | Скляров Никита                     | Software Engineer                       |
+| 355  | Иглина Александра                  | SWE, Google                             |
+| 356  | Рябцов Игорь                       | Senior Data Scientist, Totango INC      |
+| 357  | Кузнецов Роман                     | Frontend Developer г. Санкт-Петербург   |
+| 358  | Королёв Евгений                    | Программист, Санкт-Петербург            |
+| 359  | Борислав Козловский                | программист, "Яндекс"                   |
+| 360  | Popov Sergei                       | Software Engineering Intern, Google     |
+| 361  | Писарев Дмитрий                    | Веб-разработчик, фрилансер              |
+| 362  | Павел Рюмкин                       | CEO, Almighty Web                       |
+| 363  | Озеров Андрей                      | IT-Специалист                           |
+| 364  | Мирошникова Анастасия              | Junior Data Scientist, Калуга-Астрал    |
+| 365  | Андрей Щербаков                    | Backend Developer                       |
+| 366  | Павлюк Александр                   | Ведущий разработчик, ozon.ru            |
+| 367  | Грозовский Тимур                   | Главный аналитик, Росбанк               |
+| 368  | Ефимов Павел                       | программист, Москва                     |
+| 369  | Назарук Дмитрий                    | Senior Java Developer, Санкт-Петербург  |
+| 370  | Богатов Дмитрий                    | Debian Developer                        |
+| 371  | Савенок Денис                      | Senior Software Engineer, Москва        |
+| 372  | Гришин Александр                   | Инженер, Samsung                        |
+| 373  | Румянцев Александр                 | Software Engineer                       |
+| 374  | Багиров Эльшан                     | Backend developer                       |
+| 375  | Лаврентьев Альберт                 | Support Engineer, Microsoft             |
+| 376  | Александр Клестов                  | Руководитель отдела разработки, Эксперум |
+| 377  | Курамшин Владимир                  | Project Lead, Samsung                   |
+| 378  | Шумков Михаил                      | Backend Developer, г. Екатеринбург      |
+| 379  | Судаков Илья                       | Tech Lead, INVITE Software, Москва      |
+| 380  | Алексей Павельчук                  | senior java develpoer, JET              |
+| 381  | Галкин Иван                        | Fullstack разработчик, C#, Москва       |
+| 382  | Артур Станкевич                    | Программист, Самара                     |
+| 383  | Anastassia Russak                  | Frontend Developer, München             |
+| 384  | Корнилова Людмила                  | Программист, JetBrains                  |
+| 385  | Степан Тарасевич                   | Программист, JetBrains                  |
+| 386  | Ишутин Евгений                     | Инженер программист, Контур Инновации   |
+| 387  | Александр Давронов                 | Software Engineer                       |
+| 388  | Краснов Николай                    | Программист 1С, Москва                  |
+| 389  | Старокожев Дмитрий                 | Ведущий разработчик, Pixonic, Москва    |
+| 390  | Устинов Михаил                     | Разработчик, Яндекс                     |
+| 391  | Сметанин Антон                     | Game developer                          |
+| 392  | Чернышев Руслан                    | Backend developer, QIWI                 |
+| 393  | Гуля Илья                          | Android Developer, Yandex               |
+| 394  | Макаров Александр                  | Старший разработчик, Москва             |
+| 395  | Маша Будрите                       | Consultant Developer, Thoughtworks, Лондон |
+| 396  | Зубков Сергей                      | Руководитель отдела разработки, Ставрополь |
+| 397  | Мочалыгин Александр                | Teamlead, Ecommpay                      |
+| 398  | Хохряков Денис                     | DevOps Engineer, Tallinn                |
+| 399  | Samoylenko Oleg                    | developer, JetBrains                    |
+| 400  | Никитченко Сергей                  | Технический директор, Москва            |
+| 401  | Аслаповский Дмитрий Владимирович   | Independent Consultant                  |
+| 402  | Алексеев Андрей                    | Аналитик Tinkoff, Выпускник МФТИ        |
+| 403  | Цибин Андрей                       | Software Engineer, EPAM Systems         |
+| 404  | Олег Котов                         | Fullstack Developer, Yekaterinburg      |
+| 405  | Петров Константин                  | Аналитик, QuantumArt                    |
+| 406  | Чалыкин Данила                     | Security Researcher, Алма-Ата           |
+| 407  | Житомирский Марк                   | Senior Systems Analyst, Exactpro.com    |
+| 408  | Куранина Ксения                    | Специалист по информационным системам, ООО "НПП "ПОЛИПЛАСТИК" |
+| 409  | Володин Антон                      | CTO, Ремонтиста                         |
+| 410  | Кузьмин Андрей                     | SRE manager, Санкт-Петербург            |
+| 411  | Горячев Виталий                    | Backend Developer, Москва               |
+| 412  | Дудин Вадим                        | Fullstack developer, г. Санкт-Петербург |
+| 413  | Gulnara Kurmanova                  | Junior Backend Developer                |
+| 414  | Илья Степанов                      | Программист, г. Москва                  |
+| 415  | Николай Тимченко                   | Backend Developer                       |
+| 416  | Радзиевский Александр              | продакт менеджер, Pond5                 |
+| 417  | Одинцов Александр                  | Разработчик, Dekra, Штутгарт, Германия  |
+| 418  | Владимиров Алексей                 | Старший Разработчик ПО, Wrike           |
+| 419  | Дмитрий Буряков                    | Разработчик                             |
+| 420  | Пономарев Александр                | Программист, ex-Яндекс                  |
+| 421  | Николай Солдатов                   | Разработчик                             |
+| 422  | Сергей Рощепкин                    | Software Engineer                       |
+| 423  | Евгений Зобнин                     | Фрилансер                               |
+| 424  | Захаров Владислав                  | Frontend developer, Большой Музей       |
+| 425  | Дубов Андрей                       | Программист, Ниигазэкономика            |
+| 426  | Хижинский Максим                   | Senior C++ Developer, VASExperts        |
+| 427  | Леонтьева Ксения                   | Software Developer at ABBYY, MIPT student |
+| 428  | Михаил Самин                       | CEO, AudD, Москва                       |
+| 429  | Воротников Денис                   | Head of Web Development, Mercaux        |
+| 430  | Арсений Сысоев                     | Аналитик-разработчик, Яндекс            |
+| 431  | Корвиго Илья                       | Старший Биоинформатик                   |
+| 432  | Дмитрий Кравченко                  | программист, Яндекс                     |
+| 433  | Рыбаков Алексей                    | Разработчик, Яндекс                     |
+| 434  | Ульяна Андреева                    | software engineer, EPAM Systems         |
+| 435  | Гурьев Дмитрий                     | Сооснователь, Seatmap.pro               |
+| 436  | Лати Салим                         | Java Developer, ComeOn!                 |
+| 437  | Архипов Михаил                     | Старший разработчик, DataArt            |
+| 438  | Георгий Ковалев                    | Developer, Altuera                      |
+| 439  | Павлов Василий Алексеевич          | Software Engineer                       |
+| 440  | Ватин Владимир                     | DevOps Engineer                         |
+| 441  | Котенко Алексей                    | Backend developer, Санкт-Петербург      |
+| 442  | Волосатов Николай                  | Fullstack разработчик, ВТБ, Москва      |
+| 443  | Левонович Никита                   | IT-Researcher                           |
+| 444  | Важенин Александр                  | Fullstack Developer                     |
+| 445  | Соловьёв Антон                     | Технический директор, digital агентство Эврика |
+| 446  | Алексей Шехирин                    | Разработчик, Aviasales, Санкт-Петербург |
+| 447  | Пётр Резиков                       | Software Engineer, Пенза                |
+| 448  | Юрасов Дмитрий                     | Software Engineer, Санкт-Петербург      |
+| 449  | Василий Зорин                      | Senior Software Developer, Москва       |
+| 450  | Зеленько Олег                      | Разработчик, TraceAir                   |
+| 451  | Горохов Антон                      | Разработчик, Яндекс, BigDataTeam        |
+| 452  | Клeсс Антoн                        | IT Asset Manager                        |
+| 453  | Дмитрий Семьюшкин                  | Frontend Developer, Pleeco              |
+| 454  | Шелехов Максим                     | Backend Developer, Space307             |
+| 455  | Захаров Сергей                     | Разработчик, X5 Retail Group            |
+| 456  | Михаил Кононенко                   | Разработчик интерфейсов, Яндекс         |
+| 457  | Протасов Иван                      | Backend Developer, Teleport             |
+| 458  | Привалов Андрей                    | Lead Developer                          |
+| 459  | Артур Юнусов                       | C++ разработчик                         |
+| 460  | Шошин Никита                       | Web Developer                           |
+| 461  | Сергей Матюшков                    | Junior Developer                        |
+| 462  | Власов Андрей                      | Backend Developer, Санкт-Петербург      |
+| 463  | Быков Владимир                     | Frontend developer                      |
+| 464  | Большаков Евгений                  | Site Reliability Engineer, Zattoo       |
+| 465  | Такоев Артур                       | Front-end developer, dlg.im             |
+| 466  | Сергей Лебедев                     | программист, Zotzon.ru                  |
+| 467  | Полховцев Владимир                 | Android Developer, dlg.im               |
+| 468  | Ковалёв Константин                 | Ведущий разработчик, CommuniGate Systems |
+| 469  | Осиюк Андрей                       | frontend developer, freelance           |
+| 470  | Монич Вячеслав                     | Специалист широкого профиля, Jolla      |
+| 471  | Дрозд Михаил                       | JS fullstack developer, Milk&Cartoons   |
+| 472  | Афоничев Сергей                    | Фрилансер                               |
+| 473  | Новиков Андрей                     | Руководитель группы разработки, Artezio |
+| 474  | Сергей Симонян                     | Web Developer, Teamlead                 |
+| 475  | Vaniev Mishel                      | Software Developer, iiko                |
+| 476  | Михалев Илья                       | Старший программист, Зеленоград         |
+| 477  | Нижников Олег                      | Архитектор, Tinkoff.ru                  |
+| 478  | Тихомиров Дмитрий                  | Senior Software Engineer, Redhat        |
+| 479  | Мансур Музаффаров                  | Software Engineer EPAM                  |
+| 480  | Линькова Анна                      | Frontend Developer, Москва              |
+| 481  | Даниэль Гинсбург                   | Network Architect                       |
+| 482  | Кудин Илья                         | Программист, Фрилансер                  |
+| 483  | Тамеева Аделина                    | Аналитик                                |
+| 484  | Гусев Вадим                        | DevOps Engineer, Петрозаводск           |
+| 485  | Зайцев Дмитрий                     | Android developer                       |
+| 486  | Смирнова Татьяна                   | Frontend developer                      |
+| 487  | Драндин Игорь                      | Руководитель отдела разработки, компания AIDE |
+| 488  | Ланец Николай                      | Фрилансер                               |
+| 489  | Александр Андрианов                | Big data team lead                      |
+| 490  | Волкович Максим                    | Аналитик-разработчик, Yandex            |
+| 491  | Насыров Руслан                     | Front-end developer, Yandex             |
+| 492  | Андрейчук Николай                  | Lead Fullstack Developer, Mindbox, Москва |
+| 493  | Айрат Галиуллин                    | Design Engineer, ASML, выпускник МФТИ   |
+| 494  | Данилов Кирилл                     | Ведущий ява разработчик, НСПК           |
+| 495  | Чернышев Антон                     | Разработчик, Пермь                      |
+| 496  | Rозлов Владимир                    | Backend Developer, Липецк               |
+| 497  | Самсонов Никита                    | Software Developer, Team Lead, Москва   |
+| 498  | Станислав Янковский                | Программист, 1C Game Studios            |
+| 499  | Климова Оксанаn                    | Software Engineer, EPAM Systems         |
+| 500  | Петухов Алексей                    | Web Developer                           |
+| 501  | Дубровский Даниил                  | Game Developer, EXBO                    |
+| 502  | Валерий Рябошапко                  | Backend Developer, Luka, Inc.           |
+| 503  | Шмаков Дмитрий                     | Sortware Engineer, Revolut, Москва      |
+| 504  | Хорищенко Ярослав                  | Lead Software Engineer, Smart App Studio |
+| 505  | Санарова Ирина                     | Frontend Developer, Art3D Graphics      |
+| 506  | Леонид Бруев                       | Engineering Manager, Лондон             |
+| 507  | Вальтер Владимир                   | Senior iOS Engineer, Immundiagnostik, Bensheim, Hesse |
+| 508  | Осипов Дмитрий                     | Java разработчик, Москва                |
+| 509  | Трифонова Татьяна                  | Test Engineer, Санкт-Петербург          |
+| 510  | Бабенцов Илья                      | Support Engineer, Москва                |
+| 511  | Горшков Юрий                       | Системный администратор, г. Москва      |
+| 512  | Быкадоров Платон                   | младший научный сотрудник, ИОГен        |
+| 513  | Бомбела Никита                     | Junior Software Engineer                |
+| 514  | Александр Богушов                  | Tech Lead, Napoleon IT                  |
+| 515  | Фиданян Карен                      | PhD student, Fritz Haber Institute of the Max Planck Society (суперкомпьютерные вычисления в квантовой химии) |
+| 516  | Рамазанов Игорь                    | Software Engineer, CasperLabs           |
+| 517  | Востросаблин Никита                | Backend разработчик                     |
+| 518  | Александр Лис                      | Программист, Москва                     |
+| 519  | Иван Липатов                       | Verification Engineer, Elvees           |
+| 520  | Хатин Константин                   | Backend developer                       |
+| 521  | Байбородин Николай                 | Программист, SKAT                       |
+| 522  | Пётр Яковлев                       | developer                               |
+| 523  | Дервель Михаил                     | Backend developer, fuse8.ru, Челябинск  |
+| 524  | Беляев Владислав                   | Full stack developer, Пермь             |
+| 525  | Альбина Галиуллина                 | PhD student, Technical University Eindhoven |
+| 526  | ﻿Реваз Габелая                     | System analyst / architect, Москва      |
+| 527  | Павел Заболотный                   | Ведущий разработчик, МТС ИТ             |
+| 528  | Моисеенко Дмитрий                  | Backend разработчик, Краснодар          |
+| 529  | Яков Боревич                       | CTO at Funexpected, Moscow              |
+| 530  | Климова Оксана                     | Software Engineer, EPAM Systems         |
+| 531  | Кручинин Артем                     | Frontend developer                      |
+| 532  | Антонов Денис                      | Middle Python Developer, CS.Money       |
+| 533  | Исаков Артур                       | Frontend Developer, Yandex, Saint-Petersburg |
+| 534  | Taileb Mehdi                       | Developper (DSP, FPGA, Python, Matlab, C), freelancer, Moscow. |
+| 535  | Яковлев Александр                  | Программист, Москва                     |
+| 536  | Александр Зыков                    | Backend Team Lead, Etventure            |
+| 537  | Бушманов Александр                 | Senior Frontend developer, Санкт-Петербург |
+| 538  | Юрий Имашев                        | iOS Developer, Tappsk                   |
+| 539  | Гончаров Андрей                    | Developer, Санкт-Петербург              |
+| 540  | Андрей Никольский                  | Maintenance Chief, Banki.ru             |
+| 541  | Бойцов Григорий                    | Backend developer, Rybinsk              |
+| 542  | Лукьянчиков Максим                 | Frontend developer                      |
+| 543  | Игнатов Сергей                     | инженер-проектировщик, ИП               |
+| 544  | Грянко Александр                   | Разработчик                             |
+| 545  | Синюков Рустам                     | Программист, СПб                        |
+| 546  | Новак Сергей                       | QA, Санкт-Петербург                     |
+| 547  | Потеряев Игорь                     | Software Architect, Екатеринбург        |
+| 548  | Лубенец Алексей                    | Developer                               |
+| 549  | Шерстянников Михаил                | Software Engineer, Казань               |
+| 550  | Шуваев Максим                      | Fullstack Developer, Ставрополь         |
+| 551  | Подшивалов Илья                    | Программист, Москва                     |
+| 552  | Нам Константин                     | Backend developer, OneTouch&Travel      |
+| 553  | Архиреев Денис                     | Software Engineer, Dualboot Partners    |
+| 554  | Князев Михаил                      | Backend Developer, Интерфакс            |
+| 555  | Khamanina Olga                     | Frontend dev, EPAM                      |
+| 556  | Беляков Сергей                     | Backend developer, Freelancer           |
+| 557  | Жаков Никита                       | Frontend разработчик, Санкт-Петербург   |
+| 558  | Краснов Александр                  | Chief Technology Officer                |
+| 559  | Алина Ковтун                       | FrontEnd Developer, Nativeroll, СПб     |
+| 560  | Петенин Сергей                     | Frontend developer, 2memory             |
+| 561  | Зиновьев Константин                | Разработчик, Москва                     |
+| 562  | Константин Жуков                   | Software Developer, BMW                 |
+| 563  | Борисов Илья                       | Senior Frontend Developer, GridGain     |
+| 564  | Смаль Илья                         | Frontend Developer, Foam Agency         |
+| 565  | Котов Юрий                         | Developer, Moscow, Yandex               |
+| 566  | Трибой Анастасия                   | Frontend разработчица, г.Москва         |
+| 567  | Максимова Дарья                    | студентка ВШЭ, QA Automation, Москва    |
+| 568  | Якушев Лев                         | Project manager, Пермь                  |
+| 569  | Шварцман Александр                 | Software Engineer, Self-Employed        |
+| 570  | Титов Сергей                       | Программист, Университет ИТМО           |
+| 571  | Ивановский Виктор                  | Frontend Developer, Новосибирск         |
+| 572  | Баландин Алексей                   | старший эксперт, Тектус.ИТ              |
+| 573  | Коба Егор                          | Руководитель направления                |
+| 574  | Малясова Виктория                  | Data Scientist, Москва                  |
+| 575  | Шахова Наталья                     | Аналитик, Glowbyte                      |
+| 576  | Горев Михаил                       | Fullstack Developer, Москва             |
+| 577  | Лобовикова Александра              | Fullstack разработчица, Namaste Technologies |
+| 578  | Кирьянов Денис                     | Data Scientist, Сбербанк                |
+| 579  | Сиунов Андрей                      | Member of Technical Staff, Palo Alto, CA |
+| 580  | Волосатов Леонид                   | Full stack developer, Тензор            |
+| 581  | Gimaldinov Rinat                   | backend developer, Cyberlogistic        |
+| 582  | Евгений Портной                    | Principal Engineer, Devo                |
+| 583  | Николай Дубинин                    | Системный администратор Linux, Москва   |
+| 584  | Николай Маслов                     | Фрилансер                               |
+| 585  | Айзенштейн Даниил                  | Ведущий инженер-программист, Экстрим    |
+| 586  | Кузнецов Алексей                   | Разработчик                             |
+| 587  | Gamburg Tatyana                    | Product Manager                         |
+| 588  | Александр Румянецев                | ASIC Design Engineer Baikal Electronics |
+| 589  | Хилин Виктор                       | DevOps Engineer, Waves                  |
+| 590  | Патлух Александр                   | Frontend developer, educator, Yandex    |
+| 591  | Рудневский Артем                   | Разработчик, Mindbox                    |
+| 592  | Серебрянский Константин            | Fullstack Developer, Osome + Mediazona, Москва |
+| 593  | Алексей Алишевских                 | Software Engineer, Vound Software       |
+| 594  | Цырульников Глеб                   | Frontend-разработчик, Москва            |
+| 595  | Шалашов Дмитрий                    | CTO                                     |
+| 596  | Бороухин Александр Евгеньевич      | директор ООО "ЛигалТех"                 |
+| 597  | Сапоненко Денис                    | Системный архитектор, Систематика-Консалтинг |
+| 598  | Евгений Костогоров                 | Backend Developer                       |
+| 599  | Gouliaev Dmitri                    | ...                                     |
+| 600  | Минженков Борис                    | Backend developer, TaskData             |
+| 601  | Черкашин Александр                 | Backend developer, Гост-групп           |
+| 602  | Садыков Эрнест                     | Software Engineer                       |
+| 603  | Фоменко Катерина                   | Front-End Developer. Biysk              |
+| 604  | Козлова Екатерина                  | Инженер, г. Москва                      |
+| 605  | Науменко Андрей                    | Integrations team developer, Agritask   |
+| 606  | Кузнецов Степан                    | NLP data scientist, BostonGene          |
+| 607  | Жуков Роман                        | Teamlead, Ecommpay                      |
+| 608  | Саргсян Арман                      | Fullstack developer, Санкт-Петербург    |
+| 609  | Лелякин Михаил                     | Software Developer, Bench               |
+| 610  | Галиев Ильдар                      | Старший программист, Спортмастер, Москва |
+| 611  | Овсеп Авакян                       | Программист, станица Ольгинская         |
+| 612  | Данилов Александр                  | Программист, Белгород                   |
+| 613  | Алексей Гриднев                    | Senior QA engineer, NVIDIA              |
+| 614  | Костельнюк Артём                   | Frontend developer, Sports.ru           |
+| 615  | Самовилов Дмитрий                  | Developer                               |
+| 616  | Виталий Чумаков                    | Backend разработчик, Москва             |
+| 617  | Мамкин Антон                       | Frontend developer, Big Data Technologies |
+| 618  | Кавасин Алексей                    | Frontend Developer, Москва              |
+| 619  | Леонид Николаев                    | Senior Software Engineer,Пушкино        |
+| 620  | Михаил Осипов                      | Ведущий разработчик, Сбербанк           |
+| 621  | Сероус Антон                       | Front-end Lead, Togo Group, Auckland    |
+| 622  | Гаврилов Иван                      | Разработчик, Toptal                     |
+| 623  | Антон Алфимов                      | Web developer, Mediazona                |
+| 624  | Максим Крыловецкий                 | Senior System Engineer                  |
+| 625  | Рощупкин Тихон                     | Team Lead, Яндекс                       |
+| 626  | Болехан Павел                      | Fullstack Developer                     |
+| 627  | Сергей Шиганов                     | Software Engineer, Санкт-Петербург      |
+| 628  | Федорус Василий                    | Программист, Москва                     |
+| 629  | Гаранин Роман                      | Senior software engineer                |
+| 630  | Ирина Пыхова                       | Program Manager, Grapecity              |
+| 631  | Гольд Никита                       | Backend Developer, Москва               |
+| 632  | Пузанков Никита                    | RD Manager, EPAM                        |
+| 633  | Kudriashov Artem                   | Team lead, SPB                          |
+| 634  | Григорьев Александр                | Senior Software Developer, Megaputer    |
+| 635  | Шишимров Сергей                    | Ведущий инженер, ГК "СКАД тех"          |
+| 636  | Елизаров Аркон                     | Product Manager, LATOKEN                |
+| 637  | Мищенко Иван                       | Специалист по регуляторике, Москва      |
+| 638  | Марина Никитенко                   | Engineer, Elvees                        |
+| 639  | Хмелевский Александр               | Head of Development, OVAL               |
+| 640  | Симоненко Полина                   | Python, Fullstack, ещё учусь            |
+| 641  | Гаврилов Илья                      | Старший инженер-тестировщик, Аплана, Москва |
+| 642  | Александр Бондарь                  | Java Software Engineer, Clarivate Analytics |
+| 643  | Чуксин Алексей                     | Backend Developer, Finam                |
+| 644  | Орлова Ксения                      | координатор open data проектов, Москва  |
+| 645  | Сергей Семёнов                     | Co-founder, SynWeb                      |
+| 646  | Сергеев Сергей                     | Software Developer, Currency Solutions Ltd |
+| 647  | Доровский Павел                    | Team lead, Газэнергобанк                |
+| 648  | Иван Очагов                        | DevOps-инженер, Красноярск              |
+| 649  | Тимошевский Пётр                   | Fullstack developer                     |
+| 650  | Васин Андрей                       | Программист                             |
+| 651  | Дмитрий Попонкин                   | Frontend-разработчик, KTS Studio        |
+| 652  | Варанкин Владимир                  | Backend Developer, adjust GmbH          |
+| 653  | Малков Кирилл                      | Frontend developer, Moscow              |
+| 654  | Алексеев Константин                | Software Engineer                       |
+| 655  | Андрей Фомичев                     | Software Developer, Альфа-Банк          |
+| 656  | Богомолов Владислав                | System Architect, Gett RnD, Москва      |
+| 657  | Юткин Дмитрий                      | Разработчик, ВКонтакте                  |
+| 658  | Дорошенко Александр                | Программист, Краснодарский край         |
+| 659  | Соколов Алексей                    | Android Developer, Dlg.im               |
+| 660  | Roman Ten                          | Senior Developer, Biztech Enterprise Solutions |
+| 661  | Леонид Репин                       | Garderobo, Architect/DevOps             |
+| 662  | Подтелкин Владислав                | Программист, Санкт-Петербург            |
+| 663  | Кондаков Алексей                   | Junior Frontend Developer               |
+| 664  | ﻿Евгений Карпов                    | Backend developer, Neotech Development  |
+| 665  | Русаков Григорий                   | --                                      |
+| 666  | Суров Андрей                       | Frontend developer, Санкт-Петербург     |
+| 667  | Никулин Денис                      | архитектор VoIP, Utility Warehouse, Лондон |
+| 668  | Суслов Данила                      | Backend developer, Vigo                 |
+| 669  | Сергей Попов                       | Software Engineer, Санкт-Петербург      |
+| 670  | Барышников Константин              | Fullstack developer, Москва             |
+| 671  | Дулепов Дмитрий                    | Senior Software Engineer                |
+| 672  | Юрьев Виталий                      | Full-stack, Москва                      |
+| 673  | Анастасия Подорогина               | Программист, Capturica                  |
+| 674  | Колечкин Иван                      | Frontend developer, Aim                 |
+| 675  | Бредис Сергей                      | Backend Developer, Такском              |
+| 676  | Кирилл Ушнурцев                    | Backend Engineer, Ижевск                |
+| 677  | Дмитрий Самсонов                   | Fullstack dev, Moscow                   |
+| 678  | Казаков Николай                    | Frontend Developer, Xena Exchange       |
+| 679  | Лузанов Дмитрий                    | Frontend developer, Ставрополь, E-QUIP  |
+| 680  | Широкова Ольга                     | Product manager, Busfor                 |
+| 681  | Крахотин Вячеслав                  | Разработчик, Яндекс                     |
+| 682  | Щербаков Иван                      | Инженер-программист, Atos               |
+| 683  | Илья Хаустов                       | Software Developer                      |
+| 684  | Starikov Ivan                      | .Net dev, Yandex, Saint-Petersburg      |
+| 685  | Зданчук Андрей                     | Разработчик                             |
+| 686  | Юсупов Аскар                       | Программист                             |
+| 687  | Тихомиров Иван                     | Программист 1С, Череповец               |
+| 688  | Пятышев Максим Евгеньевич          | Backend разработчик, Home Credit Bank   |
+| 689  | Синяков Глеб                       | Аналитик-Разработчик, Tinkoff, МФТИ     |
+| 690  | Vladislav Grishenko                | Principal software engineer             |
+| 691  | Максим Воронов                     | программист, Связной                    |
+| 692  | Травников Илья                     | Fullstack developer, Perfect Art        |
+| 693  | Вадим Райхлин                      | Backend Engineer, Zalando               |
+| 694  | Максим Шуваев                      | Fullstack Developer, Ставрополь         |
+| 695  | Евгений Стройков                   | Kotlin-разработчик, Aquiva Labs         |
+| 696  | Галкина Екатерина                  | Team Lead, НПП ИТЭЛМА                   |
+| 697  | Мальцев Павел                      | C# Architect, Фриланс                   |
+| 698  | Иван Ведерников                    | Software Engineer                       |
+| 699  | Понаэтов Святослав                 | Android Dev                             |
+| 700  | Яковлева Юлия                      | Разработчица, Yandex                    |
+| 701  | Кокарева Дария                     | Software Engineer, Санкт-Петербург      |
+| 702  | Сопрунов Сергей                    | программист                             |
+| 703  | Евгений Фрост                      | Backend developer Санкт-Петербург       |
+| 704  | Кустов Андрей                      | Frontend developer                      |
+| 705  | Сергеев Александр                  | Software Engineer, Google               |
+| 706  | Ахкубеков Алим                     | Программист, WebProfy                   |
+| 707  | Чернявский Михаил                  | Software Developer, JetBrains           |
+| 708  | Кручинин Владимир                  | CEO, PILOWAR STUDIO                     |
+| 709  | Андрей Сергеев                     | Backend Developer, Санкт-Петербург      |
+| 710  | Шиляев Вячеслав                    | Backend Java Developer, г. Пермь        |
+| 711  | Михеенко Алла                      | Биоинформатик, СПбГУ                    |
+| 712  | Юрченко Алексей                    | Javascript Developer, Москва            |
+| 713  | Ахтямов Вадим                      | Android developer, Ситимобил            |
+| 714  | Сергей Головин                     | Software Engineer, Курск                |
+| 715  | Ковалёв Антон                      | Директор департамента, Wärtsilä Digital Technologies |
+| 716  | Igor Tarasov                       | CEO, ITSOFT                             |
+| 717  | Бегунов Дмитрий                    | Инженер-программист, г.Северодвинск     |
+| 718  | Барлуков Юрий                      | Fullstack Developer                     |
+| 719  | Дворкина Татьяна                   | Биоинформатик, СПбГУ                    |
+| 720  | Андрейчев Филипп                   | Lead Software Engineer, Cxense          |
+| 721  | Кержеманов Денис                   | Программист, Яндекс                     |
+| 722  | Гамзалиев Руслан                   | Backend Developer, Waves                |
+| 723  | Денис Рогинский                    | Software Engineer                       |
+| 724  | Середа Евгений                     | Senior system analyst, г. Орёл          |
+| 725  | Куликов Алексей                    | Software Engineer, Facebook             |
+| 726  | Oleg Chongov                       | Software engineer, Hong Kong            |
+| 727  | Илья Попов                         | Rust Developer, Москва                  |
+| 728  | Larionov Anton                     | System Engineer, Reksoft                |
+| 729  | Павлов Никита                      | Senior Software Engineer, NetCracker    |
+| 730  | Аблеев Сергей                      | Fullstack developer, г. Екатеринбург    |
+| 731  | Сергей Кудинов                     | Студент, фрилансер                      |
+| 732  | K Aleksei                          | Full Stack Web Developer, Amenify       |
+| 733  | Дмитрий Тырылгин                   | Software Engineer, Dvigus               |
+| 734  | Ишора Екатерина                    | Designer, AIM                           |
+| 735  | Калинин Павел                      | Программист, Омск                       |
+| 736  | Пичугин Артем                      | Head of data programs, Newprolab        |
+| 737  | Сергей Калистратов                 | IPTV Engineer                           |
+| 738  | Грищенко Никита                    | Software Developer, Москва              |
+| 739  | Шнайдер Александр                  | Backend Developer, Потенциал            |
+| 740  | Гладких Максим                     | Frontend developer, Белгород            |
+| 741  | Иванов Григорий                    | QA, Waves Platform                      |
+| 742  | Резвин Антон                       | Web developer, Кемерово                 |
+| 743  | Боярская Анна                      | разработчик, OZON Tech                  |
+| 744  | Иванов Алексей                     | C# developer, Чебоксары                 |
+| 745  | Погибелев Алексей                  | QA Lead, Stepik                         |
+| 746  | Батычко Ярослав                    | Backend Developer, Стрим                |
+| 747  | Мастюгин Александр                 | Архитектор ИС, Адаптируемые Прикладные Системы |
+| 748  | Александр Гранин                   | Разработчик, Новосибирск, Независимый Консультант |
+| 749  | Блощицын Владимир                  | Fullstack developer                     |
+| 750  | Антонович Виктор                   | Программист, г. Волгоград               |
+| 751  | Поляков Павел                      | Разработчик, Яндекс                     |
+| 752  | Богданова Екатерина                | Backend Developer, Breadhead            |
+| 753  | Иоанна Шевчук                      | Developer                               |
+| 754  | Балтаев Артур                      | Senior Developer, Outsourcer, Moscow    |
+| 755  | Шашкин Дмитрий                     | Программист, Ultimate-Guitar            |
+| 756  | Белоконь Александр                 | Frontend developer, 42                  |
+| 757  | Батыров Артур                      | Software engineer, Санкт-Петербург      |
+| 758  | Туркотенко Евгений                 | C#/Unity Developer                      |
+| 759  | Алешин Илья                        | Data Scientist, Mail.ru Group, Москва   |
+| 760  | Михаил Дёмин                       | Нагрузочный тестировщик, Яндекс         |
+| 761  | Фетисов Артём                      | Web developer                           |
+| 762  | Горбунов Андрей                    | Team Lead, ИП Горбунов Андрей Викторович |
+| 763  | Антон Киселев                      | Machine Learning Engineer, Иннополис    |
+| 764  | Банных Роман                       | Backend Developer                       |
+| 765  | Дмитрий Норкин                     | Junior Researcher, RQC                  |
+| 766  | Верещагин Михаил                   | Backend developer, Москва               |
+| 767  | Акимов Михаил                      | Python Developer                        |
+| 768  | Ageev Ilya                         | Software Test Engineer, CQG             |
+| 769  | Михаил Ласка                       | Data Engineer                           |
+| 770  | Вознюк Иван                        | Junior Developer                        |
+| 771  | Бартов Константин                  | Фрилансер                               |
+| 772  | Непша Андрей                       | Программист, Mail.ru Group              |
+| 773  | Гаврилов Игорь                     | программист                             |
+| 774  | Соколов Денис                      | Программист, Энтерра Софт               |
+| 775  | Max Iliashenko                     | Senior .NET full-stack developer, Interfacing, Montreal, QC, Canada |
+| 776  | Арапов Александр                   | Инженер - программист                   |
+| 777  | Тагабилева Мария                   | Product owner, Клиники Чайка            |
+| 778  | Садков Дмитрий                     | product owner, Aflex, Москва            |
+| 779  | Закурдаев Евгений                  | Разработчик, AT Consulting              |
+| 780  | Бабушкин Эдуард                    | HR-аналитик                             |
+| 781  | Рукосуев Никита                    | Frontend developer, Екатеринбург        |
+| 782  | Бухал Никита                       | Android developer, VK                   |
+| 783  | Егорова Лилия                      | Разработчик, Компания DIRECTUM          |
+| 784  | Гаркавый Андрей                    | Аналитик, Tinkoff, выпускник МФТИ, Москва |
+| 785  | Козлов Алексей                     | Backend Developer, AppCraft LLC         |
+| 786  | Костерин Максим                    | Frontend Lead, Brizo                    |
+| 787  | Мясков Анатолий                    | Full Stack Developer, г. Москва         |
+| 788  | Роман Кондаков                     | Senior Software Engineer, GridGain      |
+| 789  | Глянцев Алексей                    | QA Engineer, Amaiz                      |
+| 790  | Ершов Антон                        | Fullstack разработчик, ylab.io          |
+| 791  | Иваницкий Илья                     | Senior Analyst, Авито, Москва           |
+| 792  | Попов Пётр                         | C++ Developer, Geomage                  |
+| 793  | Потапов Алексей                    | Разработчик ПО, Екатеринбург            |
+| 794  | Грушко Дмитрий                     | Frontend developer, Тверь               |
+| 795  | Ососов Иван                        | Аналитик, г. Пермь                      |
+| 796  | Виталий Крюков                     | Freelancer, Санкт-Петербург             |
+| 797  | Петкогло Александр                 | Frontend Developer, Мурманск            |
+| 798  | Коновалов Имя                      | Frontend developer, Тверь               |
+| 799  | Петрова Елена                      | IT talent acquisition specialist        |
+| 800  | Зайцев Дмитрий                     | Frontend developer                      |
+| 801  | Ройтман Сергей                     | Младший инженер-разработчик, Москва     |
+| 802  | Макс Янков                         | CTO                                     |
+| 803  | Москалёв Алексей                   | .NET Developer, Элисофт                 |
+| 804  | Антон Щербаков                     | Backend Developer                       |
+| 805  | Бекназаров Назар                   | Датасайентист, НИУ ВШЭ                  |
+| 806  | Сухомлин Максим                    | Руководитель IQHost                     |
+| 807  | Левицкий Александр                 | Начальник группы разработки, Сеть Связной, Москва |
+| 808  | Баландин Герман                    | PHP Developer, Viboom                   |
+| 809  | Мешков Александр                   | Data Scientist, Moscow                  |
+| 810  | Туркин Георгий                     | Frontend, Москва                        |
+| 811  | Петр Потапов                       | Fullstack Developer, Osome, Москва      |
+| 812  | Чалмаев Андрей                     | админ                                   |
+| 813  | Янковский Роман                    | Программист                             |
+| 814  | Миллер Владислав                   | Software engineer, IT consultant        |
+| 815  | Yakhontova Ekaterina               | QA tester, Performance Lab              |
+| 816  | Шестеркин Иван                     | node.js разработчик Нижний Новгород     |
+| 817  | Курило Дмитрий                     | Senior Web Engineer, Future PLC         |
+| 818  | Коснырев Олег                      | Frontend Developer                      |
+| 819  | Кочергин Владимир                  | Backend developer                       |
+| 820  | Леонид Евдокимов                   | почётный клоун, usher2.club             |
+| 821  | Егор Кочетов                       | Старший разработчик ПО, Москва          |
+| 822  | Петр Дмитриенко                    | Developer, Kaspersky                    |
+| 823  | Ханиев Ибрагим                     | Full-stack web developer, CINDX         |
+| 824  | Барсегян Михаил                    | Front-end разработчик                   |
+| 825  | Кугаевский Николай                 | Старший инженер-программист, Mail.ru    |
+| 826  | Гришутин Александр                 | Студент МФТИ, Преподаватель алгоритмов и concurrency в МФТИ и Tinkoff Generations |
+| 827  | Сергей Шишлов                      | Senior Architecture Prototyping Engineer, Arm Limited |
+| 828  | Михайленко Владимир                | Senior Developer                        |
+| 829  | Курносов Михаил                    | Software Developer                      |
+| 830  | Зуев Олег                          | Разработчик, VK                         |
+| 831  | Кумаритов Алан                     | Студент-программист, ЮФУ                |
+| 832  | Усанкин Максим                     | Разработчик, Fastdev                    |
+| 833  | Anton Korbutyak                    | Senior Product Manager, Wheely          |
+| 834  | Исаков Дмитрий                     | Developer, Self-Employed                |
+| 835  | Станислав Ронжин                   | Аспирант, Москва                        |
+| 836  | Плетенев Константин                | QA lead, Accenture                      |
+| 837  | Анна Левадная                      | Разработчик, Alice                      |
+| 838  | Леонид Хмельницкий                 | DigitalAsset.Live                       |
+| 839  | Abdusalamov Arsen                  | Senior Backend Developer, Avito         |
+| 840  | Ворожейкин Павел                   | Developer, Kaspersky, Санкт-Петербург   |
+| 841  | Ermolenko Maksim                   | ARRIVAL Robotics, Site Reliability Engineer |
+| 842  | Авдонин Иван                       | Software engineer, Epam Systems Inc     |
+| 843  | Крылов Филипп                      | Независимый разработчик                 |
+| 844  | Пестерев Дмитрий                   | Менеджер разработки                     |
+| 845  | Спиренков Владислав                | SRE                                     |
+| 846  | Григорьев Василий                  | Web-программист                         |
+| 847  | Plotnikov Anton                    | Backend developer, DSX                  |
+| 848  | Иванов Роман                       | Продакт-менеджер, Яндекс                |
+| 849  | Владимир Лесниченко                | Аналитик, Яндекс                        |
+| 850  | Макаров Сергей                     | Backend Team Lead, Алгоритмика          |
+| 851  | Алексей Любарец                    | Fullstack Developer                     |
+| 852  | Дмитрий Гроза                      | Data Analyst                            |
+| 853  | Мишакин Михаил                     | Senior Software Developer, Direct Line  |
+| 854  | Москвичёв Сергей                   | Software Engineer, Уфа                  |
+| 855  | Максим Филиппов                    | фрилансер                               |
+| 856  | Елизаров Виктор                    | Java Разработчик                        |
+| 857  | Корнеев Михаил                     | Python-разработчик, Moscow Python       |
+| 858  | Пожаров Алексей                    | Lead Frontend Developer, «Интерфакс»    |
+| 859  | Ялунин Александр                   | Backend Developer                       |
+| 860  | Вячеслав Молостовцев               | Senior dev, Kaspersky                   |
+| 861  | Чеботарёва Виктория                | IT Менеджер, Москва                     |
+| 862  | Беликов Алексей                    | Full-Stack Developer, ELT               |
+| 863  | Лисовский Владислав                | Fullstack Developer, Savedo GmbH        |
+| 864  | Киселев Георгий                    | Loginom Company                         |
+| 865  | Донцов Евгений                     | программист, Alphaopen                  |
+| 866  | Шкурко Александр                   | Android Developer, Сбербанк             |
+| 867  | Иван Куликов                       | Веб разработчик, Санкт-Петербург        |
+| 868  | Aleksandr Nazarov                  | Software Engineer, Facebook, New York   |
+| 869  | Козлов Павел                       | Software Engineer, Twilio               |
+| 870  | Михаил Андреев                     | Senior Javascript Developer             |
+| 871  | Сергей Николаев                    | Fullstack Developer                     |
+| 872  | Стрыгин Андрей                     | Node.js Developer, г. Москва            |
+| 873  | Павлов Максим                      | Программист, ВИСТ Групп                 |
+| 874  | Гарифулина Юлия                    | Software Developer, goTRG               |
+| 875  | Гучаков Никита                     | Разработчик/архитектор, Альфабанк       |
+| 876  | Олег Петрачев                      | fuullstack-программист, индивидуальный предприниматель |
+| 877  | Горьков Владимир                   | Программист, Алтай                      |
+| 878  | Альберт Фазуллин                   | Software Engineer, Казань               |
+| 879  | Артур Григорьев                    | Data Science Engineer, Samsung          |
+| 880  | Рянзин Михаил                      | Разработчик,  Рокетбанк                 |
+| 881  | Литвиненко Александр               | Ведущий разработчик                     |
+| 882  | Коряковцев Иван                    | Frontend Developer, "Roborox", Москва   |
+| 883  | Кузякин Павел                      | Frontend Developer, Москва              |
+| 884  | Метелёв Иван                       | Фронтенд-разработчик, Одноклассники     |
+| 885  | Гавриленко Артём                   | Руководитель проектов ИТ, ООО «Городской супермаркет» |
+| 886  | Константин Власов                  | CG Generalist                           |
+| 887  | Малахов Владимир                   | iOS developer, Санкт-Петербург          |
+| 888  | Казначеев Илья                     | GridGain, Apache Software Foundation    |
+| 889  | Калашников Павел                   | Software Engineer, Mad Devs             |
+| 890  | Чушов Дмитрий                      | PM, Вятка                               |
+| 891  | Могильников Алексей                | Senior Data Scientist, BCS              |
+| 892  | Карьгин Ярослав                    | SSDET, Moscow.                          |
+| 893  | Артамонов Олег                     | Ruby Developer                          |
+| 894  | Елизаров Никита                    | iOS Developer, МТС ИТ, Иннополис        |
+| 895  | Подкопаев Сергей                   | Product Manager, Moscow                 |
+| 896  | Корниенко Владимир                 | Project Manager, Oggetto                |
+| 897  | Алексей Черкасов                   | Ведущий инженер                         |
+| 898  | Смирнов Денис                      | Ведущий разработчик, Arenadata          |
+| 899  | Паринов Аркадий                    | Software Engineer                       |
+| 900  | Роман Карчмитович                  | SRE/DevOps Engineer                     |
+| 901  | Власов Илья                        | Fullstack Developer                     |
+| 902  | Султыгов Руслан                    | Backend Developer, MitLabs Воронеж      |
+| 903  | Свечников Глеб                     | UI Developer, Санкт-Петербург           |
+| 904  | Резванов Адель                     | Frontend web developer Санкт-Петербург  |
+| 905  | Владимир Корнев                    | dev lead, Москва                        |
+| 906  | Гусев Иван                         | Backend developer, Рыбинск              |
+| 907  | Походня Иван                       | Java developer                          |
+| 908  | Кулёмин Михаил                     | SRE                                     |
+| 909  | Херолянц Георгий                   | Senior Developer, Scentbird, Москва     |
+| 910  | Сердюк Даша                        | NLP Research Engineer                   |
+| 911  | Шульпин Артем                      | Android developer, Екатеринбург         |
+| 912  | Кряжев Сергей                      | Technical manager NetCracker            |
+| 913  | Диденко Яков                       | Разработчик, Яндекс                     |
+| 914  | Дружбин Вечеслав                   | Software Engineer, Waves                |
+| 915  | Оношко Даниил                      | Frontend Teamlead, INGIPRO              |
+| 916  | Батулов Андрей                     | Android Developer                       |
+| 917  | Торгов Николай                     | Разработчик, Москва                     |
+| 918  | Степанов Матвей                    | Программист, Ниигазэкономика            |
+| 919  | Вера Давыдова                      | Research developer (NLP), BRLab/HSE, Moscow |
+| 920  | Халиков Антон                      | Директор, NetAngels                     |
+| 921  | Мизин Артём                        | Инженер эксплутации СПД                 |
+| 922  | Гусев Илья                         | Software Engineer, выпускник МФТИ       |
+| 923  | Антон Сорокин                      | QA, Ростелеком                          |
+| 924  | Полян Евгений                      | Product Manager, Positive Technologies, Москва |
+| 925  | Аманов Карим                       | Software engineer                       |
+| 926  | Денис Графов                       | Software Engineer, Фрилансер            |
+| 927  | Шоборов Роман                      | .net developer                          |
+| 928  | Цапкин Николай                     | Sr. Software Engineer, Align Technology |
+| 929  | Данилов Алексей                    | Специалист службы технической поддержки, АйТи Хаус |
+| 930  | Бойко Вячеслав                     | Ведущий разработчик, МТС                |
+| 931  | Карандин Глеб                      | Frontend developer, TUI Russia & CIS    |
+| 932  | Туранов Владимир                   | Backend developer, Clover Group         |
+| 933  | Калюжный Владислав                 | Фрилансер                               |
+| 934  | Князев Сергей                      | Программист, Ниигазэкономика            |
+| 935  | Микаев Никита                      | Senior Backend Developer, DCLOUD        |
+| 936  | Голицын Максим                     | Software Engineer, Exadel               |
+| 937  | Максим Титов                       | Frontend Engineer, Wrike                |
+| 938  | Романов Андрей                     | Веб-разработчик, Joom                   |
+| 939  | Полухин Сергей                     | Backend Developer, Санкт-Петербург      |
+| 940  | Шитов Артём                        | QA, Медиалогия                          |
+| 941  | Секретарев Тихон                   | Junior developer, Take Wing             |
+| 942  | Ксенофонтов Илья                   | инженер больших данных, ocrv            |
+| 943  | Михаил Ютман                       | Стажёр-машинист, г. Санкт-Петербург     |
+| 944  | Зюков Александр                    | Senior Backend Engineer, JobToday SA Luxembourg |
+| 945  | Александр Петкогло                 | Senior Frontend Developer, freelancer   |
+| 946  | Хуснутдинов Раиль                  | Разработчик, ООО "Инфинити"             |
+| 947  | Курганов Александр                 | Разработчик интерфейсов, Санкт-Петербург |
+| 948  | Плевков Дмитрий                    | Backend-developer, AIM                  |
+| 949  | Павлов Игорь                       | Fullstack developer                     |
+| 950  | Задябин Сергей                     | разработчик, г.Москва                   |
+| 951  | Саттаров Антон                     | Developer, Смоленск                     |
+| 952  | Шимолин Алексей                    | Fullstack developer                     |
+| 953  | Ульянов Владислав                  | Backend Sowftware Developer, BelkaCar   |
+| 954  | Стамбульцян Артур                  | Frontend, Санкт-Петербург               |
+| 955  | Nikolay Kapustin                   | Apple Evagnelist, Digital Horizon       |
+| 956  | Katzendorn Roman                   | Python Developer, Spb                   |
+| 957  | Олег Барсуков                      | Web developer, freelance                |
+| 958  | Назаров Сергей                     | BSS Developer, Ingram Micro Cloud       |
+| 959  | Коротин Михаил                     | Руководитель группы разработки, Яндекс  |
+| 960  | Петрухин Павел                     | Backend developer, Москва               |
+| 961  | Габдуллин Арсений                  | Бэкенд-разработчик, Тинькофф-журнал     |
+| 962  | Бортникова Анастасия               | Системный аналитик, Москва              |
+| 963  | Алексеев Дмитрий                   | Head of Mobile, AGIMA                   |
+| 964  | Виталий Павлов                     | Программист, Clover                     |
+| 965  | Шевченко Игорь                     | Тимлид, Antida software, Челябинск      |
+| 966  | Боржкова Елизавета                 | Business Analyst, Kaspersky Lab         |
+| 967  | Игнатьев Глеб                      | Software Developer, Emlid               |
+| 968  | Прищепов Владислав                 | Product Manager, Yandex AppMetrica      |
+| 969  | Мойсеенко Кирилл                   | Data Scientist, NeoLab                  |
+| 970  | Иван Анисимов                      | Админ, Уфа                              |
+| 971  | Алексей Литвиненко                 | Software developer in test, Kaspersky, Moscow |
+| 972  | Игорь Иванов                       | Заведующий кафедрой ИТ, Белгород        |
+| 973  | Ковба Андрей                       | Fullstack Developer, г. Екатеринбург    |
+| 974  | Купченко Александр                 | nodejs, ruby, crystal developer         |
+| 975  | Швец Сергей                        | CTO, Manageband                         |
+| 976  | Пудов Андрей                       | Программист, Intel                      |
+| 977  | Иван Решетников                    | Студент, Пермь                          |
+| 978  | Зайцев Дмитрий                     | python developer                        |
+| 979  | Алексеев Никита                    | Backend Разработчик, KazanExpress       |
+| 980  | Васильев Владислав                 | Software Engineer, Altoros, Минск       |
+| 981  | Железная Анастасия                 | Ведущий разработчик Oracle BI, РДТЕХ    |
+| 982  | Гизатуллин Марат                   | Java lead                               |
+| 983  | Вишняков Алексей                   | Frontend Developer, Москва              |
+| 984  | Андрей Каналин                     | Инженер, г. Екатеринбург                |
+| 985  | Протопопова Анна                   | QA team lead                            |
+| 986  | Кухтинов Александр                 | Аналитик, ex-Glowbyte                   |
+| 987  | Опрокиднев Андрей                  | Frontend developer, г. Екатеринбург     |
+| 988  | Селихов Евгений                    | .Net Developer                          |
+| 989  | Тронин Денис                       | Senior Software Developer, Cyprus       |
+| 990  | Цаплин Леонид                      | Программист, Москва                     |
+| 991  | Константин Чупин                   | Backend Developer, Yandex               |
+| 992  | Гончаренко Дмитрий                 | Developer, Moscow, Yandex               |
+| 993  | Белявский Дмитрий                  | Ведущий программист, Криптоком          |
+| 994  | Жидков Сергей                      | hoko                                    |
+| 995  | Буров Андрей                       | Java Developer, ACI                     |
+| 996  | Захлестин Алексей                  | Программист и IT-менеджер               |
+| 997  | Михаил Мухоян                      | Business Analyst, Королёв               |
+| 998  | Колбасов Матвей                    | Data Scientist, Capturica               |
+| 999  | Евгений Михеев                     | .net web developer, Калининград         |
+| 1000 | Чумаков Виталий                    | .NET разработчик, Москва                |
+| 1001 | Гуденков Дмитрий                   | Frontend developer                      |
+| 1002 | Иван Клигман                       | Fullstack developer                     |
+| 1003 | Павкин Илья                        | Программист, ASNTL                      |
+| 1004 | Саркисян Вероника                  | DS, S7 TechLab                          |
+| 1005 | Романченко Андрей                  | Программист 1С, Москва                  |
+| 1006 | Шилов Сергей                       | Администратор                           |
+| 1007 | Кулин Филипп                       | Генеральный директор, хостинг DIPHOST   |
+| 1008 | Рыбкин Роман                       | Software Developer, Университет Иннополис |
+| 1009 | Платонов Сергей                    | Программист, Цуг                        |
+| 1010 | Бугарчев Денис                     | Frontend developer                      |
+| 1011 | Шалымов Антон                      | web backend-developer, Новосибирск      |
+| 1012 | Кочуров Максим                     | Research Engeneer, Samsung AI; MSc Skoltech |
+| 1013 | Марк Фрост                         | Lead backend developer                  |
+| 1014 | Ахметшин Марсель                   | Frontend разработчик, Яндекс            |
+| 1015 | Игорь Соколовский                  | разработчик, OZON Tech                  |
+| 1016 | Кислицын Егор                      | Директор, Captain Software Ltd          |
+| 1017 | Жуковский Никита                   | Front End Software Engineer, Москва     |
+| 1018 | Федосеева Анна                     | Frontend developer                      |
+| 1019 | Литвиненко Владислав               | Самара, fullstack                       |
+| 1020 | Самборский Сергей                  | Backend, Санкт-Петербург                |
+| 1021 | Гомулин Сергей                     | Программист, Тюмень                     |
+| 1022 | Зурбаев Тимур                      | Backend разработчик, Zenky              |
+| 1023 | Денис Цветков                      | Разработчик, VK                         |
+| 1024 | Михаил Навернюк                    | Ведущий программист, Everys, г. Москва  |
+| 1025 | Егоров Павел                       | Руководитель отдела обучения, СКБ Контур |
+| 1026 | Ермилов Антон                      | Software Developer, Soter Analytics     |
+| 1027 | Исмаил Алекперов                   | фрилансер, Екатеринбург                 |
+| 1028 | Левша Александр                    | Ведущий разработчик, Набережные Челны   |
+| 1029 | Гордей Александра                  | мл. разработчик, МФТИ                   |
+| 1030 | Бережной Лев                       | IT-архитектор, Москва                   |
+| 1031 | Бикеев Альберт                     | Software engineer                       |
+| 1032 | Максим Васенков                    | Ведущий программист, Этерон, г. Смоленск |
+| 1033 | Ибраков Азат                       | SDET, Align Technology                  |
+| 1034 | Александров Владимир               | Backend Developer, Waves                |
+| 1035 | Юрий Новиков                       | Руководитель отдела разработки, Gateline.ru |
+| 1036 | Гуртовой Андрей                    | Главный инженер по разработке ПО, Сбербанк |
+| 1037 | Данила Рязановский                 | Программист, Joom                       |
+| 1038 | Тагир Нурахметов                   | Mobile Developer                        |
+| 1039 | Егоров Антон                       | Software Engineer, SmartBear Software   |
+| 1040 | Муханов Илья                       | Developer, Kaspersky                    |
+| 1041 | Клевакин Илья                      | Ведущий системный администратор, Екатеринбург |
+| 1042 | Илья Барышников                    | Data Scientist, Москва                  |
+| 1043 | Сикорский Алексей                  | Software Developer, Moscow              |
+| 1044 | Козловский Андрей                  | Software Engineer, Санкт-Петербург      |
+| 1045 | Абдульманов Альберт                | Фронтенд-разработчик, Санкт-Петербург   |
+| 1046 | Владимир Хомутов                   | ФУПМ-92/94                              |
+| 1047 | Кац Никита                         | Senior Backend Developer, amoCRM        |
+| 1048 | Сергей Аксёнов                     | Руководитель backend-разработки         |
+| 1049 | Шишаев Арсений                     | студент IT специальности                |
+| 1050 | Королев Руслан                     | Frontend Developer                      |
+| 1051 | Мезин Артём                        | Fullstack developer                     |
+| 1052 | Соковых Пётр                       | фрилансер                               |
+| 1053 | Ивашковский Иван                   | Tech lead                               |
+| 1054 | Крейдлин Леонид                    | Программист, Pertenorgroup, Paris       |
+| 1055 | Павел Вайнерман                    | программист                             |
+| 1056 | Данил Юрлов                        | Software Developer, Нижний Новгород     |
+| 1057 | Александр Филатов                  | Программист, Москва                     |
+| 1058 | Трифонов Евгений                   | IT-журналист, г. Москва                 |
+| 1059 | Никита Толстунов                   | backend-developer, TigerTrading         |
+| 1060 | Frolov Maksim                      | Product, Akelon                         |
+| 1061 | Певунов Дмитрий                    | Ведущий разработчик Bi.Zone             |
+| 1062 | Юрьев Вадим                        | QA, Redmadrobot                         |
+| 1063 | Грачев Роман                       | Web Developer,Глазов                    |
+| 1064 | Лебедев Максим                     | Разработчик, SkyDNS                     |
+| 1065 | Алексей Владимиров                 | Senior Web Developer, Wrike             |
+| 1066 | Пономарев Олег                     | Выпускник МФТИ, Software Engineer, Google |
+| 1067 | Гоняк Дмитрий                      | Java developer. Moscow                  |
+| 1068 | Хоронько Андрей                    | Software Engineer, Self-Employed        |
+| 1069 | Денисов Павел                      | FrontEnd Разработчик SibEdge Томск      |
+| 1070 | Добряк Дмитрий                     | CA, freelancer                          |
+| 1071 | Иван Резниченко                    | Network Architect                       |
+| 1072 | Олейник Михаил                     | ruby разработчик                        |
+| 1073 | Roman Senturov                     | Developer, SPb                          |
+| 1074 | Давыдов Максим                     | Senior Software Developer, Elama        |
+| 1075 | Поляк Марк                         | Data Scientist, Санкт-Петербург         |
+| 1076 | Дятлов Андрей                      | Программист, Capturica                  |
+| 1077 | Шардин Михаил                      | фронтенд-разработчик, Пермь             |
+| 1078 | Амирханова Дарья                   | Test Analyst, Accenture Latvia          |
+| 1079 | Мурадьян Илья                      | Разработчик Java, TradingView           |
+| 1080 | Кольцов Михаил                     | Backend Developer, ЦТБ                  |
+| 1081 | Котов Михаил                       | Senior QA Automation, Playtika          |
+| 1082 | Николенко Светлана                 | Инженер баз данных, Геоскан             |
+| 1083 | Судома Артём                       | Серверный разработчик, Санкт-Петербург  |
+| 1084 | Шакиров Станислав                  | mobile developer, ип                    |
+| 1085 | Сергей Фадеев                      | Разработчик, Провектус                  |
+| 1086 | Можаев Михаил                      | программист, Broadridge, Санкт-Петербург |
+| 1087 | Бодня Константин Александрович     | Performance engineer, KLM, Amstelveen, Netherlands |
+| 1088 | Алексей Пыльцын                    | Веб-разработчик, Ростов-на-Дону         |
+| 1089 | Ким Густырь                        | Python Developer, Marilyn Systems       |
+| 1090 | Азат Разетдинов                    | Руководитель службы, Яндекс             |
+| 1091 | Будыльников Владимир               | Системный Администратор, Яндекс.Деньги  |
+| 1092 | Теребенин Евгений                  | android developer                       |
+| 1093 | Вихров Игорь                       | QA engineer, Москва                     |
+| 1094 | Vadik Sirekanyan                   | Senior Android Developer, Москва        |
+| 1095 | Васенков Максим                    | Ведущий программист, Этерон, Смоленск   |
+| 1096 | Косин Вадим                        | Системный архитектор, ALRUD             |
+| 1097 | Копылов Владимир                   | программист, г. Ульяновск               |
+| 1098 | Симонов Фёдор                      | Backend Developer, Yandex               |
+| 1099 | Касьянов Алексей                   | программист, Everys Москва              |
+| 1100 | Ничипоренко Денис                  | Backend Developer                       |
+| 1101 | Бобровский Антон                   | программист, Диасофт                    |
+| 1102 | Николай Громов                     | ООО Наука                               |
+| 1103 | Aleksandr Tavgen                   | CTO Timetrix                            |
+| 1104 | Гимранов Валентин                  | WEB-developer, Обнинск                  |
+| 1105 | Константин Круглов                 | Lead DevOps, Bidease                    |
+| 1106 | Михаил Макаров                     | Senior Software Engineer, Киев (Украина) |
+| 1107 | Донской Александр                  | программист, ИП                         |
+| 1108 | Аникьева Ксения                    | Инженер по тестированию, Netrika        |
+| 1109 | Коплович Дмитрий                   | Founder, Latera                         |
+| 1110 | Пномарёв Алексей                   | программист, Набережные Челны           |
+| 1111 | Ардяков Алексей                    | Ведущий инженер, Datum Group            |
+| 1112 | Атанов Михаил                      | бэкендер, Москва                        |
+| 1113 | Васин Кирилл                       | Data Scientist, Санкт-Петербург         |
+| 1114 | Шуршев Андрей                      | Backend developer                       |
+| 1115 | Лозко Роман                        | Security Researcher, Москва             |
+| 1116 | Малыхин Юрий                       | Разработчик, Яндекс                     |
+| 1117 | Кондратов Андрей                   | Старший инженер-программист             |
+| 1118 | Дмитрий Скрыльников                | Frontend Developer, Vigo                |
+| 1119 | Новицкий Кирилл                    | QA engineer, Москва                     |
+| 1120 | Игорь Волков                       | Software Developer, Москва              |
+| 1121 | Станислав Тактаев                  | Разработчик Sol, Py                     |
+| 1122 | Яхина Елена                        | Mobile developer                        |
+| 1123 | Зайцев Алексей                     | Backend Developer, Mail.ru Group        |
+| 1124 | Проценко Андрей                    | Network engineer, ozon.ru               |
+| 1125 | Голубев Павел                      | программист ООО "Синдикат"              |
+| 1126 | Игорь Пнев                         | Fullstack разработчик                   |
+| 1127 | Писаренко Максим                   | DevOps, Netrika                         |
+| 1128 | Орлов Андрей                       | Начальник отдела инженерно-технического обслуживания игровых проектов, Иннова |
+| 1129 | Воронов Дмитрий                    | Fullstack Developer, JetRockets         |
+| 1130 | Деревянных Михаил                  | Graphics programmer, Москва             |
+| 1131 | Троицкий Дмитрий                   | Программист, фрилансер                  |
+| 1132 | Антипина Александр                 | Software Engineer, Amsterdam            |
+| 1133 | Рошко Данил                        | Web Developer, Екатеринбург             |
+| 1134 | Могилевский Вячеслав               | Site Reliability Engineer, Tripactions  |
+| 1135 | Спасский Никита                    | тестировщик, Санкт-Петербург            |
+| 1136 | Скуратович Сергей                  | Инженер, Воронеж                        |
+| 1137 | Борзилов Артем                     | Программист, JetBrains                  |
+| 1138 | Анатолий Ягов                      | Software Developer г. Санкт-Петербург   |
+| 1139 | Белобородов Иван                   | Product Designer, Москва                |
+| 1140 | Мирасов Сергей                     | Frontend Developer, Нижний Новгород     |
+| 1141 | Андрей Янгабышев                   | Software Developer, г. Москва           |
+| 1142 | Тишков Павел                       | DevOps, Moscow                          |
+| 1143 | Ковалев Ярослав                    | Frontend Developer                      |
+| 1144 | Скрибловский Илья                  | веб-разработчик, Микро Лайн             |
+| 1145 | Мосяйкин Владимир                  | Head of Web Development, Москва         |
+| 1146 | Филипп Казаков                     | Руководитель, Ph&Ph                     |
+| 1147 | Пушкарев Андрей                    | Fullstack Development                   |
+| 1148 | Мальгин Алексей                    | Senior Backend Developer, Новосибирск   |
+| 1149 | Кущ Александр                      | CTO, Ipsos in Russia                    |
+| 1150 | Чижанов Илья                       | Инженер-программист, ФГУП "НАМИ"        |
+| 1151 | Мокеев Алексей                     | Разработчик                             |
+| 1152 | Гуревич Алексей                    | биоинформатик, СПбГУ                    |
+| 1153 | Степанов Дмитрий                   | Разработчик, Яндекс                     |
+| 1154 | Пятин Илья                         | Data Engineer, First Line Software      |
+| 1155 | Шеломенцев Дмитрий                 | Программист, Mail.ru Group              |
+| 1156 | Варламов Георгий                   | Системный аналитик                      |
+| 1157 | Гарифьянов Денис                   | iOS developer, dlg.im                   |
+| 1158 | Герасименко Татьяна                | Lead developer, Москва                  |
+| 1159 | Гневушев Евгений                   | Team Lead                               |
+| 1160 | Жохов Алексей                      | VP of Engineering, Scentbird Inc.       |
+| 1161 | Степаненко Сергей                  | Junior Haskell Developer, Juspay        |
+| 1162 | Докучаев Дмитрий                   | Frontend developer, Санкт-Петербург     |
+| 1163 | Матвей Матвеев                     | Product Manager, Москва, Skyeng         |
+| 1164 | Кудрявцев Денис                    | Программист, Москва                     |
+| 1165 | Жеребцов Алексей                   | Программист, фриланс                    |
+| 1166 | Кривоносов Алексей                 | Team Lead, LIFE PAY, Москва             |
+| 1167 | Слепков Марк                       | Программист, фрилансер                  |
+| 1168 | Субботин Василий                   | Teamlead, smena                         |
+| 1169 | Яницкий Александр                  | Lead developer, Калининград             |
+| 1170 | Гейнц Роман                        | Fullstack разработчик                   |
+| 1171 | Вяткин Андрей                      | Программист, Санкт-Петербург            |
+| 1172 | Сёмов Руслан                       | Senior DevOps Engineer, dlg.im          |
+| 1173 | Гаврилов Вадим                     | Руководитель IT-направления, Екатеринбург |
+| 1174 | Алексей Самсонов                   | программист, Smartsheet                 |
+| 1175 | Левицкая Анастасия                 | Художник                                |
+| 1176 | Альберт Султанов                   | Разработчик, Москва                     |
+| 1177 | Панфёров Сергей                    | Java Developer, Moscow                  |
+| 1178 | Алексей Чикин                      | Frontend developer, г. Саранск          |
+| 1179 | Баумгертнер Александр              | Fullstack JS разработчик, Спб           |
+| 1180 | Пётр Резиков                       | Software Engineer                       |
+| 1181 | Кузнецов Михаил                    | System Administrator / DevOps, Freelancer |
+| 1182 | Бредников Владимир                 | Devops engineer, Нижний Новгород        |
+| 1183 | Никитин Роман                      | Программист, Across Systems             |
+| 1184 | Семякин Павел                      | Системный архитектор. Москва            |
+| 1185 | Коваленко Ангелина                 | Аналитик, ВКонтакте, МФТИ               |
+| 1186 | Старцев Павел                      | Android-разработчик                     |
+| 1187 | Максим Ласка                       | Data Engineer                           |
+| 1188 | Стариков Михаил                    | Frontend Engineer, METRO Markets GmbH   |
+| 1189 | Затеев Александр                   | DevOps engineer, Москва                 |
+| 1190 | Лемпицкий Виктор                   | lab leader, Samsung AI Center, Москва   |
+| 1191 | Дмитрий Невзоров                   | CTO, microapps SL                       |
+| 1192 | Koryabkin Nikita                   | Senior Software Architect, Zevs Cloud   |
+| 1193 | Мороз Владислав                    | Программист, 1С                         |
+| 1194 | Клецер Илья                        | Консультант по внедрению ПО, IBM Россия |
+| 1195 | Кирилл Заборский                   | Software Engineer, FP Complete          |
+| 1196 | Кузьмин Ринат                      | Data scientist, Clover Group            |
+| 1197 | Анисимов Алексей                   | Программист, Воронеж                    |
+| 1198 | Онин Алексей                       | Программист, Пермь                      |
+| 1199 | Захаров Сергей                     | Web Developer                           |
+| 1200 | Андрей Логинов                     | Разработчик, Санкт-Петербург            |
+| 1201 | Исаев Евгений                      | Инженер-программист, Уфа                |
+| 1202 | Игорь Водка                        | Fullstack Developer                     |
+| 1203 | Коротаев Александр                 | Web Developer, ИП, Краснодар            |
+| 1204 | Миронов Александр                  | Ведущий Android разработчик, Bekitzur   |
+| 1205 | ﻿Петров Алексей                    | Автотестирование, Сбербанк              |
+| 1206 | Shilkin Denis                      | Senior Software Engineer, Gett RnD      |
+| 1207 | Саксин Кирилл                      | Senior Scala Developer                  |
+| 1208 | Шашин Алексей                      | Frontend-разработчик                    |
+| 1209 | Богачёв Александр                  | Старший разработчик, Arrival            |
+| 1210 | Хамидуллин Руслан                  | Зам.тех.дир., тимлид; WavePoint, С-Пб   |
+| 1211 | Кирилл Демуров                     | Разработчик, IoTa Controls              |
+| 1212 | Спорыш Семён                       | Backend Developer, г. Санкт-Петербург   |
+| 1213 | Волков Никита                      | Frontend Developer                      |
+| 1214 | Савченко Валерий                   | Frontend Developer                      |
+| 1215 | Романов Михаил                     | Frontend Developer, Comtravo            |
+| 1216 | Просвирнин Владислав               | Frontend Developer                      |
+| 1217 | Головкова Екатерина                | Frontend-разработчик, SRG-IT            |
+| 1218 | Ростислав Василихин                | Software Engineer, Нижний Новгород      |
+| 1219 | Lebedev Sergey                     | System Administrator, Inter             |
+| 1220 | Гранкин Артём                      | Java Developer                          |
+| 1221 | Лебедев Дмитрий                    | JS Developer, Санкт-Петербург           |
+| 1222 | Баранов Кирилл                     | Web-developer                           |
+| 1223 | Атанов Андрей                      | Junior Research Fellow, Samsung-HSE Laboratory |
+| 1224 | Александр Тучков                   | Независимый консультант                 |
+| 1225 | Аммосов Николай                    | Backend developer, ООО Баланс-платформа |
+| 1226 | Хисамов Вернат                     | Software Engineer                       |
+| 1227 | Ряжских Алексей                    | .Net Developer, Санкт-Петербург         |
+| 1228 | Харламова Александра               | Аналитик, Москва                        |
+| 1229 | Тарасов Александр                  | Ведущий разработчик, Дигинавис          |
+| 1230 | Токтохоев Баир                     | Программист 1С, ООО "1551" г. Москва    |
+| 1231 | Дмитрий Костиков                   | Программист, г. Волгоград               |
+| 1232 | Бабушкин Андрей                    | Software Validation Engineer, Интел, Нижний Новгород |
+| 1233 | Илья Данилкин                      | Backend engineer, Avito                 |
+| 1234 | Коноваленко Даниил                 | Разработчик, Яндекс                     |
+| 1235 | Рюмкин Павел                       | CEO, Almighty Web                       |
+| 1236 | Морозов Иван                       | Инженер-разработчик, S7 Techlab         |
+| 1237 | Николай Антонов                    | Test engineer, T-Systems                |
+| 1238 | Иванов Алексей                     | frontend-разработчик, Evil Martians     |
+| 1239 | Воротынцев Дмитрий                 | Руководитель, ФСК                       |
+| 1240 | Исаев Виталий                      | Старший разработчик, Москва             |
+| 1241 | Боков Сергей                       | Java Developer, Ingram Micro Cloud      |
+| 1242 | Макаров Ярослав                    | Python Developer, CDNvideo              |
+| 1243 | Дмитрий Спорыхин                   | москва, главный инженер разработки, сбербанк |
+| 1244 | Ильдар Мустафин                    | Разработчик С++                         |
+| 1245 | Ахрамеев Павел                     | iOS-Разработчик, PicsArt                |
+| 1246 | Шихалев Иван                       | инженер-программист, Екатеринбург       |
+| 1247 | Фокина Татьяна                     | Web developer, Санкт-Петербург          |
+| 1248 | Дмитрий Лукичёв                    | Senior Frontend Developer, Payever      |
+| 1249 | Сатонин Алексей                    | Инженер, программист и изобретатель, фрилансер |
+| 1250 | Ларионов Игорь                     | Инженер-программист, iSpring            |
+| 1251 | Бандурин Георгий                   | Системный администратор                 |
+| 1252 | Редозубов Денис                    | CTO, Typeable                           |
+| 1253 | Sergey Nikitin                     | Frontend developer, Moscow              |
+| 1254 | Парфёнов Михаил                    | Fullstack developer, freelance          |
+| 1255 | Жиляев Дмитрий                     | Инженер, Selectel                       |
+| 1256 | Александр Анохин                   | Lead Developer, г. Москва               |
+| 1257 | Martin Schulz                      | Frontend Developer                      |
+| 1258 | Бухтияров Евгений                  | Разработчик ИС, Новосибирск             |
+| 1259 | Serezhkin Ivan                     | developer, Insolar                      |
+| 1260 | Стрельцов Алексей                  | Backend Developer                       |
+| 1261 | Парфёнов Артём                     | Старший разработчик, г.Москва           |
+| 1262 | Михаил Фалалеев                    | Software Engineer, Synopsys             |
+| 1263 | Тимонин Сергей                     | Автокоды, Ассемблер, Кобол, Фортран, С, Паскаль, С++, Python, 1С, OneScript, DataBase Dev Ветеран IT Москва |
+| 1264 | Ким Алёна                          | Data Scientist, HSE                     |
+| 1265 | Павлов Владимир                    | Senior Software Developer, The Right Balance LLC |
+| 1266 | Зонов Александр                    | инженер-программист, T-SYSTEMS RUS      |
+| 1267 | Сергей Стремидло                   | Web Developer                           |
+| 1268 | Сычев Антон                        | Разработчик, TradingView                |
+| 1269 | Волхонский Денис                   | Аспирант, Сколтех                       |
+| 1270 | Никита Князев                      | Software Engineer                       |
+| 1271 | Кутузов Михаил                     | Frontend-developer Salt & Pepper        |
+| 1272 | Ермолаев Илья                      | Fullstack Developer, Москва             |
+| 1273 | Коврова Аста                       | Fullstack developer, Санкт-Петербург    |
+| 1274 | Гильфанов Тимур                    | Android-разработчик, Reactive Phone     |
+| 1275 | Егор Жумиков                       | Программист, Санкт-Петербург            |
+| 1276 | Юлия Ярмонова                      | Front-end программист, Москва           |
+| 1277 | Паханов Максим                     | Менеджер продукта, Mail.ru              |
+| 1278 | Цай Сергей                         | Программист, Саратов                    |
+| 1279 | Белянова Марина                    | Аспирант МГТУ им. Н.Э. Баумана          |
+| 1280 | Суслов Алексей                     | Инженер-программист, Eltex              |
+| 1281 | Сергей Вычегжанин                  | Senior Software Engineer, OpenText      |
+| 1282 | Славнейшев Филипп                  | C++ разработчик, Yandex                 |
+| 1283 | Артём Попов                        | Software Engineer                       |
+| 1284 | Манолов Евгений                    | Software Engineer, Санкт-Петербург      |
+| 1285 | Фадеев Роман                       | Фронтенд-разработчик, OneTwoTrip        |
+| 1286 | Максим Мартынов                    | Mobile Team Lead, Dualboot Partners     |
+| 1287 | Останин Александр                  | Quantitative Researcher, AIM Tech       |
+| 1288 | Ершов Виктор                       | Системный администратор, Екатеринбург   |
+| 1289 | Вагин Александр                    | Web developer                           |
+| 1290 | Карнова Анна                       | Верстальщик, Москва                     |
+| 1291 | Усов Баларам                       | Разработчик и математик, Москва         |
+| 1292 | Pletnev Nikolay                    | DevOps Itransition                      |
+| 1293 | Лев Якушев                         | Digital producer, Пермь                 |
+| 1294 | Коняхин Всеволод                   | RnD Developer, г. Санкт-Петербург       |
+| 1295 | Ильенков Роман                     | программист, Санкт-Петербург            |
+| 1296 | Василий Кузнецов                   | Ведущий разработчик, TravelLine         |
+| 1297 | Серебряная Юлия                    | Data Scientist, ParticleOne             |
+| 1298 | Бычков Кирилл                      | Инженер                                 |
+| 1299 | Пенкин Михаил                      | Веб-разработчик, Самара                 |
+| 1300 | Лазарев Игорь                      | Frontend Developer, Freelance           |
+| 1301 | Владимир Зуев                      | DevOps, Ярославль                       |
+| 1302 | Рыбалка Александр                  | UE4 Developer                           |
+| 1303 | Коваленко Михаил                   | Программист, R.D Science, Красноярск    |
+| 1304 | Ашуха Арсений                      | Исследователь, Samsung AI Center Moscow |
+| 1305 | Ушаков Максим                      | CTO                                     |
+| 1306 | Евгений Прилепин                   | Software Engineer, Санкт-Петербург      |
+| 1307 | Давыдов Олег                       | SWE, Google                             |
+| 1308 | Алексеев Валерий                   | Креативный директор, веб-студия #VA     |
+| 1309 | Куватов Денис                      | Game developer, Москва                  |
+| 1310 | Суровцев Павел                     | Программист, Москва                     |
+| 1311 | Сойфер Андрей                      | Software Developer, General Motors      |
+| 1312 | Андрей Максимов                    | Software Engineer, Quantori             |
+| 1313 | Абанин Антон                       | ведущий программист                     |
+| 1314 | Кривоносов Георгий                 | Fullstack Developer, SoftBand           |
+| 1315 | Федяков Филипп                     | iOS Engineer, Uberchord Gmbh            |
+| 1316 | Пржибельский Андрей                | Биоинформатик, СПбГУ                    |
+| 1317 | Антипин Роман                      | Software Engineer, Mail.ru              |
+| 1318 | Вовк Антон                         | Инженер-программист, Москва             |
+| 1319 | Антипова Полина                    | Руководитель проектов                   |
+| 1320 | Илья Мельников                     | Senior Product Support Engineer, ООО "ДжиДиСи Сервисез" |
+| 1321 | Ульянов Алексей                    | фрилансер                               |
+| 1322 | Завьялов Владислав                 | Ученый, программист (Хельсинки, Москва) |
+| 1323 | Спиридонов Виталий                 | Senior Front-end developer, ADV         |
+| 1324 | Таранец Иван                       | fullstack developer                     |
+| 1325 | Гаврилов Даниил                    | Разработчик-Исследователь, ВКонтакте    |
+| 1326 | Азат Ибраков                       | SDET, Align Technology                  |
+| 1327 | Шер Владимир                       | CEO, Мегатель Сервис, Москва            |
+| 1328 | Кирюшин Александр                  | Software Developer, ivi                 |
+| 1329 | Коновалов Артём                    | Frontend Developer, Тверь               |
+| 1330 | Васнецова Людмила                  | Frontend Developer                      |
+| 1331 | Алекс Бренейзе                     | CEO, Auditerra                          |
+| 1332 | Чубуков Алексей                    | Специалист техподдержки, CDNvideo       |
+| 1333 | Седов Эдгар                        | Backend developer, Yandex               |
+| 1334 | Садретдинов Роберт                 | Backend Developer, Freelance            |
+| 1335 | Дмитрий Богомолов                  | Developer                               |
+| 1336 | Венедиктов Вадим                   | Веб-разработчик, Автор курсов, goodprogrammer.ru |
+| 1337 | Варб Валентин                      | Frontend developer, Initflow            |
+| 1338 | Горобец Алексей                    | Software Engineer                       |
+| 1339 | Кобрин Александр                   | Software Engineer, Dashbouquet          |
+| 1340 | Артем Страхов                      | QA engineer, Санкт-Петербург            |
+| 1341 | Бакиров Марат                      | Tech lead, ParusInvest, Москва          |
+| 1342 | Максим Филиппов                    | программист, Ростов-на-Дону             |
+| 1343 | Моргоев Михаил                     | Backend Developer, OZON Tech            |
+| 1344 | Балчиков Константин                | .NET Разработчик, г. Пермь              |
+| 1345 | Коваленко Антон                    | Программист, Москва                     |
+| 1346 | Пузанов Никита                     | Frontend developer                      |
+| 1347 | Bortnikov Roman                    | Backend developer                       |
+| 1348 | Богданов Михаил                    | DB Developer, Пенза                     |
+| 1349 | Руслан Магомедов                   | IT Engineer                             |
+| 1350 | Клюкин Александр                   | Администратор баз данных, Москва        |
+| 1351 | Шукшин Иван                        | Fullstack Developer, выпускник МФТИ     |
+| 1352 | Ряжских Дарья                      | Senior Android Developer, Malwarebytes  |
+| 1353 | Дудин Василий                      | UX Designer, SEMrush                    |
+| 1354 | Марина Степанова                   | Технический менеджер, Яндекс            |
+| 1355 | Кирилл Книзе                       | Старший эксперт-программист, T-Systems  |
+| 1356 | Кучин Александр                    | Разработчик, Ingram Micro               |
+| 1357 | Тюрин Рамин                        | Front-end Developer, dlg.im             |
+| 1358 | Самохвалов Павел                   | Developer                               |
+| 1359 | Роман Соколов                      | инженер-программист, выпускник МФТИ     |
+| 1360 | Федосихина Елена                   | Frontend Developer, Confirmit           |
+| 1361 | Илья Денисов                       | C++ developer, шведская компания Fastdev AB |
+| 1362 | Артём Егоров                       | Bioinformatician, the Laboratory of Systems Biology of Aging, MSU, Moscow |
+| 1363 | Морозов Сергей                     | 1С-Программист, г.Киров                 |
+| 1364 | Коваленко Павел                    | Senior Software Engineer, Mipko         |
+| 1365 | Волков Матвей                      | Developer                               |
+| 1366 | Остапчук Иван                      | .net developer                          |
+| 1367 | Михаил Кольцов                     | Backend Developer, ЦТБ                  |
+| 1368 | Графин Андрей                      | Software engineer, Яндекс               |
+| 1369 | Зотов Александр                    | IT-директор, Москва                     |
+| 1370 | Игумнов Андрей                     | Руководитель разработки платежных сервисов, OZON Tech |
+| 1371 | Олег Шершень                       | Technical Support Specialist            |
+| 1372 | Саша Беспоясов                     | Фронтенд-разработчик, Москва.           |
+| 1373 | Пономарев Вадим                    | WebDeveloper, г. Челябинск              |
+| 1374 | Дмитрий Назаров                    | Senior Developer, DataArt, Санкт-Петербург |
+| 1375 | Москалев Алексей                   | Senior Research Developer, Kaspersky Lab |
+| 1376 | Шеркунов Сергей                    | Backend developer                       |
+| 1377 | Голубов Никита                     | Frontend Developer, Курск               |
+| 1378 | Упадышев Андрей                    | Software Engineer, AWS                  |
+| 1379 | Чекан Евгений                      | Lead Back-end Developer                 |
+| 1380 | Кузнецов Федор                     | Старший аналитик, Радиус                |
+| 1381 | Миколаец Дмитрий                   | SCOM developer, Moscow                  |
+| 1382 | Кунис Даниил                       | iOS Developer, Touch Instinct           |
+| 1383 | Прямиков Павел                     | Uberwave                                |
+| 1384 | Dzindzikau Stanislau               | Web-Developer                           |
+| 1385 | Андрей Шишкин                      | Lead System Engineer                    |
+| 1386 | Козлов Александр                   | Junior ML Developer                     |
+| 1387 | Антипов Дмитрий                    | Биоинформатик, СПбГУ                    |
+| 1388 | Александр Родионов                 | Data Scientist                          |
+| 1389 | Дрягин Александр                   | Business / Systems Analyst, Kiwitaxi    |
+| 1390 | Балабанов Дмитрий                  | Developer, Moscow                       |
+| 1391 | Владимир Есаулов                   | Tech&Product at Katalystos              |
+| 1392 | Константин Кореньков               | Разработчик                             |
+| 1393 | Екатерина Николаенко               | Frontend developer                      |
+| 1394 | Чернов Алексей                     | Site Reliability Engineer, Google       |
+| 1395 | Домрачев Роман                     | Head of Development                     |
+| 1396 | Тришкин Даниил                     | DevOps Engineer, Grid Dynamics          |
+| 1397 | Смирнов Алексей                    | Инженер-программист, Екатеринбург       |
+| 1398 | Фефер Иван                         | Software Engineer, AIM Tech             |
+| 1399 | Чермянин Александр                 | .Net Developer, Нижний Новгород         |
+| 1400 | Невский Андрей                     | ИТ-директор, г. Москва                  |
+| 1401 | Гордеев Алексей                    | Senior iOS Developer, Москва            |
+| 1402 | Марковкин Денис                    | Разработчик, Москва                     |
+| 1403 | Daniil Lantukhov                   | Software Engineer, Freelance            |
+| 1404 | Олег Никитин                       | SE, Tech Lead, Tallinn                  |
+| 1405 | Юрий Толмачев                      | UI Developer, Краков (Польша)           |
+| 1406 | Куликов Андрей                     | Программист, Google                     |
+| 1407 | Соловьев Михаил                    | Программист, Иркутск                    |
+| 1408 | Гриценко Екатерина                 | Fullstack developer, Екатеринбург       |
+| 1409 | Рехина Оксана                      | Программист, Ростелеком                 |
+| 1410 | Юлия Бейсенова                     | Программист, Германия                   |
+| 1411 | Мельников Михаил                   | Backend Developer, Москва               |
+| 1412 | Субботин Денис                     | Devops, Санкт-Петербург                 |
+| 1413 | Коршиков Павел                     | Java Developer, г. Санкт-Петербург      |
+| 1414 | Пикулин Илья                       | C++ разработчик, RCDB                   |
+| 1415 | Фадеев Даниил                      | Software Engineer, Intel                |
+| 1416 | Барыев Дмитрий                     | Data Scientist, Санкт-Петербург         |
+| 1417 | Гафуанов Артём                     | Fullstack developer, Геленджик          |
+| 1418 | Айдар Ибатуллин                    | Frontend developer                      |
+| 1419 | Гусак Никита                       | Backend developer, Tinkoff              |
+| 1420 | Бушманова Елена                    | Биоинформатик, СПбГУ                    |
+| 1421 | Васильев Олег                      | Linux System Administrator              |
+| 1422 | Александр Петров                   | Тимлид, Новосибирск                     |
+| 1423 | Юлия Артющик                       | Frontend Developer, Insense             |
+| 1424 | Sergey Egorov                      | Fullstack developer, Ryazan             |
+| 1425 | Чайников Марк                      | Team Lead, ЦИАН                         |
+| 1426 | Смирнов Николай                    | программист 1с, Санкт-Петербург         |
+| 1427 | Ткаченко Иван                      | Ведущий программист, г.Тюмень           |
+| 1428 | Кабанов Сергей                     | Backend Teamlead, Yandex                |
+| 1429 | Борис Стельмах                     | Web Developer                           |
+| 1430 | Волков Алексей                     | Senior Test Automation Engeneer, EPAM   |
+| 1431 | Константин Лёвин                   | Verification Engineer                   |
+| 1432 | Сазон Тимур                        | Software Engineer, Volgograd            |
+| 1433 | Сидоров Пётр                       | Программист                             |
+| 1434 | Инфлянскас Виталий                 | Инженер-программист                     |
+| 1435 | Александр Самоделкин               | Systems engineer, EPAM, Санкт-Петербург |
+| 1436 | Бабушкин Андрей                    | Инженер по тестированию, Интел          |
+| 1437 | Пахомов Александр                  | QA                                      |
+| 1438 | Никитин Александр                  | Full Stack JS Developer, Andersen, Санкт-Петербург |
+| 1439 | Амелин Константин                  | scala, python developer                 |
+| 1440 | Астафьев Никита                    | Frontend-developer                      |
+| 1441 | Неруш Евгений                      | научный сотрудник, ИПФ РАН              |
+| 1442 | Григорьев Игорь                    | Инженер-программист, Москва             |
+| 1443 | Григорий Можаев                    | QA Automation, г. Москва                |
+| 1444 | Соломатин Роман                    | Программист, Пермь                      |
+| 1445 | Алeксей Гитoв                      | Программист и сисадмин, Москва г        |
+| 1446 | Лобов Александр                    | Software Developer, JetBrains           |
+| 1447 | Павел Аргентов                     | Backend developer, teamlead, Tver       |
+| 1448 | Михаил Акопов                      | iOS Developer                           |
+| 1449 | Булгаков Андрей                    | Fullstack Developer, Красноярск         |
+| 1450 | Королев Сергей                     | Разработчик, Москва                     |
+| 1451 | Александров Кирилл                 | Инженер по тестированию, Казань         |
+| 1452 | Сергей Хрыков                      | Программист, ABBYY                      |
+| 1453 | Сергей Пономарёв                   | Software Engineer, Evil Martians        |
+| 1454 | Рыков Михаил                       | Principal Software Engineer, Dell EMC, г. Санкт-Петербург |
+| 1455 | Хрульков Артём                     | Frontend-developer, г.Екатеринбург      |
+| 1456 | Мамашин Николай                    | IT Engineer                             |
+| 1457 | Темнов Александр                   | Менеджер Проектов, Москва               |
+| 1458 | Поткин Олег                        | C++ Software Engineer, Elektrobit Automotive |
+| 1459 | Антон Филиппов                     | Инженер-программист, НТП ТКА            |
+| 1460 | Леменков Пётр                      | Программист, Fedora Project             |
+| 1461 | Ефремов Денис                      | Fullstack Web Developer, AtomicWallet   |
+| 1462 | Федоринова Ольга                   | 1C Developer, Stockmann                 |
+| 1463 | Виталий Сверчков                   | Software engineer                       |
+| 1464 | Евгений Хайдуков                   | IT Manager, Краснодар                   |
+| 1465 | Каратаев Павел                     | Team Lead, Mail.ru Group                |
+| 1466 | Нещадин Иван                       | Senior Backend Developer, Moscow        |
+| 1467 | Денис Михальский                   | программист фрилансер                   |
+| 1468 | Патлах Сергей                      | C# developer                            |
+| 1469 | Белеванцев Андрей                  | системный программист, Москва           |
+| 1470 | Чистяков Илья                      | Developer, Yandex                       |
+| 1471 | Турбина Анастасия                  | Инженер поддержки информационных систем, Netrika |
+| 1472 | Зимин Тимур                        | Data scientist, Clover Group            |
+| 1473 | Павлов Егор                        | Frontend developer, BestDoctor          |
+| 1474 | Орешников Иван                     | Research Engineer, Max Planck Institute |
+| 1475 | Наумов Павел                       | Frontend Developer, Nemo Travel         |
+| 1476 | Колкер Михаил                      | Lead backend developer, Zyfra           |
+| 1477 | Степан Андреенко                   | CEO WIDISOFT                            |
+| 1478 | Рубан Евгений                      | Software Engineer                       |
+| 1479 | Лукашов Антон                      | Devops, Playtika                        |
+| 1480 | Григорий Бартош                    | Стажер-разработчик, Яндекс, г. Санкт-Петербург |
+| 1481 | Александр Колобов                  | Freelancer, Екатеринбург                |
+| 1482 | Шебаршов Сергей                    | Rave-developer, bumazhnaya lystra       |
+| 1483 | Мальцев Алексей                    | Разработчик, Veeam                      |
+| 1484 | Никита Ванясин                     | Software Engineer / Self-Employed       |
+| 1485 | Егор Бурков                        | Data Science Engineer, Samsung          |
+| 1486 | Иван Винокуров                     | Frontend Developer, CORSO               |
+| 1487 | Яковлев Роман                      | junior, Санкт-Петербург                 |
+| 1488 | Мамин Адель                        | программист, Exafore                    |
+| 1489 | Новайкин Павел                     | Фронтенд разработчик                    |
+| 1490 | Давид Френкель                     | Fullstack Developer                     |
+| 1491 | Алексей Маслаков                   | Frontend developer                      |
+| 1492 | Пахомов Артем                      | Team Lead, Larixon Classifieds          |
+| 1493 | Копылов Денис                      | Android developer, Stream, СПб          |
