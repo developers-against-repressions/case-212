@@ -2,6 +2,7 @@
 
 import os
 import re
+import hashlib
 
 
 class InvalidFileFormatException(Exception):
@@ -38,7 +39,7 @@ def load_signed():
                     signed_new.add((m.group(1).strip(), m.group(2).strip()))
     for signature in signed_new:
     	signed.append(signature)
-    return signed
+    return sorted(signed, key=lambda pair: hashlib.sha256(repr(pair).encode('utf-8')).hexdigest())
 
 
 def write_signed(signed, outp):
