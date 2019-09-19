@@ -224,3 +224,4 @@
 | Маша Будрите                       | Consultant Developer, Thoughtworks, Лондон |
 | Артем Тамоян                       | CTO, Vee Security                       |
 | Романов Михаил                     | Frontend Developer, Comtravo            |
+| Васенков Максим                    | Ведущий программист, Этерон, Смоленск   |
