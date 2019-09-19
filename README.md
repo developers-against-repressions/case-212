@@ -192,6 +192,7 @@
 | Лошаков Никита                     | Tech Lead                               |
 | Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
 | Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
+| Кушнарева Екатерина                | HR, Abagy Robotic Systems               |
 | Валентин Гимранов                  | WEB-developer, Обнинск                  |
 | Ничипоренко Денис                  | Backend Developer                       |
 | Мария Чакчурина                    | Python back-end dev, Kaspersky, Moscow  |
