@@ -226,3 +226,4 @@
 | Романов Михаил                     | Frontend Developer, Comtravo            |
 | Васенков Максим                    | Ведущий программист, Этерон, Смоленск   |
 | Дмитрий Семьюшкин                  | Frontend Developer, Pleeco              |
+| Борис Стельмах                     | Web Developer                             |
