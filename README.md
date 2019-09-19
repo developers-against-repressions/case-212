@@ -192,6 +192,7 @@
 | Лошаков Никита                     | Tech Lead                               |
 | Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
 | Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
+| Aleksandr Nazarov                  | Software Engineer, Facebook, New York   |
 | Усов Баларам                       | Разработчик и математик, Москва         |
 | Колкер Михаил                      | Lead backend developer, Zyfra           |
 | Лозко Роман                        | Security Researcher, Москва             |
