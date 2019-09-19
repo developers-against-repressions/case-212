@@ -10,7 +10,7 @@ One of the defendants in the “Moscow affair” is our colleague, Aidar Gubaidu
 
 Those events once again show the diversity of people affected by the political repressions: in 2019 in Russia, anyone can become a defendant in political affairs for anything and for nothing. You can learn more about the participants in the case on the [site dedicated to them](https://delo212.ru/arestanty).
 
-**Our only demand is to stop the political persecution of civilians, stop the fabricated criminal cases and release all those involved in the “mass riots**
+**Our only demand is to stop the political persecution of civilians, stop the fabricated criminal cases and release all those involved in the “mass riots“**
 
 1. Eugene Kovalenko
 2. Konstantin Kotov
@@ -30,7 +30,7 @@ We are calling up our colleagues not to stand aside and to support this letter.
 
 # How to sign
 
-You can do this by creating a file with a random name (preferably complex) in the `signed` folder. Put the following lines in the file: (each line is a separate person):
+You can do this by creating a file with a random name (preferably complex) in the `signed` folder. Put the following lines in the file (each line is a separate person):
 ```
 Last Name First Name | Position, company
 ```
