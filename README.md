@@ -222,3 +222,4 @@
 | Рябинин Сергей                     | Программист, Санкт-Петербург            |
 | Леонид Хмельницкий                 | DigitalAsset.Live                       |
 | Маша Будрите                       | Consultant Developer, Thoughtworks, Лондон |
+| Артем Тамоян                       | CTO, Vee Security                       |
