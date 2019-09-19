@@ -5,7 +5,7 @@ setup_git() {
   git config --global user.name "Travis CI"
 }
 
-commit_website_files() {
+git_commit_readme() {
   git checkout -b temp
   git add README.md
   git commit --message "Add a signature. Travis build: $TRAVIS_BUILD_NUMBER"
