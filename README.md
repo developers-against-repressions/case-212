@@ -192,8 +192,15 @@
 | Лошаков Никита                     | Tech Lead                               |
 | Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
 | Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
-| Соломатин Роман                    | Программист, Пермь                      |
 | Судаков Илья                       | Tech Lead, INVITE Software, Москва      |
+| Полховцев Владимир                 | Android Developer, dlg.im               |
+| Ростислав Василихин                | Software Engineer, Нижний Новгород      |
+| Смирнов Алексей                    | Инженер-программист, Екатеринбург       |
+| Александра Кубатиева               | NLP Developer, Санкт-Петербург          |
+| Коврова Аста                       | Fullstack developer, Санкт-Петербург    |
+| Кушнарева Екатерина                | HR, Abagy Robotic Systems               |
+| Валентин Гимранов                  | WEB-developer, Обнинск                  |
+| Ничипоренко Денис                  | Backend Developer                       |
 | Мария Чакчурина                    | Python back-end dev, Kaspersky, Moscow  |
 | Ряжских Алексей                    | .Net Developer, Санкт-Петербург         |
 | Михаил Смаль                       | Lead developer                          |
@@ -228,4 +235,4 @@
 | Романов Михаил                     | Frontend Developer, Comtravo            |
 | Васенков Максим                    | Ведущий программист, Этерон, Смоленск   |
 | Дмитрий Семьюшкин                  | Frontend Developer, Pleeco              |
-| Борис Стельмах                     | Web Developer                           |
+| Борис Стельмах                     | Web Developer                             |
