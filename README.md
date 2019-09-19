@@ -218,6 +218,7 @@
 | Михаил Смаль                       | Lead developer                          |
 | Михаил Самин                       | CEO, AudD, Москва                       |
 | Соломатин Роман                    | Программист, Пермь                      |
+| Гусак Никита                       | Backend developer, Tinkoff              |
 | Матвей Матвеев                     | Product Manager, Москва, Skyeng         |
 | Меркулов Алексей                   | Программист, JetBrains                  |
 | Мешков Александр                   | Data Scientist, Moscow                  |
