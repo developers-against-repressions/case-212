@@ -34,9 +34,9 @@ def load_signed():
                     )
 
                 if "old_list.txt" in filename:
-                    signed.append((m.group(1).strip(), m.group(2).strip()))
+                    signed.append((m.group(1).strip(), m.group(2).strip(), filename))
                 else:
-                    signed_new.add((m.group(1).strip(), m.group(2).strip()))
+                    signed_new.add((m.group(1).strip(), m.group(2).strip(), filename))
     for signature in signed_new:
     	signed.append(signature)
     return sorted(signed, key=lambda pair: hashlib.sha256(repr(pair).encode('utf-8')).hexdigest())
@@ -55,7 +55,17 @@ def update_readme(signed):
             else:
                 outp.write(line)
 
-
+def check_duplicates(signed):
+    i = 0
+    y = 1
+    while i < len(signed):
+        y = i + 1
+        while y < len(signed):
+            if signed[i][0] == signed[y][0]:
+                print(f'Suspected duplicates: {signed[i][2]} and {signed[y][2]}')
+            y += 1
+        i += 1
+                
 def main():
     signed = load_signed()
     update_readme(signed)
