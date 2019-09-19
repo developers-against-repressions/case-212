@@ -192,6 +192,7 @@
 | Лошаков Никита                     | Tech Lead                               |
 | Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
 | Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
+| Ряжских Дарья                      | Senior Android Developer, Malwarebytes  |
 | Судаков Илья                       | Tech Lead, INVITE Software, Москва      |
 | Полховцев Владимир                 | Android Developer, dlg.im               |
 | Ростислав Василихин                | Software Engineer, Нижний Новгород      |
