@@ -192,6 +192,7 @@
 | Лошаков Никита                     | Tech Lead                               |
 | Дмитрий Зворыкин                   | Аналитик, Glowbyte                      |
 | Аринко Екатерина                   | QA Engineer, Санкт-Петербург            |
+| Лозко Роман                        | Security Researcher, Москва             |
 | Кокарева Дария                     | Software Engineer, Санкт-Петербург      |
 | Прищепов Владислав                 | Product Manager, Yandex AppMetrica      |
 | Мельников Михаил                   | Программист, Волгоград                  |
