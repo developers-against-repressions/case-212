@@ -1671,3 +1671,4 @@
 | 1625 | Пахомов Артем                      | Team Lead, Larixon Classifieds          |
 | 1626 | Копылов Денис                      | Android developer, Stream, СПб          |
 | 1627 | Виктор Филинков                    | политзаключенный, senior developer c++  |
+| 1628 | Александр Аврорин                  | ИЯИ РАН                                 |
