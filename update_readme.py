@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 import os
 import re
@@ -9,10 +10,28 @@ class InvalidFileFormatException(Exception):
     pass
 
 def load_signed():
-    signed = []
-    signed_new = set()
-    pattern1 = re.compile(r'([^|]+)\|([^|]+)$')
-    pattern2 = re.compile(r'\s*\|([^|]+)\|([^|]+)\|\s*$')
+
+    signed_set  = set() # a set of tuples: ( name, other_info )
+
+    # nb: lines are already whitespace-stripped from both ends
+    sig_pattern_1 = r""" ([^|]+)    # name 
+                         \|         # separator
+                         ([^|]+)    # company, position etc
+                     """
+
+    # вариант с '|' - обрамлением: "old_list.txt" и некоторые другие
+    sig_pattern_2 = r""" \|         # left-sep
+                         ([^|]+)    # name 
+                         \|         # middle-separator
+                         ([^|]+)    # company, position etc
+                         \|         # right-sep
+                     """
+
+    ## pattern = re.compile( '%s | %s' % ( sig_pattern_1, sig_pattern_2 ), re.X )
+
+    pattern1 = re.compile( sig_pattern_1, re.VERBOSE )
+    pattern2 = re.compile( sig_pattern_2, re.VERBOSE )
+
 
     dir = 'signed'
     for basename in os.listdir(dir):
@@ -26,20 +45,18 @@ def load_signed():
                 line = line.strip()
                 if not line:
                     continue
-                m = re.match(pattern1, line) or re.match(pattern2, line)
-                if not m and line:
+
+                m = re.match(pattern1, line) or re.match(pattern2, line)                
+                if not m :
                     raise InvalidFileFormatException(
                         'File "%s", line %d: line does not follow the format:\n\t"%s"'
                         % (filename, i + 1, line)
                     )
 
-                if "old_list.txt" in filename:
-                    signed.append((m.group(1).strip(), m.group(2).strip()))
-                else:
-                    signed_new.add((m.group(1).strip(), m.group(2).strip()))
-    for signature in signed_new:
-    	signed.append(signature)
-    return sorted(signed, key=lambda pair: hashlib.sha256(repr(pair).encode('utf-8')).hexdigest())
+                signed_set.add((m.group(1).strip(), m.group(2).strip()))
+
+    signed_list = sorted(signed_set, key=lambda pair: hashlib.sha256(repr(pair).encode('utf-8')).hexdigest())    
+    return signed_list
 
 
 def write_signed(signed, outp):
