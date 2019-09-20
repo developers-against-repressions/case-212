@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 import os
 import re
@@ -11,8 +12,26 @@ class InvalidFileFormatException(Exception):
 def load_signed():
     signed = []
     signed_new = set()
-    pattern1 = re.compile(r'([^|]+)\|([^|]+)$')
-    pattern2 = re.compile(r'\s*\|([^|]+)\|([^|]+)\|\s*$')
+
+    # nb: lines are already whitespace-stripped from both ends
+    sig_pattern_1 = r""" ([^|]+)    # name 
+                         \|         # separator
+                         ([^|]+)    # company, position etc
+                     """
+
+    # вариант с '|' - обрамлением: "old_list.txt" и некоторые другие
+    sig_pattern_2 = r""" \|         # left-sep
+                         ([^|]+)    # name 
+                         \|         # middle-separator
+                         ([^|]+)    # company, position etc
+                         \|         # right-sep
+                     """
+
+    ## pattern = re.compile( '%s | %s' % ( sig_pattern_1, sig_pattern_2 ), re.X )
+
+    pattern1 = re.compile( sig_pattern_1, re.VERBOSE )
+    pattern2 = re.compile( sig_pattern_2, re.VERBOSE )
+
 
     dir = 'signed'
     for basename in os.listdir(dir):
