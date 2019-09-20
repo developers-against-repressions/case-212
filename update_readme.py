@@ -55,7 +55,7 @@ def load_signed():
 
                 signed_set.add((m.group(1).strip(), m.group(2).strip()))
 
-    signed_list = sorted(list( signed_set ), key=lambda pair: hashlib.sha256(repr(pair).encode('utf-8')).hexdigest())    
+    signed_list = sorted(signed_set, key=lambda pair: hashlib.sha256(repr(pair).encode('utf-8')).hexdigest())    
     return signed_list
 
 
