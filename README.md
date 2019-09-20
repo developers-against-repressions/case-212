@@ -1464,4 +1464,3 @@
 | 1418 | Алексей Маслаков                   | Frontend developer                      |
 | 1419 | Пахомов Артем                      | Team Lead, Larixon Classifieds          |
 | 1420 | Копылов Денис                      | Android developer, Stream, СПб          |
-| 1421 | Новиков Андрей                     | Lead developer, HCFB, Москва            |
