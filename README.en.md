@@ -31,6 +31,7 @@ We encourage our colleagues not to stand aside and to support this letter.
 # How to sign
 
 You can sign this letter by creating a file with a random name (an easy way to create a unique filename is to use *[GUID generator](https://www.guidgenerator.com/online-guid-generator.aspx)*) in the `signed` folder. Put the following lines in the file (each line represents a single person):
+
 ```
 Name Surname | Position, company
 ```

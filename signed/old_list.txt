@@ -14,7 +14,7 @@
 | Антонович Виктор                   | Программист, г. Волгоград               |
 | Дмитрий Норкин                     | Junior Researcher, RQC                  |
 | Дмитрий Костиков                   | Программист, г. Волгоград               |
-| Дмитрий Лапшин                     | Software Engineer                       |
+| Дмитрий Лапшин                     | Software Engineer, JetBrains            |
 | Овсянников Дмитрий                 | Product Owner, RCB LLC                  |
 | Сергей Стремидло                   | Web Developer                           |
 | Шангин Александр                   | Lead Developer, г. Самара               |
