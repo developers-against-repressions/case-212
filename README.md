@@ -1,6 +1,6 @@
 # Открытое письмо специалистов IT-индустрии в защиту фигурантов «московского дела»
 
-[English version](https://github.com/developers-against-repressions/case-212/blob/master/README.en.md)
+[English version](README.en.md)
 
 [27 июля 2019](https://ovdinfo.org/news/2019/07/27/miting-u-merii-moskvy-27-iyulya-2019-goda-i-ego-posledstviya-onlayn) люди вышли мирно, без оружия, чтобы выразить свое несогласие с [недопуском независимых кандидатов](https://www.bbc.com/russian/features-49127945) до выборов в Мосгордуму. Это событие стало поводом для того, чтобы инициировать новый виток политических репрессий и завести дело о «массовых беспорядках», фигурантами которого стали 13 человек.
 
