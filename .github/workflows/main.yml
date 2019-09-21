@@ -1,6 +1,9 @@
 name: sign
 
-on: [pull_request]
+on:
+  pull_request:
+    paths:
+      - 'signed/*'
 
 jobs:
   check:
@@ -15,7 +18,7 @@ jobs:
         script: |
           try {
             const { data: files } = await github.request(`${context.payload.pull_request.url}/files`)
-            const signs = files.filter(f => f.status === 'added' && f.filename.startsWith('signed/'))
+            const signs = files.filter(f => f.status === 'added')
             if (signs.length > 1)
               throw new Error('Just one file per PR allowed')
             
@@ -29,7 +32,7 @@ jobs:
               if (content.match(/\r|\n/g).length > 1)
                 throw new Error('Too many lines')
               
-              await github.issues.createComment({...context.issue, body: 'Спасибо за вашу гражданскую позицию! 🎉'})
+              await github.issues.createComment({...context.issue, body: 'Thanks for your signature! 🎉'})
               await github.issues.update({...context.issue, labels: []})
               await github.pulls.merge({...context.issue})
             }
