@@ -1,9 +1,0 @@
-language: python
-script:
-  - python update_readme.py
-after_success:
-  - chmod +x ./push.sh
-  - ./push.sh
-env:
-  global:
-    - secure: tn6ESYUiV6f100ZR5DP3cf7hS+ZRK8NbTC/xwT6XnnOsu9Cjc/o/abR0O29MB8ZG9TxmwSlnRwnb84C6FlN14bxApC/uu3emmKdWWK0QqgtPVrlZeDQUjlsPCk7cRQPSX2QxPzAD/mi4CqmmI23v46xNZ6TdMtNMjv1AdW8DCtT13GVDa9OEdWPqruksO3kUbh+LUF/b84fBuPrkQXIID0J1Lkt5HvtyB+2vwAslfkhILacpoalI6YDD/AoHQsedCJzvFltkAVJvF0sUwEeb3bBhx3ThIGY0cIkMWQ2BV8VwlIZJefUq7x6jpFZzrS0B6HHIncvjocV9h9umMAaRVejJasx3jZJhnYTxUWo/e3AXZKujwNyTkzzYn56kwraxqSSh1yJICgWD/z7B+73rYKjTMI6+0HvMiMY0QBna3T9MRWiTgJ2ZRkbWUHOsZZgJUrRNrSFNisio576fRjGQXpdDemjU7EZeMCw/pdDkPIEHZGuqiseLmBMbJR6FKKOQChG3PolTv2dvrJytHNaHbIUjgEm2KoqOcaypzSwwR6u/nnKUk4LrrbdzDVXXtzaKt6GXpKXCtqCaacpnoZZy0Zoo69YyyvkxNuYhSb/bGcDv/+Q/1g6MnsgttbnZFSEhXEXoMB8csdWqjs/Wl9a74d4JP6WnMKAGwmS1zZ5NNk8=

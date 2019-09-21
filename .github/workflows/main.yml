@@ -1,0 +1,60 @@
+name: sign
+
+on: [pull_request]
+
+jobs:
+  check:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/github-script@0.2.0
+      with:
+        github-token: ${{github.token}}
+        script: |
+          try {
+            const { data: files } = await github.request(`${context.payload.pull_request.url}/files`)
+            const signs = files.filter(f => f.status === 'added' && f.filename.startsWith('signed/'))
+            if (signs.length > 1)
+              throw new Error('Just one file per PR allowed')
+            
+            if (signs.length == 1) {
+              const { data: content } = await github.request(signs[0].raw_url)
+              const parts = content.split('|')
+              
+              if (parts.length != 2)
+                throw new Error('Incorrect sign format')
+
+              if (content.match(/\r|\n/g).length > 1)
+                throw new Error('Too many lines')
+
+              if (parts[0].length < 3)
+                throw new Error('Name is too short')
+                
+              if (parts[1].length < 3)
+                throw new Error('Job is too short')
+              
+              await github.issues.createComment({...context.issue, body: 'Спасибо за вашу гражданскую позицию! 🎉'})
+              await github.issues.update({...context.issue, labels: []})
+              await github.pulls.merge({...context.issue})
+            }
+          } catch(error) {
+            await github.issues.createComment({...context.issue, body: error.message})
+            await github.issues.update({...context.issue, labels: ['incorrect']})
+            throw 'build failed'
+          }
+
+  commit:
+    needs: check
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        ref: master
+    - name: Update README.md
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        python update_readme.py
+        bash push.sh
