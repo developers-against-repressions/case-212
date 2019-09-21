@@ -13,7 +13,7 @@ git_commit_readme() {
 }
 
 git_push() {
-  git remote add origin https://${GH_TOKEN}@github.com/developers-against-repressions/case-212.git > /dev/null 2>&1
+  git remote add origin https://${GH_TOKEN}:@github.com/developers-against-repressions/case-212.git > /dev/null 2>&1
   git push --quiet --set-upstream origin temp
 }
 
