@@ -27,7 +27,7 @@ jobs:
               const parts = content.split('|')
               
               if (parts.length != 2)
-                throw new Error('Incorrect sign format')
+                throw new Error('Too many vertical bars')
 
               if (content.match(/\r|\n/g).length > 1)
                 throw new Error('Too many lines')
@@ -36,7 +36,7 @@ jobs:
               await github.issues.update({...context.issue, labels: []})
               await github.pulls.merge({...context.issue})
             }
-          } catch(error) {
+          } catch (error) {
             await github.issues.createComment({...context.issue, body: error.message})
             await github.issues.update({...context.issue, labels: ['incorrect']})
             throw 'build failed'

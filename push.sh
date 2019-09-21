@@ -2,7 +2,7 @@
 
 setup_git() {
   git config --global user.email "bot@github.com"
-  git config --global user.name "Github Bot"
+  git config --global user.name "GitHub Bot"
 }
 
 git_commit_readme() {
