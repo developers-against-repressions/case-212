@@ -33,25 +33,11 @@ jobs:
                 throw new Error('Too many lines')
               
               await github.issues.createComment({...context.issue, body: 'Thanks for your signature! 🎉'})
-              await github.issues.update({...context.issue, labels: []})
-              await github.pulls.merge({...context.issue})
+              await github.issues.update({...context.issue, labels: ['correct']})
+              # await github.pulls.merge({...context.issue})
             }
           } catch (error) {
             await github.issues.createComment({...context.issue, body: error.message})
             await github.issues.update({...context.issue, labels: ['incorrect']})
             throw 'build failed'
           }
-
-  commit:
-    needs: check
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v1
-      with:
-        ref: master
-    - name: Update README.md
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        python update_readme.py
-        bash push.sh
