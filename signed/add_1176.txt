@@ -1,0 +1,40 @@
+Андрей Щербаков      | Backend Developer                                                        
+Николай Маслов       | Фрилансер                                                                
+Евгений Зобнин       | Фрилансер                                                                
+Илья Лесик           | OSS Developer, Tver.io                                                   
+Орлова Ксения        | координатор open data проектов, Москва                                   
+Малясова Виктория    | Data Scientist, Москва                                                   
+Бомбела Никита       | Junior Software Engineer                                                 
+Горобец Алексей      | Software Engineer                                                        
+Херолянц Георгий     | Senior Developer, Scentbird, Москва                                      
+Олег Шершень         | Technical Support Specialist                                             
+Лузанов Дмитрий      | Frontend developer, Ставрополь, E-QUIP                                   
+Артём Егоров         | Bioinformatician, the Laboratory of Systems Biology of Aging, MSU, Moscow
+Платонов Сергей      | Программист, Цуг                                                         
+Синяков Глеб         | Аналитик-Разработчик, Tinkoff, МФТИ                                      
+Подонин Николай      | Android Developer, e-Legion                                              
+Федоринова Ольга     | 1C Developer, Stockmann                                                  
+Пономарев Олег       | Выпускник МФТИ, Software Engineer, Google                                
+Нитрис Лилиан        | Data Architect, Moscow                                                   
+Дмитрий Першин       | CI Team Lead, Барнаул                                                    
+Яковлев Александр    | Программист, Москва                                                      
+Елизаров Никита      | iOS Developer, МТС ИТ, Иннополис                                         
+Стамбульцян Артур    | Frontend, Санкт-Петербург                                                
+Игорь Иванов         | Заведующий кафедрой ИТ, Белгород                                         
+Кудрявцев Денис      | Программист, Москва                                                      
+Коршиков Павел       | Java Developer, г. Санкт-Петербург                                       
+Грозовский Тимур     | Главный аналитик, Росбанк                                                
+Сергей Шиганов       | Software Engineer, Санкт-Петербург                                       
+Козлов Владимир      | Backend Developer, Липецк                                                
+Евгений Горошкин     | PHP/JS Разработчик, Красноярск                                           
+Соколов Алексей      | Android Developer, Dlg.im                                                
+Сидоров Пётр         | Программист                                                              
+Полухин Сергей       | Backend Developer, Санкт-Петербург                                       
+Барсегян Михаил      | Front-end разработчик                                                    
+Пономарев Вадим      | WebDeveloper, г. Челябинск                                               
+Поляков Павел        | Разработчик, Яндекс                                                      
+Егоров Владимир      | Data Quality specialist, S7                                              
+Жуковский Никита     | Front End Software Engineer, Москва                                      
+Шилкин Денис         | Senior Software Engineer, Gett RnD                                       
+Шеркунов Сергей      | Backend developer                                                        
+Сараев Иннокентий    | Frontend-developer, freelance                                            
