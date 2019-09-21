@@ -34,7 +34,6 @@ jobs:
               
               await github.issues.createComment({...context.issue, body: 'Thanks for your signature! 🎉'})
               await github.issues.update({...context.issue, labels: ['correct']})
-              # await github.pulls.merge({...context.issue})
             }
           } catch (error) {
             await github.issues.createComment({...context.issue, body: error.message})
