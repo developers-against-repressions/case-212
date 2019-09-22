@@ -1,6 +1,0 @@
-language: python
-script:
-  - python update_readme.py
-after_success:
-  - chmod +x ./push.sh
-  - ./push.sh

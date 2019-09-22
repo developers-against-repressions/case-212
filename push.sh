@@ -1,20 +1,20 @@
 #!/bin/sh
 
 setup_git() {
-  git config --global user.email "travis@travis-ci.org"
-  git config --global user.name "Travis CI"
+  git config --global user.email "bot@github.com"
+  git config --global user.name "GitHub Bot"
 }
 
 git_commit_readme() {
-  git checkout -b temp
   git add README.md
-  git add signed/
-  git commit --message "[ci skip] Add a signature. Travis build: $TRAVIS_BUILD_NUMBER"
+  git commit --message "README.md updated"
 }
 
 git_push() {
-  git remote add origin https://${GH_TOKEN}:@github.com/developers-against-repressions/case-212.git > /dev/null 2>&1
-  git push --quiet --set-upstream origin temp
+  git checkout -b master
+  git remote remove origin
+  git remote add origin https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+  git push origin HEAD
 }
 
 setup_git
