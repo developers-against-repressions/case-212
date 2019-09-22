@@ -24,16 +24,16 @@ jobs:
             
             if (signs.length == 1) {
               const { data: content } = await github.request(signs[0].raw_url)
-              const parts = content.split('|')
+              const valid = s => s.split('|').length == 2
               
-              if (parts.length != 2)
-                throw new Error('Too many vertical bars')
-
-              if (content.match(/\r|\n/g).length > 1)
-                throw new Error('Too many lines')
+              content.trim().split('\n').forEach(s => {
+                  if (!valid(s))
+                      throw new Error('Too many vertical bars')
+              })
               
               await github.issues.createComment({...context.issue, body: 'Thanks for your signature! 🎉'})
               await github.issues.update({...context.issue, labels: ['correct']})
+              // await github.pulls.merge({...context.issue})
             }
           } catch (error) {
             await github.issues.createComment({...context.issue, body: error.message})
