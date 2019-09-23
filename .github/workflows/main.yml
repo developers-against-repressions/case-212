@@ -1,17 +1,43 @@
-name: CI
+name: sign
 
-on: [push]
+on:
+  pull_request:
+    paths:
+      - 'signed/*'
 
 jobs:
-  build:
+  check:
 
     runs-on: ubuntu-latest
-    
+
     steps:
     - uses: actions/checkout@v1
-    - name: Run a one-line script
-      run: echo Hello, world!
-    - name: Run a multi-line script
-      run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
+    - uses: actions/github-script@0.2.0
+      with:
+        github-token: ${{github.token}}
+        script: |
+          try {
+            const { data: files } = await github.request(`${context.payload.pull_request.url}/files`)
+            const signs = files.filter(f => f.status === 'added')
+            if (signs.length > 0) {
+              const valid = s => s.split('|').length == 2
+              for (var i=0; i<signs.length; i++) {
+                const { data: content } = await github.request(signs[i].raw_url)
+                content.trim().split('\n').forEach(s => {
+                    if (!valid(s))
+                        throw new Error('Too many vertical bars')
+                })
+                //const re = /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i
+                //const [ dir, file ] = signs[i].filename.split('/')
+                //if (!re.test(file))
+                //  throw new Error('Incorrect file name. Please use [UUID](https://www.uuidgenerator.net/) as name of signature file')
+              }
+              await github.issues.createComment({...context.issue, body: 'Thanks for your signature! 🎉'})
+              await github.issues.update({...context.issue, labels: ['correct']})
+              // await github.pulls.merge({...context.issue})
+            } 
+          } catch (error) {
+            await github.issues.createComment({...context.issue, body: error.message})
+            await github.issues.update({...context.issue, labels: ['incorrect']})
+            throw 'build failed'
+          }

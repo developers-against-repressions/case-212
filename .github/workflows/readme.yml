@@ -1,0 +1,24 @@
+name: update_readme
+
+on:
+  push:
+    branches:    
+      - master
+    paths:
+      - 'signed/*'
+
+jobs:
+  commit:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        ref: master
+    - name: Update README.md
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        python update_readme.py
+        bash push.sh
