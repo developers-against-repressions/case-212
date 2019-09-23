@@ -1,4 +1,4 @@
-name: Update README.md
+name: update_readme
 
 on:
   push:
