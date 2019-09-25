@@ -32,8 +32,8 @@ jobs:
                 //if (!re.test(file))
                 //  throw new Error('Incorrect file name. Please use [UUID](https://www.uuidgenerator.net/) as name of signature file')
               }
-              await github.issues.createComment({...context.issue, body: 'Thanks for your signature! 🎉'})
-              await github.issues.update({...context.issue, labels: ['correct']})
+              //await github.issues.createComment({...context.issue, body: 'Thanks for your signature! 🎉'})
+              //await github.issues.update({...context.issue, labels: ['correct']})
               // await github.pulls.merge({...context.issue})
             } 
           } catch (error) {
